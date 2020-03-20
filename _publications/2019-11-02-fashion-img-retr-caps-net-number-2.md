@@ -2,10 +2,10 @@
 title: "Fashion Image Retrieval with Capsule Networks"
 collection: publications
 permalink: /publication/2019-11-02-fashion-img-retr-caps-net-number-2
-excerpt: 'Second Workshop on Computer Vision for Fashion, Art and Design'
+excerpt: ''
 date: 2019-11-02
-venue: 'ICCVW 2019'
-paperurl: 'http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Kinli_Fashion_Image_Retrieval_with_Capsule_Networks_ICCVW_2019_paper.pdf'
+venue: 'Second Workshop on Computer Vision for Fashion, Art and Design as part of ICCV Workshops'
+paperurl: '[PDF][http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Kinli_Fashion_Image_Retrieval_with_Capsule_Networks_ICCVW_2019_paper.pdf]'
 citation: 'F. Kinli, B. Ozcan and F. Kirac. Fashion Image Retrieval with Capsule Networks. In Proceedings of The IEEE International Conference on Computer Vision (ICCV) Workshops, Oct, 2019.'
 ---
 
