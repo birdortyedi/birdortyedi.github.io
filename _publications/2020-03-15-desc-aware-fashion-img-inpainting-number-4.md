@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2020-03-15-desc-aware-fashion-img-inpainting-number-4
 excerpt: ''
 date: 2020-03-15
-venue: '[6th International Conference on Computer and Technology Applications (ICCTA 2020, former ICCIT)][http://www.iccit.org]'
-paperurl: '[PDF](files/E1563.pdf)'
+venue: '6th International Conference on Computer and Technology Applications (ICCTA 2020, former ICCIT)'
+paperurl: ''
 citation: 'F. Kınlı, B. Özcan and F.Kıraç. Description-aware Fashion Image Inpainting with Convolutional Neural Networks in Coarse-to-Fine Manner. In Proceedings of 2020 6th International Conference on Computer and Technology Applications (ICCTA 2020, former ICCIT), Apr, 2020.'
 ---
 

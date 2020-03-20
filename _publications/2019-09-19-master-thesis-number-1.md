@@ -5,8 +5,8 @@ permalink: /publication/2019-09-19-master-thesis-number-1
 excerpt: 'Master's Thesis'
 date: 2019-09-19
 venue: 'Özyeğin University'
-paperurl: '[PDF][files/msc-thesis.pdf]'
-citation: 'F. Kinli. Clothing Image Retrieval with Triplet Capsule Networks. (Master’s thesis, Özyeğin University, Istanbul, Turkey), 2019.'
+paperurl: ''
+citation: 'F. Kinli. Clothing Image Retrieval with Triplet Capsule Networks. (M.Sc. thesis, Özyeğin University, Istanbul, Turkey), 2019.'
 ---
 
 ## Abstract
