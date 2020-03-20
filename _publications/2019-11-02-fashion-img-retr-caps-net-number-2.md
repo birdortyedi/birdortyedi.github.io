@@ -15,4 +15,7 @@ In this study, we investigate in-shop clothing retrieval performance of densely-
 
 [PDF](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Kinli_Fashion_Image_Retrieval_with_Capsule_Networks_ICCVW_2019_paper.pdf) | 
 [Code](https://github.com/birdortyedi/image-retrieval-with-capsules) |
-Poster
+[Poster][iccv-poster]
+
+
+[iccv-poster]: files/iccv_poster.pptx
