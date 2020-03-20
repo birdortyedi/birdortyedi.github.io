@@ -27,9 +27,9 @@ applications of generative modeling, fashion image understanding and capsule net
 was accepted to [6th International Conference on Computer and Technology Applications (ICCTA 2020, former ICCIT)][iccta].
 
 *   February 1, 2020. A paper titled ["FashionCapsNet: Clothing Classification with Capsule Networks"][fashioncapsnet]
-was published in [International Journal of Informatics Technologies][ijit]
+was published in [International Journal of Informatics Technologies][ijit].
 
-*   December 24, 2019. I gave a talk on recent advances in computer vision as part of SEC405 Panel at [Özyeğin University][ozu] 
+*   December 24, 2019. I gave a talk on recent advances in computer vision as part of SEC405 Panel at [Özyeğin University][ozu].
 
 *   November 2, 2019. A paper titled ["Fashion Image Retrieval with Capsule Networks"][fircn] was presented in [Second Workshop on 
 Computer Vision for Fashion, Art and Design][iccv-workshop] as part of ICCV 2019 Workshops.
