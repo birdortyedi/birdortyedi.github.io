@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Furkan Kınlı"
+title: "Furkan Kınlı #147 - He lå e loi la"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
