@@ -5,7 +5,7 @@ permalink: /publication/2020-02-01-fashioncapsnet-journal-number-3
 excerpt: ''
 date: 2020-02-01
 venue: 'International Journal of Informatics Technologies'
-paperurl: 'https://dergipark.org.tr/en/download/article-file/952493'
+paperurl: ''
 citation: 'KINLI, F , KIRAÇ, F . (2020). FashionCapsNet: Clothing Classification with Capsule Networks. Bilişim Teknolojileri Dergisi , 13 (1) , 87-96 . DOI: 10.17671/gazibtd.580222'
 ---
 
