@@ -1,11 +1,8 @@
 ---
-permalink: /
+permalink: /contact
 title: "Contact"
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /contact/
-  - /contact.html
 ---
 
 Computer Science Department, Özyeğin University
