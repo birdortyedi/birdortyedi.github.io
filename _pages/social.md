@@ -26,7 +26,9 @@ I am a fan of basketball, especially NBA. Go NOLA!
 
 I am really mad on Eurovision Song Contest. I follow the contest, songs and magazine on it for every year.
 
-I have huge playlists for ESC songs on Spotify. Playlists: [2020][link_20] (cancelled due to COVID-19 threat) [2019][link_19] | [2018][link_18] | [2017][link_17] | [2016][link_16] | [2015 and older][link_15]
+I have huge playlists for ESC songs on Spotify. 
+
+Playlists: [2020][link_20] | [2019][link_19] | [2018][link_18] | [2017][link_17] | [2016][link_16] | [2015 and older][link_15]
 
 I am individual-licensed player for Billiards and also, I am the instructor of two Billiards courses at Özyeğin University. Snooker and Neil Robertson have something special for me and I pursue them sensually.
 
