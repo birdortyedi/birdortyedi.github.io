@@ -18,5 +18,5 @@ Clothing image retrieval has become more important after some major developments
 [Code](https://github.com/birdortyedi/image-retrieval-with-capsules) |
 [Slides][msc-slides]
 
-[msc-thesis]: files/msc-thesis.pdf
-[msc-slides]: files/msc-def-slides.pdf
+[msc-thesis]: https://birdortyedi.github.io/files/msc-thesis.pdf
+[msc-slides]: https://birdortyedi.github.io/files/msc-def-slides.pdf

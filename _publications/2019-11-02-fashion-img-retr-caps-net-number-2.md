@@ -18,4 +18,4 @@ In this study, we investigate in-shop clothing retrieval performance of densely-
 [Poster][iccv-poster]
 
 
-[iccv-poster]: files/iccv_poster.pptx
+[iccv-poster]: https://birdortyedi.github.io/files/iccv_poster.pptx
