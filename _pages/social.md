@@ -83,4 +83,4 @@ Games:
 [link_git]: https://github.com/birdortyedi
 [link_twitter]: https://twitter.com/birdortyedi
 [link_linkedin]: https://www.linkedin.com/in/furkan-k%C4%B1nl%C4%B1-4b5648116/
-[alex]: images/alex.JPG
+[alex]: https://birdortyedi.github.io/images/alex.JPG
