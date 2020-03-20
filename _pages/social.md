@@ -24,13 +24,13 @@ I have a cat which is named "Alex". I got inspired by Alex de Souza who are a go
 
 I am a fan of basketball, especially NBA. Go NOLA!
 
-I am really mad on Eurovision Song Contest. I follow the contest, songs and magazine on it for every year. I have huge playlists for ESC songs on Spotify. 
+I am really mad on Eurovision Song Contest. I follow the contest, songs and magazine on it for every year. I follow huge ESC playlists on Spotify. 
 
 Playlists | [2020][link_20] | [2019][link_19] | [2018][link_18] | [2017][link_17] | [2016][link_16] | [2015 and older][link_15]
 
 I am individual-licensed player for Billiards and also, I am the instructor of two Billiards courses at Özyeğin University. Snooker and Neil Robertson have something special for me and I pursue them sensually.
 
-Recommedations:
+Recommendations:
 
 Series:
 
@@ -74,11 +74,11 @@ Games:
 *   NBA 2K
 
 
-[link_15]: https://open.spotify.com/playlist/3lMqUAdD69rPG22hAq0WAt?si=EkqKI7wyQS69snKMxY0sKA
-[link_16]: https://open.spotify.com/playlist/5uT5tkCHJdhmE9vfOddKNg?si=Tkc6R9UuSvWGfEs9qDeVYg
-[link_17]: https://open.spotify.com/playlist/5xGzwUtwRLbvSiRE8ky0ya?si=NG8JTpwqT4yQYDb7o5zeVw
-[link_18]: https://open.spotify.com/playlist/5RP1JqXHsoPUBlRJopr0w9?si=qAShb-vnQ5ia_vdpvmHXNw
-[link_19]: https://open.spotify.com/playlist/37i9dQZF1DWVCKO3xAlT1Q?si=MvbIdM21SXK51eA3IULJWw
+[link_15]: https://open.spotify.com/playlist/5iyfPnZqWnOiob2jxOnXLU?si=UNvvTjfCRci6sfEt6AC6_A
+[link_16]: https://open.spotify.com/playlist/0VEtwmjx3FK77jWLlI16EV?si=9CIs94hmQyyuis7QU6zyPg
+[link_17]: https://open.spotify.com/playlist/6Ey20ccpxRCd0AlaIuGJrB?si=dZs4fOXWT4O14isj-EUZag
+[link_18]: https://open.spotify.com/playlist/5sxwk5T34E2l2Ng02lipHS?si=T_guMavBRWWxs4nX5lIxdg
+[link_19]: https://open.spotify.com/playlist/3ZdQUt8Tmtt7oOU8UM2koe?si=cqGfCB4gSmiL6gC6X0RsXQ
 [link_20]: https://open.spotify.com/playlist/37i9dQZF1DWVCKO3xAlT1Q?si=xihsYgOHQ2quQr0wECxs3Q
 [link_git]: https://github.com/birdortyedi
 [link_twitter]: https://twitter.com/birdortyedi
