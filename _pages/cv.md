@@ -9,43 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
+Objective
+=====
+* Being kind.
+* Doing my parents proud on me.
+* Doing researches on Computer Vision and Deep Learning to improve my academic career.
+* Being successful computer scientist in my further career.<br>
+* Share my knowledge with anyone I can reach.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Computer Science in Engineering, Özyeğin University, 2012 - 2018
+* M.Sc. in Computer Science, Özyeğin University, 2018 - 2019
+* Ph.D. in Computer Science, Özyeğin University, 2019 - Present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant, Feb 2019 - Present
+  * Özyeğin University
+  * Computer Science Department
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Machine Learning Engineer, Aug 2018 - Jan 2019
+  * eBay Turkey, GittiGidiyor
+  * R&D Team
+  
+* Software Engineer, Jun 2018 - Aug 2018
+  * Türk Telekom A.Ş.
+  * Business Intelligence & Data Team
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python - C++ - Java
+* PyTorch - Keras
+* OpenCV - Kornia
+* Cloud Services (GC, AWS, IBM Cloud)
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -54,6 +56,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Academic Services
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer, Elsevier Digital Signal Processing
