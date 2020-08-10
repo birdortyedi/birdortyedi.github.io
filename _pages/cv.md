@@ -23,8 +23,12 @@ Education
 * M.Sc. in Computer Science, Özyeğin University, 2018 - 2019
 * Ph.D. in Computer Science, Özyeğin University, 2019 - Present
 
-Work experience
+Experience
 ======
+* Co-Founder, Sep 2019 - Present
+  * T-Fashion
+  * Fashion Trend Forecasting
+  
 * Research Assistant, Feb 2019 - Present
   * Özyeğin University
   * Computer Science Department
@@ -50,12 +54,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!---
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+ -->
   
 Academic Services
 ======
 * Reviewer, Elsevier Digital Signal Processing
+* Reviewer, AIM Workshop at ECCV2020

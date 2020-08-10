@@ -15,15 +15,17 @@ redirect_from:
 *   I am a Ph.D. student in [Computer Science Department][ozu-cs] at [Özyeğin University][ozu],
 advised by [Asst. Prof. Furkan Kıraç][fkirac].
 
-*   I recieved my B.Sc. and M.Sc. degrees in [Özyeğin University][ozu], (YES, Triple crown!).
+*   I received my B.Sc. and M.Sc. degrees in [Özyeğin University][ozu], (YES, Triple crown!).
 
 *   My research interests focus on the general area of computer vision, particularly using deep learning approaches, as well as the
 applications of generative modeling, fashion image understanding and capsule networks.
 
 
 ### Recent News
+*   August 06, 2020. A paper titled "A Benchmark for Inpainting of Clothing Images with Irregular Holes" was accepted to 
+[AIM2020: Advanced Image Manipulation workshop and challenges at ECCV2020][aim2020]
 
-*   March 15, 2020. A paper titled "Description-aware Fashion Image Inpainting with Convolutional Neural Networks in Coarse-to-Fine Manner"
+*   March 15, 2020. A paper titled ["Description-aware Fashion Image Inpainting with Convolutional Neural Networks in Coarse-to-Fine Manner"][dafii]
 was accepted to [6th International Conference on Computer and Technology Applications (ICCTA 2020, former ICCIT)][iccta].
 
 *   February 1, 2020. A paper titled ["FashionCapsNet: Clothing Classification with Capsule Networks"][fashioncapsnet]
@@ -44,6 +46,7 @@ Computer Vision for Fashion, Art and Design][iccv-workshop] as part of ICCV 2019
 ### Academic Services
 
 * Reviewer, Elsevier Digital Signal Processing
+* Reviewer, AIM2020 Workshop at ECCV2020
 
 
 [me]: images/logo.jpg
@@ -51,9 +54,11 @@ Computer Vision for Fashion, Art and Design][iccv-workshop] as part of ICCV 2019
 [ozu]: https://www.ozyegin.edu.tr/en/
 [fkirac]: https://scholar.google.com/citations?user=kdJBxv8AAAAJ
 [iccta]: http://www.iccit.org
+[dafii]: https://dl.acm.org/doi/abs/10.1145/3397125.3397155
 [ijit]: https://dergipark.org.tr/en/pub/gazibtd
 [fashioncapsnet]: https://dergipark.org.tr/en/download/article-file/952493
 [iccv-workshop]: https://sites.google.com/view/cvcreative/home
+[aim2020]: https://data.vision.ee.ethz.ch/cvl/aim20/
 [fircn]: http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Kinli_Fashion_Image_Retrieval_with_Capsule_Networks_ICCVW_2019_paper.pdf
 [msc-thesis]: files/msc-thesis.pdf
 [msi]: https://tr.msi.com/index.php
