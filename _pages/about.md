@@ -22,6 +22,8 @@ applications of generative modeling, fashion image understanding and capsule net
 
 
 ### Recent News
+*   October 11, 2020. A paper titled "Quaternion Capsule Networks" was accepted to [25th International Conference on Pattern Recognition][icpr2020].
+
 *   August 06, 2020. A paper titled "A Benchmark for Inpainting of Clothing Images with Irregular Holes" was accepted to 
 [AIM2020: Advanced Image Manipulation workshop and challenges at ECCV2020][aim2020]
 
@@ -59,6 +61,7 @@ Computer Vision for Fashion, Art and Design][iccv-workshop] as part of ICCV 2019
 [fashioncapsnet]: https://dergipark.org.tr/en/download/article-file/952493
 [iccv-workshop]: https://sites.google.com/view/cvcreative/home
 [aim2020]: https://data.vision.ee.ethz.ch/cvl/aim20/
+[icpr2020]: http://www.icpr2020.it/
 [fircn]: http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Kinli_Fashion_Image_Retrieval_with_Capsule_Networks_ICCVW_2019_paper.pdf
 [msc-thesis]: files/msc-thesis.pdf
 [msi]: https://tr.msi.com/index.php
