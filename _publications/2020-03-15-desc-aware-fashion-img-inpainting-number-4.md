@@ -15,7 +15,8 @@ Inpainting a particular missing region in an image is a challenging vision task,
 
 [PDF][iccta-paper] |
 [Code](https://github.com/birdortyedi/description-aware-fashion-inpainting) |
-[Poster][iccta-poster]
+[Poster][iccta-poster] |
+[bibtex](_bibtex/desc-aware-fashion-img-inpainting.md)
 
 [iccta-paper]: https://birdortyedi.github.io/files/E1563.pdf
 [iccta-poster]: https://birdortyedi.github.io/files/iccta-poster.key

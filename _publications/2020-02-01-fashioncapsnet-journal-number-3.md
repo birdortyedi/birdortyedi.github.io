@@ -14,4 +14,5 @@ Convolutional Neural Networks (CNNs) are one of the most commonly used architect
 
 
 [PDF](https://dergipark.org.tr/en/download/article-file/952493) |
-[Code](https://github.com/birdortyedi/fashion-caps-net)
+[Code](https://github.com/birdortyedi/fashion-caps-net) |
+[bibtex](_bibtex/fashioncapsnet-journal.md)

@@ -1,10 +1,10 @@
 ---
-title: "Clothing Image Retrieval with Triplet Capsule Networks"
+title: "Clothing Image Retrieval with Triplet Capsule Networks / A Thesis"
 collection: publications
 permalink: /publication/2019-09-19-master-thesis-number-1
-excerpt: "Master's Thesis"
+excerpt: ""
 date: 2019-09-19
-venue: 'Özyeğin University'
+venue: "Master's Thesis, Özyeğin University"
 paperurl: ''
 citation: "F. Kinli. Clothing Image Retrieval with Triplet Capsule Networks. (Master's thesis, Özyeğin University, Istanbul, Turkey), 2019."
 ---
@@ -16,6 +16,7 @@ Clothing image retrieval has become more important after some major developments
 
 [PDF][msc-thesis] |
 [Code](https://github.com/birdortyedi/image-retrieval-with-capsules) |
+[Page](http://discover.ozyegin.edu.tr/iii/encore/record/C__Rb3781665?lang=eng) |
 [Slides][msc-slides]
 
 [msc-thesis]: https://birdortyedi.github.io/files/msc-thesis.pdf
