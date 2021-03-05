@@ -15,8 +15,27 @@ Inpainting a particular missing region in an image is a challenging vision task,
 
 [PDF][iccta-paper] |
 [Code](https://github.com/birdortyedi/description-aware-fashion-inpainting) |
-[Poster][iccta-poster] |
-[bibtex](_bibtex/desc-aware-fashion-img-inpainting.html)
+[Poster][iccta-poster] 
+
+Bibtex:
+```
+@inproceedings{10.1145/3397125.3397155,
+               author = {K\i{}nl\i{}, Furkan and \"{O}zcan, Bar\i{}\c{s} and K\i{}ra\c{c}, Furkan},
+               title = {Description-Aware Fashion Image Inpainting with Convolutional Neural Networks in Coarse-to-Fine Manner},
+               year = {2020},
+               isbn = {9781450377492},
+               publisher = {Association for Computing Machinery},
+               address = {New York, NY, USA},
+               url = {https://doi.org/10.1145/3397125.3397155},
+               doi = {10.1145/3397125.3397155},
+               booktitle = {Proceedings of the 2020 6th International Conference on Computer and Technology Applications},
+               pages = {74–79},
+               numpages = {6},
+               keywords = {image reconstruction, multi-modal neural networks, image inpainting, generative learning, fashion analysis, deep learning},
+               location = {Antalya, Turkey},
+               series = {ICCTA '20}
+               }
+```
 
 [iccta-paper]: https://birdortyedi.github.io/files/E1563.pdf
 [iccta-poster]: https://birdortyedi.github.io/files/iccta-poster.key

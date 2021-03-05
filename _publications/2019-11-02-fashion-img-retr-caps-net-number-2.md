@@ -15,8 +15,19 @@ In this study, we investigate in-shop clothing retrieval performance of densely-
 
 [PDF](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Kinli_Fashion_Image_Retrieval_with_Capsule_Networks_ICCVW_2019_paper.pdf) | 
 [Code](https://github.com/birdortyedi/image-retrieval-with-capsules) |
-[Poster][iccv-poster] |
-[bibtex](_bibtex/fashion-img-retr-caps-net.html)
+[Poster][iccv-poster] 
+
+Bibtex:
+```
+@InProceedings{Kinli_2019_ICCV_Workshops,
+               author = {Kinli, Furkan and Ozcan, Baris and Kirac, Furkan},
+               title = {Fashion Image Retrieval with Capsule Networks},
+               booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+               month = {Oct},
+               year = {2019}
+               }
+```
+
 
 
 [iccv-poster]: https://birdortyedi.github.io/files/iccv_poster.pptx

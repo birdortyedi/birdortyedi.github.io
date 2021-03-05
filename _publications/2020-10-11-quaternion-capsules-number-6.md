@@ -17,6 +17,8 @@ Capsules are grouping of neurons that allow to represent sophisticated informati
 <!---[bibtex](_bibtex/quaternion-capsules.html)-->
 <!---| [Poster][icpr-poster?oral]-->
 
+
+Bibtex:
 ```
 @misc{zcan2020quaternion, 
       title={Quaternion Capsule Networks}, 

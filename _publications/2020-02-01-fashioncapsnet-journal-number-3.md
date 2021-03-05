@@ -14,5 +14,21 @@ Convolutional Neural Networks (CNNs) are one of the most commonly used architect
 
 
 [PDF](https://dergipark.org.tr/en/download/article-file/952493) |
-[Code](https://github.com/birdortyedi/fashion-caps-net) |
-[bibtex](_bibtex/fashioncapsnet-journal.html)
+[Code](https://github.com/birdortyedi/fashion-caps-net)
+
+Bibtex:
+```
+@article{gazibtd580222,
+	     journal = {Bilişim Teknolojileri Dergisi},
+	     issn = {1307-9697},
+	     eissn = {2147-0715},
+	     publisher = {Gazi Üniversitesi},
+	     year = {2020},
+	     volume = {13},
+	     pages = {87 - 96},
+	     doi = {10.17671/gazibtd.580222},
+	     title = {FashionCapsNet: Clothing Classification with Capsule Networks},
+	     key = {cite},
+	     author = {Kınlı,  Furkan and Kıraç,  Furkan}
+         }
+```
