@@ -14,7 +14,7 @@ Fashion image understanding is an active research field with a large number of p
 
 [Pre-print][aim-pre-print] |
 [Code](https://github.com/birdortyedi/fashion-image-inpainting) |
-[bibtex](_bibtex/fashion-image-inpainting.md)
+[bibtex](_bibtex/fashion-image-inpainting.html)
 <!---| [Poster][aim-poster]-->
 
 [aim-pre-print]: https://arxiv.org/pdf/2007.05080.pdf

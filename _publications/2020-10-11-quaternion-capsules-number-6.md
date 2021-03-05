@@ -14,7 +14,7 @@ Capsules are grouping of neurons that allow to represent sophisticated informati
 
 [Pre-print][icpr-pre-print] |
 [Code](https://github.com/Boazrciasn/Quaternion-Capsule-Networks) |
-[bibtex](_bibtex/quaternion-capsules.md)
+[bibtex](_bibtex/quaternion-capsules.html)
 <!---| [Poster][icpr-poster?oral]-->
 
 [icpr-pre-print]: https://arxiv.org/pdf/2007.04389.pdf
