@@ -66,3 +66,5 @@ Academic Services
 ======
 * Reviewer, Elsevier Digital Signal Processing
 * Reviewer, AIM Workshop at ECCV2020
+* Reviewer, NTIRE 2021 New Trends in Image Restoration and Enhancement workshop
+and challenges on image and video processing at CVPR 2021
