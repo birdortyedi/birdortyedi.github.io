@@ -1,3 +1,4 @@
+---
 title: "Re: Spatial-Adaptive Network for Single Image Denoising"
 collection: publications
 permalink: /publication/2021-04-01-sadnet-img-denoising-number-7
@@ -5,7 +6,7 @@ excerpt: ''
 date: 2021-04-01
 venue: 'ML Reproducibility Challenge 2020, Accepted to ReScience Journal Publication'
 paperurl: ''
-citation: 'Özcan, B., Kınlı, F. & Kıraç, F. (2020). Quaternion Capsule Networks. arXiv preprint arXiv:2007.04389.'
+citation: 'Mentes, S., Kınlı, F., Özcan, B. & Kıraç, F. (2021). [Re] Spatial-Adaptive Network for Single Image Denoising. ML Reproducibility Challenge 2020. https://openreview.net/forum?id=yiAI9QN9nYt'
 ---
 
 ## Abstract

@@ -1,3 +1,4 @@
+---
 title: "Re: VCNet: A Robust Approach to Blind Image Inpainting"
 collection: publications
 permalink: /publication/2021-04-01-vcnet-img-inpainting-number-8
