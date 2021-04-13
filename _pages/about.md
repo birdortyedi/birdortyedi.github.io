@@ -22,13 +22,20 @@ applications of generative modeling, fashion image understanding and capsule net
 
 
 ### Recent News
+*   April 13, 2021. I gave a talk on recent advances in computer vision as part of SEC405 Panel at [Özyeğin University][ozu].
+    
+*   April 11, 2021. A paper titled "Instagram Filter Removal on Fashionable Images" was accepted to 
+[NTIRE2021: New Trends in Image Restoration and Enhancement workshop
+and challenges on image and video processing
+in conjunction with CVPR 2021][ntire2021].
+    
 *   April 01, 2021. We submitted 2 reproduction reports to ML Reproducibility Challenge 2020, and one report titled 
     "[Re]: Spatial-Adaptive Network for Single Image Denoising" was accepted to [ReScience Journal][rescience] Publication.
 
 *   October 11, 2020. A paper titled "Quaternion Capsule Networks" was accepted to [25th International Conference on Pattern Recognition][icpr2020].
 
 *   August 06, 2020. A paper titled "A Benchmark for Inpainting of Clothing Images with Irregular Holes" was accepted to 
-[AIM2020: Advanced Image Manipulation workshop and challenges at ECCV2020][aim2020]
+[AIM2020: Advanced Image Manipulation workshop and challenges at ECCV2020][aim2020].
 
 *   March 15, 2020. A paper titled ["Description-aware Fashion Image Inpainting with Convolutional Neural Networks in Coarse-to-Fine Manner"][dafii]
 was accepted to [6th International Conference on Computer and Technology Applications (ICCTA 2020, former ICCIT)][iccta].
@@ -66,6 +73,7 @@ and challenges on image and video processing at CVPR 2021
 [fashioncapsnet]: https://dergipark.org.tr/en/download/article-file/952493
 [iccv-workshop]: https://sites.google.com/view/cvcreative/home
 [aim2020]: https://data.vision.ee.ethz.ch/cvl/aim20/
+[ntire2021]: https://data.vision.ee.ethz.ch/cvl/ntire21/
 [icpr2020]: http://www.icpr2020.it/
 [rescience]: http://rescience.org/x
 [fircn]: http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Kinli_Fashion_Image_Retrieval_with_Capsule_Networks_ICCVW_2019_paper.pdf
