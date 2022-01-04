@@ -19,26 +19,31 @@ Objective
 
 Education
 ======
-* B.Sc. in Computer Science in Engineering, Özyeğin University, 2012 - 2018
-* M.Sc. in Computer Science, Özyeğin University, 2018 - 2019
+
 * Ph.D. in Computer Science, Özyeğin University, 2019 - Present
+* M.Sc. in Computer Science, Özyeğin University, 2018 - 2019
+* B.Sc. in Computer Science in Engineering, Özyeğin University, 2012 - 2018
 
 Experience
 ======
-* Co-Founder, Sep 2019 - Present
-  * T-Fashion
+* Co-Founder & Lead AI Engineer, Sep 2019 - Present
+  * T-Fashion @ Istanbul, Turkey & Toronto, Canada
   * Fashion Trend Forecasting
   
 * Research Assistant, Feb 2019 - Present
-  * Özyeğin University
+  * Özyeğin University @ Istanbul, Turkey
   * Computer Science Department
 
+* Computer Vision Research Engineer, Jun 2020 - Aug 2021
+  * Fishency Innovation @ Stavanger, Norway
+  * Contract-based
+
 * Machine Learning Engineer, Aug 2018 - Jan 2019
-  * eBay Turkey, GittiGidiyor
+  * eBay Turkey, GittiGidiyor @ Istanbul, Turkey
   * R&D Team
   
 * Software Engineer, Jun 2018 - Aug 2018
-  * Türk Telekom A.Ş.
+  * Türk Telekom A.Ş. @ Istanbul, Turkey
   * Business Intelligence & Data Team
   
 Skills
@@ -68,3 +73,4 @@ Academic Services
 * Reviewer, AIM Workshop at ECCV2020
 * Reviewer, NTIRE 2021 New Trends in Image Restoration and Enhancement workshop
 and challenges on image and video processing at CVPR 2021
+* Reviewer, IEEE/CAA Journal of Automatica Sinica
