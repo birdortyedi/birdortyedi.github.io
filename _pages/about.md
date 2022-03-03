@@ -9,10 +9,11 @@ redirect_from:
 ---
 ![][me]
 
+**Looking for the opportunities for Research Internship or Visiting Researcher positions.**
 
 ### About Me
 
-*   I am a Ph.D. student in [Computer Science Department][ozu-cs] at [Özyeğin University][ozu],
+*   I am a Ph.D. Candidate in [Computer Science Department][ozu-cs] at [Özyeğin University][ozu],
 advised by [Asst. Prof. Furkan Kıraç][fkirac].
 
 *   I received my B.Sc. and M.Sc. degrees in [Özyeğin University][ozu], (YES, Triple crown!).
@@ -63,6 +64,8 @@ Computer Vision for Fashion, Art and Design][iccv-workshop] as part of ICCV 2019
 ### Academic Services
 
 * Reviewer, Elsevier Digital Signal Processing
+* Reviewer, IEEE/CAA Journal of Automatica Sinica
+* Reviewer, Journal of Experimental & Theoretical Artificial Intelligence
 * Reviewer, AIM2020 Workshop at ECCV2020
 * Reviewer, NTIRE 2021 New Trends in Image Restoration and Enhancement workshop
 and challenges on image and video processing at CVPR 2021

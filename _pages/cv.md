@@ -70,7 +70,8 @@ Teaching
 Academic Services
 ======
 * Reviewer, Elsevier Digital Signal Processing
-* Reviewer, AIM Workshop at ECCV2020
+* Reviewer, IEEE/CAA Journal of Automatica Sinica
+* Reviewer, Journal of Experimental & Theoretical Artificial Intelligence
+* Reviewer, AIM2020 Workshop at ECCV2020
 * Reviewer, NTIRE 2021 New Trends in Image Restoration and Enhancement workshop
 and challenges on image and video processing at CVPR 2021
-* Reviewer, IEEE/CAA Journal of Automatica Sinica
