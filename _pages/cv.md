@@ -75,3 +75,6 @@ Academic Services
 * Reviewer, AIM2020 Workshop at ECCV2020
 * Reviewer, NTIRE 2021 New Trends in Image Restoration and Enhancement workshop
 and challenges on image and video processing at CVPR 2021
+* Reviewer, 30th IEEE Conference on Signal Processing and Communications Applications
+* Reviewer, NTIRE 2022 New Trends in Image Restoration and Enhancement workshop
+and challenges on image and video processing at CVPR 2022
