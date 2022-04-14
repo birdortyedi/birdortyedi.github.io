@@ -24,6 +24,13 @@ applications of generative modeling, image-to-image translation, image restorati
 
 ### Recent News
 
+* April 11, 2022. We submitted 1 reproduction report to [ML Reproducibility Challenge 2021][reprod2021], and this report titled 
+"[Re] Lifting 2D StyleGAN for 3D-Aware Face Generation" was accepted to [ReScience Journal][rescience] Publication.
+
+* March 31, 2022. We take the 4th place in "Night Photography Rendering Challenge" at [NTIRE2022: New Trends in Image Restoration and Enhancement workshop
+and challenges on image and video processing
+in conjunction with CVPR 2021][ntire2022].
+
 * January 05, 2022. I successfully passed Ph.D. Qualification Exam.
 
 * December 28, 2021. As [T-Fashion][tfashion], we have re-located the company base to Toronto, Canada after the seed investment.
@@ -35,7 +42,7 @@ applications of generative modeling, image-to-image translation, image restorati
 and challenges on image and video processing
 in conjunction with CVPR 2021][ntire2021].
     
-* April 01, 2021. We submitted 2 reproduction reports to ML Reproducibility Challenge 2020, and one report titled 
+* April 01, 2021. We submitted 2 reproduction reports to [ML Reproducibility Challenge 2020][reprod2020], and one report titled 
     "[Re]: Spatial-Adaptive Network for Single Image Denoising" was accepted to [ReScience Journal][rescience] Publication.
 
 * October 11, 2020. A paper titled "Quaternion Capsule Networks" was accepted to [25th International Conference on Pattern Recognition][icpr2020].
@@ -85,9 +92,12 @@ and challenges on image and video processing at CVPR 2022
 [iccv-workshop]: https://sites.google.com/view/cvcreative/home
 [aim2020]: https://data.vision.ee.ethz.ch/cvl/aim20/
 [ntire2021]: https://data.vision.ee.ethz.ch/cvl/ntire21/
+[ntire2022]: https://data.vision.ee.ethz.ch/cvl/ntire22/
 [icpr2020]: http://www.icpr2020.it/
 [rescience]: http://rescience.org/x
 [fircn]: http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Kinli_Fashion_Image_Retrieval_with_Capsule_Networks_ICCVW_2019_paper.pdf
 [msc-thesis]: files/msc-thesis.pdf
 [msi]: https://tr.msi.com/index.php
 [tfashion]: https://tfashion.ai
+[reprod2020]: https://paperswithcode.com/rc2020
+[reprod2021]: https://openreview.net/group?id=ML_Reproducibility_Challenge/2021/Fall
