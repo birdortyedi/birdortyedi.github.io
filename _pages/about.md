@@ -27,7 +27,7 @@ applications of generative modeling, image-to-image translation, image restorati
 * April 11, 2022. We submitted 1 reproduction report to [ML Reproducibility Challenge 2021][reprod2021], and this report titled 
 "[Re] Lifting 2D StyleGAN for 3D-Aware Face Generation" was accepted to [ReScience Journal][rescience] Publication.
 
-* March 31, 2022. We take the 4th place in "Night Photography Rendering Challenge" at [NTIRE2022: New Trends in Image Restoration and Enhancement workshop
+* March 31, 2022. We take the 4th place in "[Night Photography Rendering Challenge][nightimaging]" at [NTIRE2022: New Trends in Image Restoration and Enhancement workshop
 and challenges on image and video processing
 in conjunction with CVPR 2021][ntire2022].
 
@@ -101,3 +101,4 @@ and challenges on image and video processing at CVPR 2022
 [tfashion]: https://tfashion.ai
 [reprod2020]: https://paperswithcode.com/rc2020
 [reprod2021]: https://openreview.net/group?id=ML_Reproducibility_Challenge/2021/Fall
+[nightimaging]: https://nightimaging.org/
