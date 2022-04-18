@@ -8,7 +8,7 @@ venue: 'NTIRE2022: New Trends in Image Restoration and Enhancement workshop
 and challenges on image and video processing
 in conjunction with CVPR 2022'
 paperurl: ''
-citation: 'Kınlı, F., Özcan, B., & Kıraç, F. (2021). AInstagram Filter Removal on Fashionable Images. arXiv preprint arXiv:2104.05072.'
+citation: 'Kınlı, F., Özcan, B., & Kıraç, F. (2022). Patch-wise Contrastive Style Learning for Instagram Filter Removal. arXiv preprint arXiv:2204.07486.'
 ---
 
 ## Abstract
