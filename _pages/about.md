@@ -24,12 +24,16 @@ applications of generative modeling, image-to-image translation, image restorati
 
 ### Recent News
 
+* April 14, 2022. A paper titled "Patch-wise Contrastive Style Learning for Instagram Filter Removal" was accepted to 
+[NTIRE2022: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing 
+in conjunction with CVPR 2022][ntire2022]
+
 * April 11, 2022. We submitted 1 reproduction report to [ML Reproducibility Challenge 2021][reprod2021], and this report titled 
 "[Re] Lifting 2D StyleGAN for 3D-Aware Face Generation" was accepted to [ReScience Journal][rescience] Publication.
 
 * March 31, 2022. We take the 4th place in "[Night Photography Rendering Challenge][nightimaging]" at [NTIRE2022: New Trends in Image Restoration and Enhancement workshop
 and challenges on image and video processing
-in conjunction with CVPR 2021][ntire2022].
+in conjunction with CVPR 2022][ntire2022].
 
 * January 05, 2022. I successfully passed Ph.D. Qualification Exam.
 
