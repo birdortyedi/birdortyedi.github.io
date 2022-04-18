@@ -7,8 +7,8 @@ date: 2021-04-11
 venue: 'NTIRE2021: New Trends in Image Restoration and Enhancement workshop
 and challenges on image and video processing
 in conjunction with CVPR 2021'
-paperurl: ''
-citation: 'Kınlı, F., Özcan, B., & Kıraç, F. (2021). AInstagram Filter Removal on Fashionable Images. arXiv preprint arXiv:2104.05072.'
+paperurl: 'https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Kinli_Instagram_Filter_Removal_on_Fashionable_Images_CVPRW_2021_paper.pdf'
+citation: 'Furkan Kinli, Baris Ozcan, Furkan Kirac; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2021, pp. 736-745'
 ---
 
 ## Abstract
@@ -16,7 +16,18 @@ Social media images are generally transformed by filtering to obtain aesthetical
 
 [Pre-print][ntire-pre-print] |
 [Code](https://github.com/birdortyedi/instagram-filter-removal-pytorch) |
-[Demo](https://gradio.app/g/birdortyedi/instagram-filter-removal-pytorch)
+[Demo](https://huggingface.co/spaces/birdortyedi/instagram-filter-removal)
 
+Bibtex:
+```
+@InProceedings{Kinli_2021_CVPR,
+    author    = {Kinli, Furkan and Ozcan, Baris and Kirac, Furkan},
+    title     = {Instagram Filter Removal on Fashionable Images},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2021},
+    pages     = {736-745}
+}
+```
 
 [ntire-pre-print]: https://arxiv.org/pdf/2104.05072.pdf
