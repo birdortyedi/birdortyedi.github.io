@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-04-11-lifted-gan-number-10
 excerpt: ''
 date: 2022-04-11
-venue: 'ML Reproducibility Challenge 2021 (Fall Edition)'
+venue: 'ML Reproducibility Challenge 2021 (Fall Edition), Accepted to ReScience Journal Publication'
 paperurl: ''
 citation: 'Doğa Yılmaz, Furkan Kınlı, Barış Özcan and Furkan Kıraç. (2022). [Re] Lifting 2D StyleGAN for 3D-Aware Face Generation. ML Reproducibility Challenge 2021 (Fall Edition). https://openreview.net/forum?id=BcNonfQ3RY'
 ---
