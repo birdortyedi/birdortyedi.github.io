@@ -18,15 +18,16 @@ advised by [Asst. Prof. Furkan Kıraç][fkirac].
 
 *   I received my B.Sc. and M.Sc. degrees in [Özyeğin University][ozu], (YES, Triple crown!).
 
-*   My research interests focus on the general area of computer vision, particularly using deep learning approaches, as well as the
-applications of generative modeling, image-to-image translation, image restoration, fashion image understanding and capsule networks.
+*   My research interests focus on image restoration, camera pipeline, illuminance and colors and computational photography. Previously, I have worked on the downstream applications of computer vision, particularly using deep learning approaches, as well as the applications of generative modeling, image-to-image translation, fashion image understanding and capsule networks.
 
 
 ### Recent News
 
-* April 14, 2022. A paper titled ["Patch-wise Contrastive Style Learning for Instagram Filter Removal"][cifr] was accepted to 
+* May 27, 2022. We are organizing a challenge on Instagram Filter Removal at [AIM2022: Advances in Image Manipulation in conjuction with ECCV2022][aim2022].
+
+* April 14, 2022. A paper titled ["Patch-wise Contrastive Style Learning for Instagram Filter Removal"][cifr] was accepted as *Oral Presentation* to 
 [NTIRE2022: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing 
-in conjunction with CVPR 2022][ntire2022]
+in conjunction with CVPR 2022][ntire2022].
 
 * April 11, 2022. We submitted 1 reproduction report to [ML Reproducibility Challenge 2021][reprod2021], and this report titled 
 ["[Re] Lifting 2D StyleGAN for 3D-Aware Face Generation"][liftedgan] was accepted to [ReScience Journal][rescience] Publication.
@@ -76,14 +77,15 @@ Computer Vision for Fashion, Art and Design][iccv-workshop] as part of ICCV 2019
 
 * Reviewer, Elsevier Digital Signal Processing
 * Reviewer, IEEE/CAA Journal of Automatica Sinica
+* Reviewer, Imaging Science Journal
 * Reviewer, Journal of Experimental & Theoretical Artificial Intelligence
 * Reviewer, AIM2020 Workshop at ECCV2020
 * Reviewer, NTIRE 2021 New Trends in Image Restoration and Enhancement workshop
 and challenges on image and video processing at CVPR 2021
-* Reviewer, 30th IEEE Conference on Signal Processing and Communications Applications
 * Reviewer, the European Conference on Computer Vision 2022 (ECCV2022)
 * Reviewer, NTIRE 2022 New Trends in Image Restoration and Enhancement workshop
 and challenges on image and video processing at CVPR 2022
+* Reviewer, 30th IEEE Conference on Signal Processing and Communications Applications
 
 
 [me]: images/logo.jpg
@@ -113,3 +115,4 @@ and challenges on image and video processing at CVPR 2022
 [reprod2021]: https://openreview.net/group?id=ML_Reproducibility_Challenge/2021/Fall
 [liftedgan]: https://openreview.net/pdf?id=BcNonfQ3RY
 [nightimaging]: https://nightimaging.org/
+[aim2022]: https://data.vision.ee.ethz.ch/cvl/aim22/
