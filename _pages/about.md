@@ -23,7 +23,7 @@ advised by [Asst. Prof. Furkan Kıraç][fkirac].
 
 ### Recent News
 
-* May 27, 2022. We are organizing a challenge on Instagram Filter Removal at [AIM2022: Advances in Image Manipulation in conjuction with ECCV2022][aim2022].
+* May 27, 2022. We are organizing a [challenge][ifr-challenge] on Instagram Filter Removal at [AIM2022: Advances in Image Manipulation in conjuction with ECCV2022][aim2022].
 
 * April 14, 2022. A paper titled ["Patch-wise Contrastive Style Learning for Instagram Filter Removal"][cifr] was accepted as *Oral Presentation* to 
 [NTIRE2022: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing 
@@ -116,3 +116,4 @@ and challenges on image and video processing at CVPR 2022
 [liftedgan]: https://openreview.net/pdf?id=BcNonfQ3RY
 [nightimaging]: https://nightimaging.org/
 [aim2022]: https://data.vision.ee.ethz.ch/cvl/aim22/
+[ifr-challenge]: https://codalab.lisn.upsaclay.fr/competitions/5081
