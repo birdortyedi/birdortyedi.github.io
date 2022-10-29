@@ -23,6 +23,17 @@ advised by [Asst. Prof. Furkan Kıraç][fkirac].
 
 ### Recent News
 
+* Oct 23, 2022. We have presented 3 accepted papers as *Oral Presentation* in [Advances in Image Manipulation workshop
+in conjunction with ECCV 2022][aim22].
+
+* Oct 11, 2022. A paper titled ["Modeling the Lighting in Scenes as Style for Auto White-Balance Correction"][style-awb] was accepted to 
+[IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)][wacv23].
+
+* Oct 5, 2022. Our journal ["[Re] Lifting 2D StyleGAN for 3D-Aware Face Generation"][liftedgan] published in the special edition of [ReScience Journal][rescience] is invited to [the Journal Showcase Poster Session at NeurIPS 2022][nips2022].
+
+* Sep 28, 2022. A paper titled ["Generalization to Unseen Viewpoint Images of Objects via Alleviated Pose Attentive Capsule Agreement"][alpaca] was accepted to 
+[Neural Computing and Applications][ncaa].
+
 * May 27, 2022. We are organizing a [challenge][ifr-challenge] on Instagram Filter Removal at [AIM2022: Advances in Image Manipulation in conjuction with ECCV2022][aim2022].
 
 * April 14, 2022. A paper titled ["Patch-wise Contrastive Style Learning for Instagram Filter Removal"][cifr] was accepted as *Oral Presentation* to 
@@ -85,8 +96,10 @@ and challenges on image and video processing at CVPR 2021
 * Reviewer, the European Conference on Computer Vision 2022 (ECCV2022)
 * Reviewer, NTIRE 2022 New Trends in Image Restoration and Enhancement workshop
 and challenges on image and video processing at CVPR 2022
+* Reviewer, AIM2022 Advances in Image Manipulation workshop in conjunction with ECCV 2022
+* Reviewer, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2023
 * Reviewer, 30th IEEE Conference on Signal Processing and Communications Applications
-
+  
 
 [me]: images/logo.jpg
 [ozu-cs]: https://www.ozyegin.edu.tr/en/computer-science-department
@@ -110,10 +123,16 @@ and challenges on image and video processing at CVPR 2022
 [msi]: https://tr.msi.com/index.php
 [tfashion]: https://tfashion.ai
 [ifrnet]: https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Kinli_Instagram_Filter_Removal_on_Fashionable_Images_CVPRW_2021_paper.pdf
-[cifr]: https://arxiv.org/abs/2204.07486
+[cifr]: https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Kinli_Patch-Wise_Contrastive_Style_Learning_for_Instagram_Filter_Removal_CVPRW_2022_paper.pdf
 [reprod2020]: https://paperswithcode.com/rc2020
 [reprod2021]: https://openreview.net/group?id=ML_Reproducibility_Challenge/2021/Fall
 [liftedgan]: https://openreview.net/pdf?id=BcNonfQ3RY
 [nightimaging]: https://nightimaging.org/
 [aim2022]: https://data.vision.ee.ethz.ch/cvl/aim22/
 [ifr-challenge]: https://codalab.lisn.upsaclay.fr/competitions/5081
+[style-awb]: https://arxiv.org/pdf/2210.09090.pdf
+[wacv23]: https://wacv2023.thecvf.com/
+[nips2022]: https://blog.neurips.cc/2022/08/15/journal-showcase/
+[alpaca]: https://link.springer.com/article/10.1007/s00521-022-07900-3?error=cookies_not_supported&code=3a5ab1c3-ded3-4157-a0af-2dc76c936363
+[ncaa]: https://www.springer.com/journal/521
+[aim22]: https://data.vision.ee.ethz.ch/cvl/aim22/

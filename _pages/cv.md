@@ -34,7 +34,7 @@ Experience
   * Özyeğin University @ Istanbul, Turkey
   * Computer Science Department
 
-* Computer Vision Research Engineer, Jun 2020 - Aug 2021
+* Computer Vision Research Engineer, Jun 2020 - Present
   * Fishency Innovation @ Stavanger, Norway
   * Contract-based
 
@@ -79,4 +79,7 @@ and challenges on image and video processing at CVPR 2021
 * Reviewer, the European Conference on Computer Vision 2022 (ECCV2022)
 * Reviewer, NTIRE 2022 New Trends in Image Restoration and Enhancement workshop
 and challenges on image and video processing at CVPR 2022
+* Reviewer, AIM2022 Advances in Image Manipulation workshop in conjunction with ECCV 2022
+* Reviewer, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2023
 * Reviewer, 30th IEEE Conference on Signal Processing and Communications Applications
+  
