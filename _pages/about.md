@@ -26,7 +26,7 @@ advised by [Asst. Prof. Furkan Kıraç][fkirac].
 * August 6, 2023. A paper titled ["Deterministic Neural Illumination Mapping for Efficient Auto-White Balance Correction"][denim] was accepted to 
 [RCV 2023: The 1st ICCV 2023 Workshop on Resource Efficient Deep Learning for Computer Vision at ICCV 2023][rcv2023].
 
-* July 21, 2023. We are selected as the recipients of Kaggle Awards for [ML Reproducibility Challenge 2022][reprod2022] and rewarded with Google Cloud coupons of \$10,000. Also, I personally nominated for "Outstanding Reviewer" and rewarded with Google Cloud coupons of \$5,000.
+* July 21, 2023. We are selected as the recipients of Kaggle Awards for [ML Reproducibility Challenge 2022][reprod2022] and rewarded with Google Cloud coupons of \$10,000. Also, personally nominated for "Outstanding Reviewer" and rewarded with Google Cloud coupons of \$5,000.
 
 * April 24, 2023. We submitted 2 reproduction reports to [ML Reproducibility Challenge 2022][reprod2022], and one of these reports titled 
 ["[Re] Exact Feature Distribution Matching for Arbitrary Style Transfer and Domain Generalization"][efdm] was accepted to [ReScience Journal][rescience] Publication.
