@@ -73,13 +73,18 @@ Academic Services
 * Reviewer, IEEE/CAA Journal of Automatica Sinica
 * Reviewer, Imaging Science Journal
 * Reviewer, Journal of Experimental & Theoretical Artificial Intelligence
-* Reviewer, AIM2020 Workshop at ECCV2020
-* Reviewer, NTIRE 2021 New Trends in Image Restoration and Enhancement workshop
-and challenges on image and video processing at CVPR 2021
-* Reviewer, the European Conference on Computer Vision 2022 (ECCV2022)
-* Reviewer, NTIRE 2022 New Trends in Image Restoration and Enhancement workshop
-and challenges on image and video processing at CVPR 2022
-* Reviewer, AIM2022 Advances in Image Manipulation workshop in conjunction with ECCV 2022
+* Reviewer, AIM 2020 Advances in Image Manipulation workshop in conjunction with ECCV 2020
+* Reviewer, NTIRE 2021 New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing at CVPR 2021
+* Reviewer, ML Reproducibility Challenge 2021 Edition
+* Reviewer, the European Conference on Computer Vision (ECCV) 2022
+* Reviewer, NTIRE 2022 New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing at CVPR 2022
+* Reviewer, AIM 2022 Advances in Image Manipulation workshop in conjunction with ECCV 2022
+* Reviewer, ML Reproducibility Challenge 2022 Edition
 * Reviewer, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2023
 * Reviewer, 30th IEEE Conference on Signal Processing and Communications Applications
+* Reviewer, the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2023
+* Reviewer, NTIRE 2023 New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing at CVPR 2023
+* Reviewer, the International Conference on Computer Vision (ICCV) 2023
+* Reviewer, Resource Efficient Deep Learning for Computer Vision workshop at ICCV 2023
+* Reviewer, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2024
   
