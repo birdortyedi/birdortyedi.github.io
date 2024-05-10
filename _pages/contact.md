@@ -12,4 +12,4 @@ Vision & Graphics Lab (Room: B426), Artifical Intelligence Research Center (AIRC
 
 Nişantepe, Orman Sk. No:13, 34794 Çekmeköy/İstanbul.
 
-E-mail: furkan.kinli [at] {ozyegin, ozu}.edu.tr
+E-mail: furkan.kinli [at] ozyegin.edu.tr

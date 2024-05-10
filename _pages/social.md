@@ -26,7 +26,9 @@ I am a fan of basketball, especially NBA. Go NOLA!
 
 I am really mad on Eurovision Song Contest. I follow the contest, songs and magazine on it for every year. I follow huge ESC playlists on Spotify. 
 
-Playlists | [2020][link_20] | [2019][link_19] | [2018][link_18] | [2017][link_17] | [2016][link_16] | [2015 and older][link_15]
+For 2024, CROWN THE WITCH!
+
+Playlists | [2023][link_23] | [2022][link_22] | [2021][link_21] | [2020][link_20] | [2019][link_19] | [2018][link_18] | [2017][link_17] | [2016][link_16] | [2015 and older][link_15]
 
 I was individual-licensed player for Billiards and also, I was the instructor of two Billiards courses at Özyeğin University. Snooker and Neil Robertson have something special for me and I pursue them sensually.
 
@@ -113,6 +115,9 @@ I was individual-licensed player for Billiards and also, I was the instructor of
 [link_18]: https://open.spotify.com/playlist/5sxwk5T34E2l2Ng02lipHS?si=T_guMavBRWWxs4nX5lIxdg
 [link_19]: https://open.spotify.com/playlist/3ZdQUt8Tmtt7oOU8UM2koe?si=cqGfCB4gSmiL6gC6X0RsXQ
 [link_20]: https://open.spotify.com/playlist/37i9dQZF1DWVCKO3xAlT1Q?si=xihsYgOHQ2quQr0wECxs3Q
+[link_21]: https://open.spotify.com/playlist/5h0sQpJnLVzgy5iOH1UNcl?si=8f525142068f4c34
+[link_22]: https://open.spotify.com/playlist/30nn8Jnin5rXliNqIkq87X?si=586c8eb3b6894840
+[link_23]: https://open.spotify.com/playlist/61fyG82H3Cha91cgKgQT6S?si=be8c7316060b4a70
 [link_git]: https://github.com/birdortyedi
 [link_twitter]: https://twitter.com/birdortyedi
 [link_linkedin]: https://www.linkedin.com/in/furkan-k%C4%B1nl%C4%B1-4b5648116/
