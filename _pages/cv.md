@@ -28,7 +28,7 @@ Experience
 ======
 * Co-Founder & Lead AI Engineer, Sep 2019 - Present
   * T-Fashion @ Istanbul, Turkey & Toronto, Canada
-  * Fashion Trend Forecasting
+  * Fashion Trend Forecasting & Generative AI Design
   
 * Research Assistant, Feb 2019 - Present
   * Özyeğin University @ Istanbul, Turkey
