@@ -94,10 +94,15 @@ Computer Vision for Fashion, Art and Design][iccv-workshop] as part of ICCV 2019
 
 ### Academic Services
 
+* Reviewer, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 * Reviewer, Elsevier Digital Signal Processing
 * Reviewer, IEEE/CAA Journal of Automatica Sinica
 * Reviewer, Imaging Science Journal
 * Reviewer, Journal of Experimental & Theoretical Artificial Intelligence
+* Reviewer, The 39th Annual AAAI Conference on Artificial Intelligence (AAAI) 2025
+* Reviewer, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025
+* Reviewer, the European Conference on Computer Vision (ECCV) 2024
+* Reviewer, the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024
 * Reviewer, International Conference on Pattern Recognition (ICPR) 2024
 * Reviewer, the European Conference on Computer Vision (ECCV) 2024
 * Reviewer, NTIRE 2024 New Trends in Image Restoration and Enhancement workshop
