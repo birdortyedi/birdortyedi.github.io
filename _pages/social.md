@@ -14,7 +14,7 @@ I was eligible to attend Özyeğin University with 75% of YÖK scholarship and 2
 In August 2019, I received M. Sc. degree in Computer Science at Özyeğin University, and during my M.Sc. study, I initially lead my research focus to fashion image understanding and capsule networks and its applications. 
 After my graduation, I have been accepted to the Ph.D. in Computer Science at Özyeğin University for 2019 Spring (Yes, triple crown!). Now, I am working on style modeling for image restoration tasks.
 
-I prefer that being an academician/a scientist who contributes to Computer Science in such a way for prospering the community's welfare rather than being a developer who works for prospering someone's welfare.
+> I prefer that being an academician/a scientist who contributes to Computer Science in such a way for prospering the community's welfare rather than being a developer who works for prospering someone's welfare.
 
 In my social life;
 
@@ -22,13 +22,15 @@ I have a friend, named "Alex". I got inspired by Alex de Souza (ofc!).
 
 ![][alex]
 
-I am a fan of basketball, especially NBA. Go NOLA!
+I am a fan of basketball, especially NBA. Go Pacers!
+
+Favorite Genre: Metalcore and derivatives. [dissertate or suicide][dissertate or suicide]
 
 I am really mad on Eurovision Song Contest. I follow the contest, songs and magazine on it for every year. I follow huge ESC playlists on Spotify. 
 
-For 2024, CROWN THE WITCH!
+For 2024, CROWN THE WITCH! (ps. [WITCH CROWNED THE MONARCH][WITCH CROWNED THE MONARCH]) 
 
-Playlists | [2023][link_23] | [2022][link_22] | [2021][link_21] | [2020][link_20] | [2019][link_19] | [2018][link_18] | [2017][link_17] | [2016][link_16] | [2015 and older][link_15]
+Playlists | [2024][link_24] | [2023][link_23] | [2022][link_22] | [2021][link_21] | [2020][link_20] | [2019][link_19] | [2018][link_18] | [2017][link_17] | [2016][link_16] | [2015 and older][link_15]
 
 I was individual-licensed player for Billiards and also, I was the instructor of two Billiards courses at Özyeğin University. Snooker and Neil Robertson have something special for me and I pursue them sensually.
 
@@ -118,7 +120,10 @@ I was individual-licensed player for Billiards and also, I was the instructor of
 [link_21]: https://open.spotify.com/playlist/5h0sQpJnLVzgy5iOH1UNcl?si=8f525142068f4c34
 [link_22]: https://open.spotify.com/playlist/30nn8Jnin5rXliNqIkq87X?si=586c8eb3b6894840
 [link_23]: https://open.spotify.com/playlist/61fyG82H3Cha91cgKgQT6S?si=be8c7316060b4a70
+[link_24]: https://open.spotify.com/playlist/37i9dQZF1DWVCKO3xAlT1Q?si=1c2e34da30bf4d1e
 [link_git]: https://github.com/birdortyedi
 [link_twitter]: https://twitter.com/birdortyedi
 [link_linkedin]: https://www.linkedin.com/in/furkan-k%C4%B1nl%C4%B1-4b5648116/
-[alex]: https://birdortyedi.github.io/images/alex.JPG
+[alex]: https://birdortyedi.github.io/images/alex.jpg
+[WITCH CROWNED THE MONARCH]: https://x.com/birdortyedi/status/1789427853399888096
+[dissertate or suicide]: https://open.spotify.com/playlist/7HdMGKoxrkp5rAA3lL7HHA?si=bd18e97c2e254582

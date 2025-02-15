@@ -9,7 +9,7 @@ redirect_from:
 ---
 ![][me]
 
-**Looking for the opportunities for Research Internship or Visiting Researcher positions.**
+**Looking for the opportunities for Post-Doc or Visiting Researcher positions.**
 
 ### About Me
 
@@ -23,8 +23,20 @@ advised by [Asst. Prof. Furkan Kıraç][fkirac].
 
 ### Recent News
 
+* February 8, 2025. A paper titled ["Advancing white balance correction through deep feature statistics and feature distribution matching"][fdmwb] was accepted to 
+[Journal of Visual Communication and Image Representation][yjvci].
+
+* December 4, 2024. A paper titled ["Dawn: A Robust Tone Mapping Operator for Multi-Illuminant and Low-Light Scenarios"][dawn] was accepted as *Oral Presentation* in 
+[VISIGRAPP 2025: 20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications][visigrapp2025].
+
+* March 17, 2024. We take the 9th place in "[Night Photography Rendering Challenge][nightimaging]" at [NTIRE2024: New Trends in Image Restoration and Enhancement workshop
+and challenges on image and video processing in conjunction with CVPR 2024][ntire2024].
+
 * August 6, 2023. A paper titled ["Deterministic Neural Illumination Mapping for Efficient Auto-White Balance Correction"][denim] was accepted to 
 [RCV 2023: The 1st ICCV 2023 Workshop on Resource Efficient Deep Learning for Computer Vision at ICCV 2023][rcv2023].
+
+* March 10, 2023. We take the 7th place in "[Night Photography Rendering Challenge][nightimaging]" at [NTIRE2023: New Trends in Image Restoration and Enhancement workshop
+and challenges on image and video processing in conjunction with CVPR 2023][ntire2023].
 
 * July 21, 2023. We are selected as the recipients of Kaggle Awards for [ML Reproducibility Challenge 2022][reprod2022] and rewarded with Google Cloud coupons (10K). Also, personally nominated for "Outstanding Reviewer" and rewarded with Google Cloud coupons (5K).
 
@@ -89,7 +101,7 @@ Computer Vision for Fashion, Art and Design][iccv-workshop] as part of ICCV 2019
 
 * February 18, 2019. I have been assigned as Research Assistant to [Computer Science Department][ozu-cs] at [Özyeğin University][ozu]
 
-* April 3, 2018, [MSI Turkey][msi] has been supported my research studies, and donated GPUs.
+* April 3, 2018, [MSI Turkey][msi] has been supported my research studies, and donated GPUs. All started from this moment.
 
 
 ### Academic Services
@@ -99,35 +111,22 @@ Computer Vision for Fashion, Art and Design][iccv-workshop] as part of ICCV 2019
 * Reviewer, IEEE/CAA Journal of Automatica Sinica
 * Reviewer, Imaging Science Journal
 * Reviewer, Journal of Experimental & Theoretical Artificial Intelligence
+* Reviewer, the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) (2025, 2024, 2023)
+* Reviewer, the International Conference on Computer Vision (ICCV) (2025, 2023)
+* Reviewer, the European Conference on Computer Vision (ECCV) (2024, 2022)
+* Reviewer, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2025, 2024, 2023)
 * Reviewer, The 39th Annual AAAI Conference on Artificial Intelligence (AAAI) 2025
-* Reviewer, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025
-* Reviewer, the European Conference on Computer Vision (ECCV) 2024
-* Reviewer, the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024
 * Reviewer, International Conference on Pattern Recognition (ICPR) 2024
-* Reviewer, the European Conference on Computer Vision (ECCV) 2024
-* Reviewer, NTIRE 2024 New Trends in Image Restoration and Enhancement workshop
-and challenges on image and video processing at CVPR 2024
-* Reviewer, the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024
-* Reviewer, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2024
-* Reviewer, Resource Efficient Deep Learning for Computer Vision workshop at ICCV 2023
-* Reviewer, the International Conference on Computer Vision (ICCV) 2023
-* Reviewer, NTIRE 2023 New Trends in Image Restoration and Enhancement workshop
-and challenges on image and video processing at CVPR 2023
-* Reviewer, the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2023
+* Reviewer, New Trends in Image Restoration and Enhancement workshop
+and challenges on image and video processing at CVPR (2024, 2023, 2022, 2021)
+* Reviewer, AIM 2022 Advances in Image Manipulation workshop in conjunction with ECCV (2024, 2022, 2020)
+* Reviewer, Resource Efficient Deep Learning for Computer Vision workshop at ICCV (2023)
 * Reviewer, 30th IEEE Conference on Signal Processing and Communications Applications
-* Reviewer, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2023
 * Reviewer, ML Reproducibility Challenge 2022 Edition
-* Reviewer, AIM 2022 Advances in Image Manipulation workshop in conjunction with ECCV 2022
-* Reviewer, NTIRE 2022 New Trends in Image Restoration and Enhancement workshop
-and challenges on image and video processing at CVPR 2022
-* Reviewer, the European Conference on Computer Vision (ECCV) 2022
 * Reviewer, ML Reproducibility Challenge 2021 Edition
-* Reviewer, NTIRE 2021 New Trends in Image Restoration and Enhancement workshop
-and challenges on image and video processing at CVPR 2021
-* Reviewer, AIM 2020 Advances in Image Manipulation workshop in conjunction with ECCV 2020
 
 
-[me]: images/logo.jpg
+[me]: images/doomsdayblue.jpeg
 [ozu-cs]: https://www.ozyegin.edu.tr/en/computer-science-department
 [ozu]: https://www.ozyegin.edu.tr/en/
 [fkirac]: https://scholar.google.com/citations?user=kdJBxv8AAAAJ
@@ -140,6 +139,8 @@ and challenges on image and video processing at CVPR 2021
 [fashion-inpainting]: https://link.springer.com/chapter/10.1007/978-3-030-66823-5_11
 [ntire2021]: https://data.vision.ee.ethz.ch/cvl/ntire21/
 [ntire2022]: https://data.vision.ee.ethz.ch/cvl/ntire22/
+[ntire2023]: https://cvlai.net/ntire/2023/
+[ntire2024]: https://cvlai.net/ntire/2024/
 [icpr2020]: http://www.icpr2020.it/
 [quaternion-caps]: https://ieeexplore.ieee.org/abstract/document/9412006
 [rescience]: http://rescience.org/x
@@ -166,3 +167,7 @@ and challenges on image and video processing at CVPR 2021
 [efdm]: https://openreview.net/pdf?id=a5_hbZf0NB
 [rcv2023]: https://sites.google.com/view/rcv2023
 [denim]: https://arxiv.org/
+[visigrapp2025]: https://visapp.scitevents.org/
+[dawn]: https://www.insticc.org/node/TechnicalProgram/VISIGRAPP/2025/presentationDetails/131346
+[fdmwb]: https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation
+[yjvci]: https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation
