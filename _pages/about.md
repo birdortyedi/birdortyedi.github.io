@@ -117,10 +117,9 @@ Computer Vision for Fashion, Art and Design][iccv-workshop] as part of ICCV 2019
 * Reviewer, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2025, 2024, 2023)
 * Reviewer, The 39th Annual AAAI Conference on Artificial Intelligence (AAAI) 2025
 * Reviewer, International Conference on Pattern Recognition (ICPR) 2024
-* Reviewer, New Trends in Image Restoration and Enhancement workshop
-and challenges on image and video processing at CVPR (2024, 2023, 2022, 2021)
-* Reviewer, AIM 2022 Advances in Image Manipulation workshop in conjunction with ECCV (2024, 2022, 2020)
-* Reviewer, Resource Efficient Deep Learning for Computer Vision workshop at ICCV (2023)
+* Reviewer, New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing at CVPR (NTIRE) (2024, 2023, 2022, 2021)
+* Reviewer, Advances in Image Manipulation workshop in conjunction with ECCV (AIM) (2024, 2022, 2020)
+* Reviewer, Resource Efficient Deep Learning for Computer Vision workshop at ICCV (RCV) (2023)
 * Reviewer, 30th IEEE Conference on Signal Processing and Communications Applications
 * Reviewer, ML Reproducibility Challenge 2022 Edition
 * Reviewer, ML Reproducibility Challenge 2021 Edition
