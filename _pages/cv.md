@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+For more formal version, please refer to [here](files/cv.pdf).
+
 Objective
 =====
 * Be kind.
