@@ -8,13 +8,11 @@ author_profile: true
 
 Hello folks!
 
-My name is Furkan Kınlı. I was born on April of 1993 in Aydın, Turkey. I came to İstanbul for educational purposes.
+My name is Furkan Kınlı. I was born in April 1993 in Aydın, Turkey, and moved to İstanbul for my education.
 
-I was eligible to attend Özyeğin University with 75% of YÖK scholarship and 25% of sports scholarship for B.Sc. degree. 
-In August 2019, I received M. Sc. degree in Computer Science at Özyeğin University, and during my M.Sc. study, I initially lead my research focus to fashion image understanding and capsule networks and its applications. 
-After my graduation, I have been accepted to the Ph.D. in Computer Science at Özyeğin University for 2019 Spring (Yes, triple crown!). Now, I am working on style modeling for image restoration tasks.
+I received my B.Sc., M.Sc., and most recently my Ph.D. in Computer Science from Özyeğin University (the triple crown!). During my undergraduate studies, I was supported by a 75% YÖK scholarship and a 25% sports scholarship. My research journey began with fashion image understanding and capsule networks during my M.Sc., and continued into style modeling for image restoration tasks throughout my Ph.D., under the supervision of Assoc. Prof. Furkan Kıraç. My doctoral thesis, ["Modeling the Lighting as Style Factor via Neural Networks for White Balance Correction"][phd-thesis], was successfully defended in May 2025.
 
-> I prefer that being an academician/a scientist who contributes to Computer Science in such a way for prospering the community's welfare rather than being a developer who works for prospering someone's welfare.
+> I prefer being an academician and scientist who contributes to Computer Science for the welfare of the community, rather than a developer working solely for individual gain.
 
 In my social life;
 
@@ -25,6 +23,8 @@ I have a friend, named "Alex". I got inspired by Alex de Souza (ofc!).
 I am a fan of basketball, especially NBA. Go Pacers!
 
 Favorite Genre: Metalcore and derivatives. [dissertate or suicide][dissertate or suicide]
+
+I enjoy reading Dostoyevsky, Camus, Sartre, D. Solstad, O. Dazai, E. Loe, H. Kang, J. Fosse, V. Hjörth, and many more authors yet to discover.
 
 I am really mad on Eurovision Song Contest. I follow the contest, songs and magazine on it for every year. I follow huge ESC playlists on Spotify. 
 

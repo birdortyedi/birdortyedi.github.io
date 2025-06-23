@@ -13,18 +13,18 @@ redirect_from:
 
 ### About Me
 
-*   I am a Ph.D. Candidate in [Computer Science Department][ozu-cs] at [Özyeğin University][ozu],
-advised by [Asst. Prof. Furkan Kıraç][fkirac].
-
-*   I received my B.Sc. and M.Sc. degrees in [Özyeğin University][ozu], (YES, Triple crown!).
+*   I received my Ph.D. (advised by [Asst. Prof. Furkan Kıraç][fkirac]), M.Sc., and B.Sc. degrees in [Computer Science Department][ozu-cs] at [Özyeğin University][ozu] (YES, Triple crown!).
 
 *   My research interests focus on image restoration, camera pipeline, illuminance and colors and computational photography. Previously, I have worked on the downstream applications of computer vision, particularly using deep learning approaches, as well as the applications of generative modeling, image-to-image translation, fashion image understanding and capsule networks.
 
 
 ### Recent News
 
-* February 8, 2025. A paper titled ["Advancing white balance correction through deep feature statistics and feature distribution matching"][fdmwb] was accepted to 
-[Journal of Visual Communication and Image Representation][yjvci].
+* May 12, 2025. I have successfully defended my Ph.D. thesis, ["Modeling the Lighting as Style Factor via Neural Networks for White Balance Correction"][phd-thesis].
+
+* March 19, 2025. A paper titled ["Feature distribution statistics as a loss objective for robust white balance correction"][fdmloss] was accepted to [Machine Vision and Applications][mvapp].
+
+* February 8, 2025. A paper titled ["Advancing white balance correction through deep feature statistics and feature distribution matching"][fdmwb] was accepted to [Journal of Visual Communication and Image Representation][yjvci].
 
 * December 4, 2024. A paper titled ["Dawn: A Robust Tone Mapping Operator for Multi-Illuminant and Low-Light Scenarios"][dawn] was accepted as *Oral Presentation* in 
 [VISIGRAPP 2025: 20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications][visigrapp2025].
@@ -146,6 +146,7 @@ Computer Vision for Fashion, Art and Design][iccv-workshop] as part of ICCV 2019
 [sadnet]: https://openreview.net/pdf?id=yiAI9QN9nYt
 [fircn]: http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Kinli_Fashion_Image_Retrieval_with_Capsule_Networks_ICCVW_2019_paper.pdf
 [msc-thesis]: files/msc-thesis.pdf
+[phd-thesis]: files/phd-thesis.pdf
 [msi]: https://tr.msi.com/index.php
 [tfashion]: https://tfashion.ai
 [ifrnet]: https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Kinli_Instagram_Filter_Removal_on_Fashionable_Images_CVPRW_2021_paper.pdf
@@ -168,5 +169,7 @@ Computer Vision for Fashion, Art and Design][iccv-workshop] as part of ICCV 2019
 [denim]: https://arxiv.org/
 [visigrapp2025]: https://visapp.scitevents.org/
 [dawn]: https://www.insticc.org/node/TechnicalProgram/VISIGRAPP/2025/presentationDetails/131346
-[fdmwb]: https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation
+[fdmwb]: https://www.sciencedirect.com/science/article/pii/S1047320325000264
 [yjvci]: https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation
+[fdmloss]: https://link.springer.com/article/10.1007/s00138-025-01680-1
+[mvapp]: https://link.springer.com/journal/138

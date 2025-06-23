@@ -13,14 +13,14 @@ Objective
 =====
 * Being kind.
 * Doing my parents proud on me.
-* Doing researches on Computer Vision and Deep Learning to improve my academic career.
+* Doing researches on images to improve my academic career.
 * Being successful computer scientist in my further career.<br>
 * Share my knowledge with anyone I can reach.
 
 Education
 ======
 
-* Ph.D. in Computer Science, Özyeğin University, 2019 - Present
+* Ph.D. in Computer Science, Özyeğin University, 2019 - 2025
 * M.Sc. in Computer Science, Özyeğin University, 2018 - 2019
 * B.Sc. in Computer Science in Engineering, Özyeğin University, 2012 - 2018
 
