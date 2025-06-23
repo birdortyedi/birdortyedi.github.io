@@ -13,8 +13,8 @@ Objective
 =====
 * Being kind.
 * Doing my parents proud on me.
-* Doing researches on images to improve my academic career.
-* Being successful computer scientist in my further career.<br>
+* Doing researches on images.
+* Being successful computer scientist.
 * Share my knowledge with anyone I can reach.
 
 Education

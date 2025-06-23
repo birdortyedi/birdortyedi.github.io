@@ -15,7 +15,9 @@ redirect_from:
 
 *   I received my Ph.D. (advised by [Assoc. Prof. Furkan Kıraç][fkirac]), M.Sc., and B.Sc. degrees in [Computer Science Department][ozu-cs] at [Özyeğin University][ozu] (YES, Triple crown!).
 
-*   My research interests focus on image restoration, camera pipeline, illuminance and colors and computational photography. Previously, I have worked on the downstream applications of computer vision, particularly using deep learning approaches, as well as the applications of generative modeling, image-to-image translation, fashion image understanding and capsule networks.
+*   My research interests focus on image restoration, camera pipeline, illuminance and colors and computational photography. 
+
+*   Previously, I have worked on the downstream applications of computer vision, particularly using deep learning approaches, as well as the applications of generative modeling, image-to-image translation, fashion image understanding and capsule networks.
 
 
 ### Recent News
