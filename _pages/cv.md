@@ -11,10 +11,10 @@ redirect_from:
 
 Objective
 =====
-* Being kind.
-* Doing my parents proud on me.
-* Doing researches on images.
-* Being successful computer scientist.
+* Be kind.
+* Make my parents proud.
+* Conduct research on images.
+* Become a successful computer scientist.
 * Share my knowledge with anyone I can reach.
 
 Education
