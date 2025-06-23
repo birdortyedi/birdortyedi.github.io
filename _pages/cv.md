@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For more formal version, please refer to [here](files/cv.pdf).
+For more formal version, please refer to [here][cv].
 
 Objective
 =====
@@ -90,3 +90,5 @@ Academic Services
 * Reviewer, ML Reproducibility Challenge 2022 Edition
 * Reviewer, ML Reproducibility Challenge 2021 Edition
   
+
+[cv]: /files/cv.pdf
