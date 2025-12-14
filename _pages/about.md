@@ -13,7 +13,7 @@ redirect_from:
 
 ### About Me
 
-*   I am currently working as a faculty member in the [Artificial Intelligence Department][bau-ai] at [Bahçeşehir University][bau].
+*   I am currently working as a faculty member in the [Department of Artificial Intelligence][bau-ai] at [Bahçeşehir University][bau].
 
 *   I received my Ph.D. (advised by [Assoc. Prof. Furkan Kıraç][fkirac]), M.Sc., and B.Sc. degrees in [Computer Science Department][ozu-cs] at [Özyeğin University][ozu] (YES, Triple crown!).
 
