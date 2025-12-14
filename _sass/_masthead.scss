@@ -38,16 +38,20 @@
 }
 
 .site-nav {
-  // margin-left: 20px; 
-  // greedy-nav logic handles layout, remove simple margin if using table layout
+  .visible-links {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
 }
 
 .masthead__menu-item {
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  // margin-left: 20px; // Handled by greedy-nav or padding
-  
+  margin-left: 20px;
+
   &--lg {
     padding-right: 2em;
     font-weight: 700;
@@ -57,7 +61,6 @@
     display: block;
     color: $masthead-link-color;
     font-size: $type-size-5;
-    padding: 0.5rem 1rem; // Restore specific padding that works with greedy nav
     
     &:hover {
       color: $masthead-link-color-hover;
