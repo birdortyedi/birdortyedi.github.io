@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "He lå e loi la"
+seo_title: "Furkan Kınlı"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
