@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: Teaching
 permalink: /teaching/
+author_profile: true
 ---
 
 This page is under construction. Please check back later. 
