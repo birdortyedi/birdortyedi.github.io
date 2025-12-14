@@ -38,20 +38,14 @@
 }
 
 .site-nav {
-  .visible-links {
-    display: flex;
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-  }
+  margin-left: 20px;
 }
 
 .masthead__menu-item {
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  margin-left: 20px;
-
+  
   &--lg {
     padding-right: 2em;
     font-weight: 700;
@@ -61,6 +55,7 @@
     display: block;
     color: $masthead-link-color;
     font-size: $type-size-5;
+    padding: 0 10px; // Use padding for spacing in table-cell
     
     &:hover {
       color: $masthead-link-color-hover;
