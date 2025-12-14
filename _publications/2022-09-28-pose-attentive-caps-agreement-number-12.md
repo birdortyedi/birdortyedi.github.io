@@ -16,6 +16,7 @@ Despite their achievements in object recognition, Convolutional Neural Networks 
 [Paper][paper-link] | [Code][code-link]
 
 Bibtex:
+{% raw %}
 ```
 @article{ozcan2023generalization,
   title={Generalization to unseen viewpoint images of objects via alleviated pose attentive capsule agreement},
@@ -28,6 +29,7 @@ Bibtex:
   publisher={Springer}
 }
 ```
+{% endraw %}
 
 
 [paper-link]: https://link.springer.com/article/10.1007/s00521-022-07900-3

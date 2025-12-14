@@ -15,6 +15,7 @@ In this study, we present our results and experience during replicating the pape
 [Re-Science][re-science-report] | [OpenReview][ml-reprod-report] | [Code][code-link]
 
 Bibtex:
+{% raw %}
 ```
 @article{Mentes:2021,
   author = {Menteş, Sami and Kınlı, Furkan and Özcan, Barış and Kıraç, Furkan},
@@ -39,6 +40,7 @@ Bibtex:
   keywords = {image denoising, image restoration, image processing}
 }
 ```
+{% endraw %}
 
 [ml-reprod-report]: https://openreview.net/pdf?id=yiAI9QN9nYt
 [re-science-report]: https://zenodo.org/record/4834672/files/article.pdf
