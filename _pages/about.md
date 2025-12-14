@@ -9,7 +9,7 @@ redirect_from:
 ---
 ![][me]
 
-**Looking for the opportunities for Post-Doc or Visiting Researcher positions.**
+**Looking for the opportunities for highly competitive research fellowship or visiting scholar position.**
 
 ### About Me
 
