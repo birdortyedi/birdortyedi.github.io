@@ -35,11 +35,13 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
 
-  ul {
+.site-nav {
+  .visible-links {
+    display: flex;
     margin: 0;
     padding: 0;
-    clear: both;
     list-style-type: none;
   }
 }
@@ -48,10 +50,22 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  margin-left: 20px;
 
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+  }
+  
+  a {
+    display: block;
+    color: $masthead-link-color;
+    font-size: $type-size-5;
+    
+    &:hover {
+      color: $masthead-link-color-hover;
+      text-decoration: underline;
+    }
   }
 }
 
