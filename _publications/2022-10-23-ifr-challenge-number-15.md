@@ -6,8 +6,8 @@ excerpt: ''
 date: 2022-10-23
 venue: 'AIM2022: Advances in Image Manipulation workshop
 in conjunction with ECCV 2022'
-paperurl: ''
-citation: 'Kınlı, F., et al. (2022). AIM 2022 Challenge on Instagram Filter Removal: Methods and Results. arXiv preprint arXiv:2210.08997.'
+paperurl: 'https://arxiv.org/pdf/2210.08997.pdf'
+citation: 'Kınlı, F., et al. (2022). AIM 2022 Challenge on Instagram Filter Removal: Methods and Results. In European Conference on Computer Vision (pp. 27-43). Springer.'
 ---
 
 ## Abstract
@@ -16,9 +16,19 @@ This paper introduces the methods and the results of AIM 2022 challenge on Insta
 <span style="color:red">Accepted as Oral Presentation.</span>
 
 <!-- [Paper][ntire-paper] | -->
-[arXiv][aim-pre-print] |
-[Challenge][challenge]
+[arXiv][aim-pre-print] | [Challenge][challenge]
 
+Bibtex:
+```
+@inproceedings{kinli2022aim,
+  title={AIM 2022 challenge on Instagram filter removal: methods and results},
+  author={K{\i}nl{\i}, Furkan and Mente{\c{s}}, Sami and {\"O}zcan, Bar{\i}{\c{s}} and K{\i}ra{\c{c}}, Furkan and Timofte, Radu and Zuo, Yi and Wang, Zitao and Zhang, Xiaowen and Zhu, Yu and Li, Chenghua and others},
+  booktitle={European Conference on Computer Vision},
+  pages={27--43},
+  year={2022},
+  organization={Springer}
+}
+```
 
 [aim-pre-print]: https://arxiv.org/pdf/2210.08997.pdf
 [challenge]: https://codalab.lisn.upsaclay.fr/competitions/5081

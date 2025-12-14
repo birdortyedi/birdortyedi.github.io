@@ -4,10 +4,9 @@ collection: publications
 permalink: /publication/2022-10-23-reversed-isp-challenge-number-16
 excerpt: ''
 date: 2022-10-23
-venue: 'AIM2022: Advances in Image Manipulation workshop
-in conjunction with ECCV 2022'
+venue: 'AIM2022: Advances in Image Manipulation workshop in conjunction with ECCV 2022'
 paperurl: ''
-citation: 'Conde, M. V., et al. (2022). Reversed Image Signal Processing and RAW Reconstruction. AIM 2022 Challenge Report. arXiv preprint arXiv:2210.11153.'
+citation: 'Conde, M. V., Timofte, R., Huang, Y., Peng, J., Chen, C., Li, C., ... & Ju Jung, Y. (2022, October). Reversed image signal processing and RAW reconstruction. AIM 2022 challenge report. In European Conference on Computer Vision (pp. 3-26). Springer.'
 ---
 
 ## Abstract
@@ -16,8 +15,7 @@ Cameras capture sensor RAW images and transform them into pleasant RGB images, s
 <span style="color:red">Accepted as Oral Presentation.</span>
 
 <!-- [Paper][ntire-paper] | -->
-[arXiv][aim-pre-print] |
-[Challenge][challenge]
+[arXiv][aim-pre-print] | [Challenge][challenge]
 
 
 [aim-pre-print]: https://arxiv.org/pdf/2210.11153.pdf

@@ -181,6 +181,8 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+    sort_by: date
+    sort_order: reverse
   portfolio:
     output: true
     permalink: /:collection/:path/

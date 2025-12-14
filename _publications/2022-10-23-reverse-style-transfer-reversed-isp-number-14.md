@@ -6,8 +6,8 @@ excerpt: ''
 date: 2022-10-23
 venue: 'AIM2022: Advances in Image Manipulation workshop
 in conjunction with ECCV 2022'
-paperurl: ''
-citation: 'Kınlı, F., Özcan, B., & Kıraç, F. (2022). Reversing Image Signal Processors by Reverse Style Transferring. arXiv preprint arXiv:2210.09074.'
+paperurl: 'https://arxiv.org/pdf/2210.09074'
+citation: 'Kınlı, F., Özcan, B., & Kıraç, F. (2022, October). Reversing image signal processors by reverse style transferring. In European Conference on Computer Vision (pp. 688-698). Springer.'
 ---
 
 ## Abstract
@@ -16,9 +16,20 @@ RAW image datasets are more suitable than the standard RGB image datasets for th
 <span style="color:red">Accepted as Oral Presentation.</span>
 
 <!-- [Paper][ntire-paper] | -->
-[arXiv][aim-pre-print] |
-[Code](https://github.com/birdortyedi/reversed-isp-pytorch)
+[Paper][aim-pre-print] | [Code][code-link]
 
+Bibtex:
+```
+@inproceedings{kinli2022reversing,
+  title={Reversing image signal processors by reverse style transferring},
+  author={K{\i}nl{\i}, Furkan and {\"O}zcan, Bar{\i}{\c{s}} and K{\i}ra{\c{c}}, Furkan},
+  booktitle={European Conference on Computer Vision},
+  pages={688--698},
+  year={2022},
+  organization={Springer}
+}
+```
 
-[aim-pre-print]: https://arxiv.org/pdf/2210.09074.pdf
+[paper-link]: https://arxiv.org/pdf/2210.09074
+[code-link]: https://github.com/birdortyedi/reversed-isp-pytorch
 

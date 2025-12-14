@@ -4,11 +4,9 @@ collection: publications
 permalink: /publication/2022-04-14-cifr-contrastive-filter-removal-number-11
 excerpt: ''
 date: 2022-04-14
-venue: 'NTIRE2022: New Trends in Image Restoration and Enhancement workshop
-and challenges on image and video processing
-in conjunction with CVPR 2022'
-paperurl: ''
-citation: 'Kınlı, F., Özcan, B., & Kıraç, F. (2022). Patch-wise Contrastive Style Learning for Instagram Filter Removal. arXiv preprint arXiv:2204.07486.'
+venue: 'NTIRE2022: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing in conjunction with CVPR 2022'
+paperurl: 'https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Kinli_Patch-Wise_Contrastive_Style_Learning_for_Instagram_Filter_Removal_CVPRW_2022_paper.pdf'
+citation: 'Kınlı, F., Özcan, B., & Kıraç, F. (2022). Patch-wise contrastive style learning for instagram filter removal. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 578-588).'
 ---
 
 ## Abstract
@@ -16,11 +14,18 @@ Image-level corruptions and perturbations degrade the performance of CNNs on dif
 
 <span style="color:red">Accepted as Oral Presentation.</span>
 
-[Paper][ntire-paper] |
-[arXiv][ntire-pre-print] |
-[Code](https://github.com/birdortyedi/cifr-pytorch) |
-[Demo](https://huggingface.co/spaces/birdortyedi/cifr-pytorch)
+[Paper][paper-link] | [Code][code-link] | [Demo][demo-link]    
 
-
-[ntire-pre-print]: https://arxiv.org/pdf/2204.07486.pdf
-[ntire-paper]: https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Kinli_Patch-Wise_Contrastive_Style_Learning_for_Instagram_Filter_Removal_CVPRW_2022_paper.pdf
+Bibtex:
+```
+@inproceedings{kinli2022patch,
+  title={Patch-wise contrastive style learning for instagram filter removal},
+  author={K{\i}nl{\i}, Furkan and {\"O}zcan, Bar{\i}{\c{s}} and K{\i}ra{\c{c}}, Furkan},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={578--588},
+  year={2022}
+}
+```
+[paper-link]: https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Kinli_Patch-Wise_Contrastive_Style_Learning_for_Instagram_Filter_Removal_CVPRW_2022_paper.pdf
+[code-link]: https://github.com/birdortyedi/cifr-pytorch
+[demo-link]: https://huggingface.co/spaces/birdortyedi/cifr-pytorch
