@@ -6,11 +6,13 @@ excerpt: ""
 author_profile: true
 ---
 
+> Amor intellectualis quo FK se ipsum amat
+
 Hello folks!
 
 My name is Furkan Kınlı. I was born in April 1993 in Aydın, Turkey, and moved to İstanbul for my education.
 
-I am currently working as a faculty member in the [Artificial Intelligence Department][bau-ai] at [Bahçeşehir University][bau]. I received my B.Sc., M.Sc., and most recently my Ph.D. in Computer Science from Özyeğin University (the triple crown!). During my undergraduate studies, I was supported by a 75% YÖK scholarship and a 25% sports scholarship. My research journey began with fashion image understanding and capsule networks during my M.Sc., and continued into style modeling for image restoration tasks throughout my Ph.D., under the supervision of Assoc. Prof. Furkan Kıraç. My doctoral thesis, ["Modeling the Lighting as Style Factor via Neural Networks for White Balance Correction"][phd-thesis], was successfully defended in May 2025.
+I am currently working as a faculty member in the [Department of Artificial Intelligence][bau-ai] at [Bahçeşehir University][bau]. I received my B.Sc., M.Sc., and most recently my Ph.D. in Computer Science from Özyeğin University (the triple crown!). My research journey began with fashion image understanding and capsule networks during my M.Sc., and continued into style modeling for image restoration tasks throughout my Ph.D., under the supervision of Assoc. Prof. Furkan Kıraç. My doctoral thesis, ["Modeling the Lighting as Style Factor via Neural Networks for White Balance Correction"][phd-thesis], was successfully defended in May 2025. Current research interests include camera pipeline, illuminance and colors and computational photography.
 
 > I prefer being an academician and scientist who contributes to Computer Science for the welfare of the community, rather than a developer working solely for individual gain.
 
