@@ -45,57 +45,37 @@ $type-size-8                : 0.625em;  // ~10px
 
 
 /*
-   Colors
+   Colors (Dark Mode)
    ========================================================================== */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+/* Base Greys */
+$gray                       : #999;
+$dark-gray                  : #eee;        /* Light text for dark bg */
+$darker-gray                : #fff;        /* White text */
+$light-gray                 : #333;        /* Dark grey for secondary bg */
+$lighter-gray               : #444;        /* Slightly lighter for borders */
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+/* Backgrounds & Text */
+$body-color                 : #252a34;     /* Dark Blue/Grey Background */
+$background-color           : #252a34;     /* Match body color */
+$code-background-color      : #353b48;     /* Darker code block background */
+$code-background-color-dark : #1e2229;
+$text-color                 : #eaeaea;     /* Main text color (Off-white) */
+$border-color               : #444;        /* Dark borders */
 
-$primary-color              : #7a8288;
+/* Accents */
+$primary-color              : #a0a0a0;     /* Muted primary color */
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
 $info-color                 : #52adc8;
 
-/* brands */
-$behance-color              : #1769FF;
-$dribbble-color             : #ea4c89;
-$facebook-color             : #3b5998;
-$flickr-color               : #ff0084;
-$foursquare-color           : #0072b1;
-$github-color               : #171516;
-$google-plus-color          : #dd4b39;
-$instagram-color            : #517fa4;
-$lastfm-color               : #d51007;
-$linkedin-color             : #007bb6;
-$pinterest-color            : #cb2027;
-$rss-color                  : #fa9b39;
-$soundcloud-color           : #ff3300;
-$stackoverflow-color        : #fe7a15;
-$tumblr-color               : #32506d;
-$twitter-color              : #55acee;
-$vimeo-color                : #1ab7ea;
-$vine-color                 : #00bf8f;
-$youtube-color              : #bb0000;
-$xing-color                 : #006567;
-
-
-/* links */
-$link-color                 : #52256e;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+/* Links (Must be lighter to be readable on dark bg) */
+$link-color                 : #7fdbff;     /* Light Cyan/Blue links */
+$link-color-hover           : #fff;        /* White on hover */
+$link-color-visited         : #d0bfff;     /* Light Purple visited */
+$masthead-link-color        : #eaeaea;     /* Navigation links */
+$masthead-link-color-hover  : #fff;
 
 
 /*
