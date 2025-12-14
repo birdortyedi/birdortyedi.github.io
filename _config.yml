@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Furkan Kınlı"
   avatar           : "me.jpg"
-  bio              : "Asst. Prof. <br> Artificial Intelligence <br> Bahçeşehir University"
+  bio              : "Assistant Professor of Artificial Intelligence <br> Bahçeşehir University"
   location         : "İstanbul / Turkey"
-  employer         : "Bahçeşehir University"
+  employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=9PZrgYUAAAAJ"
   email            :
