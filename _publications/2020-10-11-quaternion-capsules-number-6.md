@@ -19,7 +19,7 @@ Bibtex:
 ```
 @inproceedings{ozcan2021quaternion,
   title={Quaternion capsule networks},
-  author={Ozcan, Baris and Kinli, Furkan and Kirac, Furkan},
+  author={Ozcan, Baris and K{\i}nl{\i}, Furkan and K{\i}ra{\c{c}}, Furkan},
   booktitle={2020 25th International Conference on Pattern Recognition (ICPR)},
   pages={6858--6865},
   year={2021},
