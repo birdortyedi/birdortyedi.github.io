@@ -184,12 +184,12 @@ ul li {
 }
 
 ul li::before {
-  content: "■"; /* Square bullet */
+  content: "✦"; /* Star/Sparkle bullet */
   color: $primary-color; /* Use your primary accent color */
-  font-size: 0.8em; /* Slightly smaller than text */
+  font-size: 1em; /* Adjust size if needed */
   position: absolute;
-  left: -1.2em; /* Position to the left */
-  top: 0.1em; /* Align with first line of text */
+  left: -1.5em; /* Position to the left */
+  top: 0em; /* Align with first line of text */
   line-height: 1.5;
 }
 
