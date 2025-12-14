@@ -164,12 +164,46 @@ hr {
 
 ul li,
 ol li {
-  margin-bottom: 0.25em;
+  margin-bottom: 0.5em;
 }
 
 li ul,
 li ol {
   margin-top: 0.5em;
+}
+
+/* Custom bullet style for lists */
+ul {
+  list-style: none; /* Remove default bullets */
+  padding-left: 1.5em; /* Add space for custom bullets */
+}
+
+ul li {
+  position: relative;
+  padding-left: 0.5em; /* Space between bullet and text */
+}
+
+ul li::before {
+  content: "■"; /* Square bullet */
+  color: $primary-color; /* Use your primary accent color */
+  font-size: 0.8em; /* Slightly smaller than text */
+  position: absolute;
+  left: -1.2em; /* Position to the left */
+  top: 0.1em; /* Align with first line of text */
+  line-height: 1.5;
+}
+
+/* Restore default style for navigation lists or other specific contexts if needed */
+nav ul,
+.page__footer ul,
+.pagination ul,
+.social-icons {
+  list-style: none;
+  padding-left: 0;
+
+  li::before {
+    content: none;
+  }
 }
 
 /*
