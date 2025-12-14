@@ -28,11 +28,16 @@ Education
 
 Experience
 ======
+
+* Assistant Professor, Nov 2025 - Present
+  * Bahçeşehir University @ Istanbul, Turkey
+  * Artificial Intelligence Department
+  
 * Co-Founder & Lead AI Engineer, Sep 2019 - Present
   * T-Fashion @ Istanbul, Turkey & Toronto, Canada
   * Fashion Trend Forecasting & Generative AI Design
   
-* Research Assistant, Feb 2019 - Present
+* Research Assistant, Feb 2019 - Oct 2025
   * Özyeğin University @ Istanbul, Turkey
   * Computer Science Department
 

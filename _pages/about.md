@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Furkan Kınlı #147 - He lå e loi la"
+title: "He lå e loi la"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,6 +13,8 @@ redirect_from:
 
 ### About Me
 
+*   I am currently working as a faculty member in the [Artificial Intelligence Department][bau-ai] at [Bahçeşehir University][bau].
+
 *   I received my Ph.D. (advised by [Assoc. Prof. Furkan Kıraç][fkirac]), M.Sc., and B.Sc. degrees in [Computer Science Department][ozu-cs] at [Özyeğin University][ozu] (YES, Triple crown!).
 
 *   My research interests focus on image restoration, camera pipeline, illuminance and colors and computational photography. 
@@ -21,6 +23,11 @@ redirect_from:
 
 
 ### Recent News
+
+* November 1, 2025. I have started to work as an Assistant Professor in the [Artificial Intelligence Department][bau-ai] at [Bahçeşehir University][bau].
+
+* June 11, 2025. We were among the finalists in "[Night Photography Rendering Challenge][nightimaging]" at [NTIRE2025: New Trends in Image Restoration and Enhancement workshop
+and challenges on image and video processing in conjunction with CVPR 2025][ntire2025].
 
 * May 12, 2025. I have successfully defended my Ph.D. thesis, ["Modeling the Lighting as Style Factor via Neural Networks for White Balance Correction"][phd-thesis].
 
@@ -142,6 +149,7 @@ Computer Vision for Fashion, Art and Design][iccv-workshop] as part of ICCV 2019
 [ntire2022]: https://data.vision.ee.ethz.ch/cvl/ntire22/
 [ntire2023]: https://cvlai.net/ntire/2023/
 [ntire2024]: https://cvlai.net/ntire/2024/
+[ntire2025]: https://cvlai.net/ntire/2025/
 [icpr2020]: http://www.icpr2020.it/
 [quaternion-caps]: https://ieeexplore.ieee.org/abstract/document/9412006
 [rescience]: http://rescience.org/x
@@ -175,3 +183,5 @@ Computer Vision for Fashion, Art and Design][iccv-workshop] as part of ICCV 2019
 [yjvci]: https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation
 [fdmloss]: https://link.springer.com/article/10.1007/s00138-025-01680-1
 [mvapp]: https://link.springer.com/journal/138
+[bau]: https://bau.edu.tr/
+[bau-ai]: https://bau.edu.tr/content/16491-about-artificial-intelligence-engineering-department

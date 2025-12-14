@@ -6,10 +6,8 @@ excerpt: ""
 author_profile: true
 ---
 
-Computer Science Department, Özyeğin University.
+Artificial Intelligence Department, Bahçeşehir University.
 
-Vision & Graphics Lab (Room: B426), Artifical Intelligence Research Center (AIRC).
+Çırağan Cd. Osmanpaşa Mektebi Sk. No: 4-6, Building D, 34353 Beşiktaş/İstanbul.
 
-Nişantepe, Orman Sk. No:13, 34794 Çekmeköy/İstanbul.
-
-E-mail: furkan.kinli [at] ozyegin.edu.tr
+E-mail: furkan.kinli [at] bau.edu.tr

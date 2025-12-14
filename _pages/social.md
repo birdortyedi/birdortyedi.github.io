@@ -10,7 +10,7 @@ Hello folks!
 
 My name is Furkan Kınlı. I was born in April 1993 in Aydın, Turkey, and moved to İstanbul for my education.
 
-I received my B.Sc., M.Sc., and most recently my Ph.D. in Computer Science from Özyeğin University (the triple crown!). During my undergraduate studies, I was supported by a 75% YÖK scholarship and a 25% sports scholarship. My research journey began with fashion image understanding and capsule networks during my M.Sc., and continued into style modeling for image restoration tasks throughout my Ph.D., under the supervision of Assoc. Prof. Furkan Kıraç. My doctoral thesis, ["Modeling the Lighting as Style Factor via Neural Networks for White Balance Correction"][phd-thesis], was successfully defended in May 2025.
+I am currently working as a faculty member in the [Artificial Intelligence Department][bau-ai] at [Bahçeşehir University][bau]. I received my B.Sc., M.Sc., and most recently my Ph.D. in Computer Science from Özyeğin University (the triple crown!). During my undergraduate studies, I was supported by a 75% YÖK scholarship and a 25% sports scholarship. My research journey began with fashion image understanding and capsule networks during my M.Sc., and continued into style modeling for image restoration tasks throughout my Ph.D., under the supervision of Assoc. Prof. Furkan Kıraç. My doctoral thesis, ["Modeling the Lighting as Style Factor via Neural Networks for White Balance Correction"][phd-thesis], was successfully defended in May 2025.
 
 > I prefer being an academician and scientist who contributes to Computer Science for the welfare of the community, rather than a developer working solely for individual gain.
 
@@ -24,7 +24,7 @@ I am a fan of basketball, especially NBA. Go Pacers!
 
 Favorite Genre: Metalcore and derivatives. [dissertate or suicide][dissertate or suicide]
 
-I enjoy reading Dostoyevsky, Camus, Sartre, D. Solstad, O. Dazai, E. Loe, H. Kang, J. Fosse, V. Hjörth, and many more authors yet to discover.
+I enjoy reading Dostoyevsky, Camus, Sartre, D. Solstad, O. Dazai, S. Beckett, E. Ionesco, H. Kang, J. Fosse, V. Hjörth, E. Loe, and many more authors yet to discover.
 
 I am really mad on Eurovision Song Contest. I follow the contest, songs and magazine on it for every year. I follow huge ESC playlists on Spotify. 
 
@@ -128,3 +128,5 @@ I was individual-licensed player for Billiards and also, I was the instructor of
 [WITCH CROWNED THE MONARCH]: https://x.com/birdortyedi/status/1789427853399888096
 [dissertate or suicide]: https://open.spotify.com/playlist/7HdMGKoxrkp5rAA3lL7HHA?si=bd18e97c2e254582
 [phd-thesis]: files/phd-thesis.pdf
+[bau]: https://bau.edu.tr/
+[bau-ai]: https://bau.edu.tr/content/16491-about-artificial-intelligence-engineering-department

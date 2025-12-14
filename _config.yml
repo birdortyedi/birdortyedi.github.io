@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Furkan Kınlı, Ph.D."
+  name             : "Furkan Kınlı"
   avatar           : "me.jpg"
-  bio              : "Computer Science <br> Özyeğin University"
+  bio              : "Asst. Prof. <br> Artificial Intelligence <br> Bahçeşehir University"
   location         : "İstanbul / Turkey"
-  employer         :
+  employer         : "Bahçeşehir University"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=XoFVvQcAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=9PZrgYUAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "furkan-kınlı-4b5648116"
-  orcid            :
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
