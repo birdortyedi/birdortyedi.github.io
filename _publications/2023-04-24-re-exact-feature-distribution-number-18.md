@@ -7,7 +7,11 @@ date: 2023-04-24
 venue: 'ML Reproducibility Challenge 2022 (ReScience Journal)'
 paperurl: 'https://openreview.net/pdf?id=a5_hbZf0NB'
 citation: 'Erkol, M., Kınlı, F., Özcan, B., & Kıraç, F. (2023). [Re] exact feature distribution matching for arbitrary style transfer and domain generalization. In ML Reproducibility Challenge 2022.'
+header:
+  teaser: 're_efdm-thumb.jpg'
 ---
+
+![][arch]{: .img-rounded}
 
 ## Reproducibility Study
 In this reproducibility study, we present our results and experience during replicating the paper, titled Exact Feature Distribution Matching for Arbitrary Style Transfer and
@@ -39,3 +43,4 @@ Original Paper:
 
 [paper-link]: https://openreview.net/pdf?id=a5_hbZf0NB
 [code-link]: https://github.com/birdortyedi/efdm-pytorch
+[arch]: /images/re_efdm-arch.jpg
