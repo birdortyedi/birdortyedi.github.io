@@ -40,4 +40,3 @@ Bibtex:
 
 [paper-link]: https://www.scitepress.org/Link.aspx?doi=10.5220/0013134600003912
 [results]: /images/dawn-tmo-results.jpg
-[results]: /images/dawn-tmo-results.jpg
