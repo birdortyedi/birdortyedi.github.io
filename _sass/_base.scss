@@ -228,13 +228,11 @@ figure {
     margin-bottom: 1em;
   }
 
-  .publication-content img {
+  img {
     width: 100%;
-    border-radius: 12px;
+    border-radius: $border-radius;
     -webkit-transition: $global-transition;
     transition: $global-transition;
-    background-color: rgba(255, 255, 255, 0.9);
-    padding: 10px;
   }
 
   > a {
