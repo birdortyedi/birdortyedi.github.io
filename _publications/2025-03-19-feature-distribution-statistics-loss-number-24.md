@@ -8,7 +8,7 @@ venue: 'Machine Vision and Applications'
 paperurl: 'https://link.springer.com/article/10.1007/s00138-025-01680-1'
 citation: 'Kınlı, F., Kıraç, F. Feature distribution statistics as a loss objective for robust white balance correction. Machine Vision and Applications 36, 58 (2025).'
 header:
-  teaser: 'feat-stats-thumb.png'
+  teaser: 'feat-stats-thumb.jpg'
 ---
 
 ![][arch]
@@ -33,4 +33,4 @@ Bibtex:
 ```
 
 [paper-link]: https://link.springer.com/article/10.1007/s00138-025-01680-1
-[arch]: /images/feat-stats-arch.png
+[arch]: /images/feat-stats-arch.jpg
