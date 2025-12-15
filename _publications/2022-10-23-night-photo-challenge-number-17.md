@@ -34,4 +34,3 @@ Bibtex:
 [ntire-paper]: https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Ershov_NTIRE_2022_Challenge_on_Night_Photography_Rendering_CVPRW_2022_paper.pdf
 [challenge]: https://nightimaging.org/challenges/2022/index.html
 [image-ref]: /images/npr22-arch.jpg
-
