@@ -3,13 +3,13 @@ title: "AIM 2022 Challenge on Instagram Filter Removal: Methods and Results"
 collection: publications
 permalink: /publication/2022-10-23-ifr-challenge-number-15
 excerpt: ''
-header:
-  teaser: /images/ifr-chal-thumb.jpg
 date: 2022-10-23
 venue: 'AIM2022: Advances in Image Manipulation workshop
 in conjunction with ECCV 2022'
 paperurl: 'https://arxiv.org/pdf/2210.08997.pdf'
 citation: 'Kınlı, F., et al. (2022). AIM 2022 Challenge on Instagram Filter Removal: Methods and Results. In European Conference on Computer Vision (pp. 27-43). Springer.'
+header:
+  teaser: /images/ifr-chal-thumb.jpg
 ---
 
 ![][image-ref]{: .img-rounded}

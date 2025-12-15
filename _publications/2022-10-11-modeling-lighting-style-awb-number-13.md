@@ -3,12 +3,12 @@ title: "Modeling the Lighting in Scenes as Style for Auto White-Balance Correcti
 collection: publications
 permalink: /publication/2022-10-11-modeling-lighting-style-awb-number-13
 excerpt: ''
-header:
-  teaser: /images/style-awb-thumb.jpg
 date: 2022-10-11
 venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2023'
 paperurl: 'https://openaccess.thecvf.com/content/WACV2023/papers/Kinli_Modeling_the_Lighting_in_Scenes_As_Style_for_Auto_White-Balance_WACV_2023_paper.pdf'
 citation: 'Kınlı, F., Yılmaz, D., Özcan, B., & Kıraç, F. (2023). Modeling the lighting in scenes as style for auto white-balance correction. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 4903-4913).'
+header:
+  teaser: 'style-awb-arch.jpg'
 ---
 
 ![][image-ref]{: .img-rounded}
