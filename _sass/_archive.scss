@@ -134,7 +134,7 @@
   @include breakpoint($small) {
     @include gallery(5 of 10);
     .archive__item-teaser {
-      max-height: 200px;
+      max-height: auto;
     }
   }
 
@@ -144,7 +144,7 @@
     @include gallery(5 of 10); // Changed from 2.5 of 10 to 5 of 10 for 2-column layout
 
     .archive__item-teaser {
-      max-height: 200px; // Adjusted max-height to accommodate larger images
+      max-height: auto; // Adjusted max-height to accommodate larger images
     }
 
     .archive__item-excerpt {
