@@ -172,7 +172,10 @@ li ol {
   margin-top: 0.5em;
 }
 
-/* Custom bullet style for lists */
+/* Custom class for rounded images */
+.img-rounded {
+  border-radius: 12px !important;
+}
 ul {
   list-style: none; /* Remove default bullets */
   padding-left: 1.5em; /* Add space for custom bullets */
