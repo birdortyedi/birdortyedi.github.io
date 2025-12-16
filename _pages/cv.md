@@ -31,7 +31,7 @@ Experience
 
 * Assistant Professor, Nov 2025 - Present
   * Bahçeşehir University @ Istanbul, Turkey
-  * Artificial Intelligence Department
+  * Department of Artificial Intelligence
   
 * Co-Founder & Lead AI Engineer, Sep 2019 - Present
   * T-Fashion @ Istanbul, Turkey & Toronto, Canada
@@ -39,7 +39,7 @@ Experience
   
 * Research Assistant, Feb 2019 - Oct 2025
   * Özyeğin University @ Istanbul, Turkey
-  * Computer Science Department
+  * Department of Computer Science
 
 * Computer Vision Research Engineer, Jun 2020 - Dec 2024
   * Fishency Innovation @ Stavanger, Norway

@@ -16,7 +16,7 @@ redirect_from:
 
 *   I am currently working as a faculty member in the [Department of Artificial Intelligence][bau-ai] at [Bahçeşehir University][bau].
 
-*   I received my Ph.D. (advised by [Assoc. Prof. Furkan Kıraç][fkirac]), M.Sc., and B.Sc. degrees in [Computer Science Department][ozu-cs] at [Özyeğin University][ozu] (YES, Triple crown!).
+*   I received my Ph.D. (advised by [Assoc. Prof. Furkan Kıraç][fkirac]), M.Sc., and B.Sc. degrees in [Department of Computer Science][ozu-cs] at [Özyeğin University][ozu] (YES, Triple crown!).
 
 *   My research interests focus on image restoration, camera pipeline, illuminance and colors and computational photography. 
 
@@ -25,7 +25,7 @@ redirect_from:
 
 ### Recent News
 
-* November 1, 2025. I have started to work as an Assistant Professor in the [Artificial Intelligence Department][bau-ai] at [Bahçeşehir University][bau].
+* November 1, 2025. I have started to work as an Assistant Professor in the [Department of Artificial Intelligence][bau-ai] at [Bahçeşehir University][bau].
 
 * June 11, 2025. We were among the finalists in "[Night Photography Rendering Challenge][nightimaging]" at [NTIRE2025: New Trends in Image Restoration and Enhancement workshop
 and challenges on image and video processing in conjunction with CVPR 2025][ntire2025].
@@ -109,7 +109,7 @@ Computer Vision for Fashion, Art and Design][iccv-workshop] as part of ICCV 2019
 
 * August 19, 2019. I successfully defended my M.Sc. thesis, "[Clothing Image Retrieval with Triplet Capsule Networks][msc-thesis]".
 
-* February 18, 2019. I have been assigned as Research Assistant to [Computer Science Department][ozu-cs] at [Özyeğin University][ozu]
+* February 18, 2019. I have been assigned as Research Assistant to [Department of Computer Science][ozu-cs] at [Özyeğin University][ozu]
 
 * April 3, 2018, [MSI Turkey][msi] has been supported my research studies, and donated GPUs. All started from this moment.
 
