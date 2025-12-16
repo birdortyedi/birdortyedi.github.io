@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-09-28-pose-attentive-caps-agreement-number-12
 excerpt: ''
 header:
-  teaser: pose-attntive-caps-thumb.jpg
+  teaser: publications/pose-attntive-caps-thumb.jpg
 date: 2022-09-28
 venue: 'Neural Computing and Applications'
 paperurl: 'https://link.springer.com/article/10.1007/s00521-022-07900-3'
@@ -38,5 +38,5 @@ Bibtex:
 
 [paper-link]: https://link.springer.com/article/10.1007/s00521-022-07900-3
 [code-link]: https://github.com/Boazrciasn/ALPACA
-[image-ref]: /images/pose-attntive-caps-arch.jpg
+[image-ref]: /images/publications/pose-attntive-caps-arch.jpg
 

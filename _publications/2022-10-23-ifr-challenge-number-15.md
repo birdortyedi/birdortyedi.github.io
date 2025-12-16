@@ -9,7 +9,7 @@ in conjunction with ECCV 2022'
 paperurl: 'https://arxiv.org/pdf/2210.08997.pdf'
 citation: 'Kınlı, F., et al. (2022). AIM 2022 Challenge on Instagram Filter Removal: Methods and Results. In European Conference on Computer Vision (pp. 27-43). Springer.'
 header:
-  teaser: ifr-chal-thumb.jpg
+  teaser: publications/ifr-chal-thumb.jpg
 ---
 
 ![][image-ref]{: .img-rounded}
@@ -36,5 +36,5 @@ Bibtex:
 
 [aim-pre-print]: https://arxiv.org/pdf/2210.08997.pdf
 [challenge]: https://codalab.lisn.upsaclay.fr/competitions/5081
-[image-ref]: /images/ifr-chal-results.jpg
+[image-ref]: /images/publications/ifr-chal-results.jpg
 

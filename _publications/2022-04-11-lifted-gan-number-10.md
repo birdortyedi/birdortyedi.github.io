@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-04-11-lifted-gan-number-10
 excerpt: ''
 header:
-  teaser: liftedgan-arch.jpg
+  teaser: publications/liftedgan-arch.jpg
 date: 2022-04-11
 venue: 'ML Reproducibility Challenge 2021 (Fall Edition), Accepted to ReScience Journal Publication'
 paperurl: 'https://openreview.net/pdf?id=BcNonfQ3RY'
@@ -30,4 +30,4 @@ Bibtex:
 
 [paper-link]: https://openreview.net/pdf?id=BcNonfQ3RY
 [code-link]: https://github.com/yilmazdoga/lifting-2d-stylegan-for-3d-aware-face-generation
-[image-ref]: /images/liftedgan-results.jpg
+[image-ref]: /images/publications/liftedgan-results.jpg

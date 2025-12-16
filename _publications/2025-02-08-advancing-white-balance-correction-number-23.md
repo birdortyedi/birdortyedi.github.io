@@ -8,7 +8,7 @@ venue: 'Journal of Visual Communication and Image Representation'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1047320325000264'
 citation: 'Kınlı, F., Özcan, B., & Kıraç, F. (2025). Advancing white balance correction through deep feature statistics and feature distribution matching. Journal of Visual Communication and Image Representation, 108, 104412.'
 header:
-  teaser: 'fdm-awb-thumb.jpg'
+  teaser: 'publications/fdm-awb-thumb.jpg'
 ---
 
 ![][arch]{: .img-rounded}
@@ -35,4 +35,4 @@ Bibtex:
 ```
 
 [paper-link]: https://www.sciencedirect.com/science/article/pii/S1047320325000264
-[arch]: /images/fdm-awb-arch.jpg
+[arch]: /images/publications/fdm-awb-arch.jpg

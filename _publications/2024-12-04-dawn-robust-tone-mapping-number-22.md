@@ -8,7 +8,7 @@ venue: 'VISIGRAPP 2025: 20th International Joint Conference on Computer Vision, 
 paperurl: 'https://www.scitepress.org/Link.aspx?doi=10.5220/0013134600003912'
 citation: 'Kınlı, F., Özcan, B. and Kıraç, F. (2025). Dawn: A Robust Tone Mapping Operator for Multi-Illuminant and Low-Light Scenarios. In Proceedings of the 20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 3: VISAPP'
 header:
-  teaser: 'dawn-tmo-thumb.jpg'
+  teaser: 'publications/dawn-tmo-thumb.jpg'
 ---
 
 ![][results]{: .img-rounded}
@@ -39,4 +39,4 @@ Bibtex:
 
 
 [paper-link]: https://www.scitepress.org/Link.aspx?doi=10.5220/0013134600003912
-[results]: /images/dawn-tmo-results.jpg
+[results]: /images/publications/dawn-tmo-results.jpg

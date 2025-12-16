@@ -8,7 +8,7 @@ venue: 'NTIRE 2024 Challenge on Night Photography Rendering in conjunction with 
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Ershov_NTIRE_2024_Challenge_on_Night_Photography_Rendering_CVPRW_2024_paper.pdf'
 citation: 'Ershov, E., et al. (2024). NTIRE 2024 Challenge on Night Photography Rendering. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops. June 2024.'
 header:
-  teaser: 'npr24-vignetting.jpg'
+  teaser: 'publications/npr24-vignetting.jpg'
 ---
 
 ![][arch]{: .img-rounded}
@@ -34,4 +34,4 @@ Bibtex:
 
 [paper-link]: https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Ershov_NTIRE_2024_Challenge_on_Night_Photography_Rendering_CVPRW_2024_paper.pdf
 [challenge-link]: https://nightimaging.org/
-[arch]: /images/npr24-arch.jpg
+[arch]: /images/publications/npr24-arch.jpg

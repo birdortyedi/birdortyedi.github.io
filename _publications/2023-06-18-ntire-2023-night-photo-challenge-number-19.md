@@ -8,7 +8,7 @@ venue: 'NTIRE 2023 Challenge on Night Photography Rendering in conjunction with 
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Shutova_NTIRE_2023_Challenge_on_Night_Photography_Rendering_CVPRW_2023_paper.pdf'
 citation: 'Shutova, A., et al. (2023). NTIRE 2023 Challenge on Night Photography Rendering. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops. June 2023.'
 header:
-  teaser: 'npr23-thumb.jpg'
+  teaser: 'publications/npr23-thumb.jpg'
 ---
 
 ![][arch]{: .img-rounded}
@@ -34,4 +34,4 @@ Bibtex:
 
 [paper-link]: https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Shutova_NTIRE_2023_Challenge_on_Night_Photography_Rendering_CVPRW_2023_paper.pdf
 [challenge-link]: https://nightimaging.org/
-[arch]: /images/npr23-arch.jpg
+[arch]: /images/publications/npr23-arch.jpg

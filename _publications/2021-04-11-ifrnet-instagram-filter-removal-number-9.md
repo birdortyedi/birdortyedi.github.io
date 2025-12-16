@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-04-11-instagram-filter-removal-number-9
 excerpt: ''
 header:
-  teaser: ifrnet-thumb.jpg
+  teaser: publications/ifrnet-thumb.jpg
 date: 2021-04-11
 venue: 'NTIRE2021: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing in conjunction with CVPR 2021'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Kinli_Instagram_Filter_Removal_on_Fashionable_Images_CVPRW_2021_paper.pdf'
@@ -32,4 +32,4 @@ Bibtex:
 [paper-link]: https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Kinli_Instagram_Filter_Removal_on_Fashionable_Images_CVPRW_2021_paper.pdf
 [code-link]: https://github.com/birdortyedi/instagram-filter-removal-pytorch
 [demo-link]: https://huggingface.co/spaces/birdortyedi/instagram-filter-removal
-[image-ref]: /images/ifrnet-arch.jpg
+[image-ref]: /images/publications/ifrnet-arch.jpg

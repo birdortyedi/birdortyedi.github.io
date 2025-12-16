@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-04-01-vcnet-img-inpainting-number-8
 excerpt: ''
 header:
-  teaser: vcnet-arch.jpg
+  teaser: publications/vcnet-arch.jpg
 date: 2021-04-01
 venue: 'ML Reproducibility Challenge 2020'
 paperurl: ''
@@ -31,4 +31,4 @@ Bibtex:
 
 [ml-reprod-report]: https://openreview.net/pdf?id=RKAKTnLzb8q
 [code-link]: https://github.com/birdortyedi/vcnet-blind-image-inpainting
-[image-ref]: /images/vcnet-results.jpg
+[image-ref]: /images/publications/vcnet-results.jpg

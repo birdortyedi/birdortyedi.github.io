@@ -8,7 +8,7 @@ venue: 'NTIRE 2022 challenge on night photography rendering in conjunction with 
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Ershov_NTIRE_2022_Challenge_on_Night_Photography_Rendering_CVPRW_2022_paper.pdf'
 citation: 'Ershov, E., et al. (2022). NTIRE 2022 Challenge on Night Photography Rendering. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops. June 2022, pp. 1287-1300.'
 header:
-  teaser: 'npr22-thumb.jpg'
+  teaser: 'publications/npr22-thumb.jpg'
 ---
 
 ![][image-ref]{: .img-rounded}
@@ -35,4 +35,4 @@ Bibtex:
 
 [ntire-paper]: https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Ershov_NTIRE_2022_Challenge_on_Night_Photography_Rendering_CVPRW_2022_paper.pdf
 [challenge]: https://nightimaging.org/challenges/2022/index.html
-[image-ref]: /images/npr22-arch.jpg
+[image-ref]: /images/publications/npr22-arch.jpg

@@ -3,11 +3,15 @@ title: "Clothing Image Retrieval with Triplet Capsule Networks / A Thesis"
 collection: publications
 permalink: /publication/2019-09-19-master-thesis-number-1
 excerpt: ""
+header:
+  teaser: publications/master-thesis-thumb.jpg
 date: 2019-09-19
 venue: "Master's Thesis, Özyeğin University"
 paperurl: 'https://birdortyedi.github.io/files/msc-thesis.pdf'
 citation: "Kınlı, O. F. (2019). Clothing image retrieval with triplet capsule networks (Master's thesis, Ozyegin University)."
 ---
+
+![][image-ref]{: .img-rounded}
 
 ## Abstract
 
@@ -29,3 +33,4 @@ Bibtex:
 [msc-slides]: https://birdortyedi.github.io/files/msc-def-slides.pdf
 [code-link]: https://github.com/birdortyedi/image-retrieval-with-capsules
 [page-link]: http://discover.ozyegin.edu.tr/iii/encore/record/C__Rb3781665?lang=eng
+[image-ref]: /images/publications/master-thesis-arch.jpg

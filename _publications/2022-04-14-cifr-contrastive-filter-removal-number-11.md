@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-04-14-cifr-contrastive-filter-removal-number-11
 excerpt: ''
 header:
-  teaser: cifr-thumb.jpg
+  teaser: publications/cifr-thumb.jpg
 date: 2022-04-14
 venue: 'NTIRE2022: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing in conjunction with CVPR 2022'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Kinli_Patch-Wise_Contrastive_Style_Learning_for_Instagram_Filter_Removal_CVPRW_2022_paper.pdf'
@@ -33,4 +33,4 @@ Bibtex:
 [paper-link]: https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Kinli_Patch-Wise_Contrastive_Style_Learning_for_Instagram_Filter_Removal_CVPRW_2022_paper.pdf
 [code-link]: https://github.com/birdortyedi/cifr-pytorch
 [demo-link]: https://huggingface.co/spaces/birdortyedi/cifr-pytorch
-[image-ref]: /images/cifr-arch.jpg
+[image-ref]: /images/publications/cifr-arch.jpg

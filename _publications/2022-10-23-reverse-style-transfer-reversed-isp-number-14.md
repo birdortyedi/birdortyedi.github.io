@@ -9,7 +9,7 @@ in conjunction with ECCV 2022'
 paperurl: 'https://arxiv.org/pdf/2210.09074'
 citation: 'Kınlı, F., Özcan, B., & Kıraç, F. (2022, October). Reversing image signal processors by reverse style transferring. In European Conference on Computer Vision (pp. 688-698). Springer.'
 header:
-  teaser: 'reversed-isp-chal-arch.jpg'
+  teaser: 'publications/reversed-isp-chal-arch.jpg'
 ---
 
 ![][results]{: .img-rounded}
@@ -36,5 +36,5 @@ Bibtex:
 
 [paper-link]: https://arxiv.org/pdf/2210.09074
 [code-link]: https://github.com/birdortyedi/reversed-isp-pytorch
-[results]: /images/reversed-style-isp-results.jpg
+[results]: /images/publications/reversed-style-isp-results.jpg
 

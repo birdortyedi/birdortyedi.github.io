@@ -8,7 +8,7 @@ venue: 'RCV 2023: The 1st ICCV 2023 Workshop on Resource Efficient Deep Learning
 paperurl: 'https://openaccess.thecvf.com/content/ICCV2023W/RCV/papers/Kinli_Deterministic_Neural_Illumination_Mapping_for_Efficient_Auto-White_Balance_Correction_ICCVW_2023_paper.pdf'
 citation: 'Kınlı, F., Yılmaz, D., Özcan, B., & Kıraç, F. (2023). Deterministic neural illumination mapping for efficient auto-white balance correction. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 1139-1147).'
 header:
-  teaser: 'denim-thumb.jpg'
+  teaser: 'publications/denim-thumb.jpg'
 ---
 
 ![][arch]{: .img-rounded}
@@ -32,4 +32,4 @@ Bibtex:
 ```
 
 [paper-link]: https://openaccess.thecvf.com/content/ICCV2023W/RCV/papers/Kinli_Deterministic_Neural_Illumination_Mapping_for_Efficient_Auto-White_Balance_Correction_ICCVW_2023_paper.pdf
-[arch]: /images/denim-arch.jpg
+[arch]: /images/publications/denim-arch.jpg
