@@ -82,7 +82,7 @@ Academic Services
 * Reviewer, IEEE/CAA Journal of Automatica Sinica
 * Reviewer, Imaging Science Journal
 * Reviewer, Journal of Experimental & Theoretical Artificial Intelligence
-* Reviewer, the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) (2025, 2024, 2023)
+* Reviewer, the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) (2026, 2025, 2024, 2023)
 * Reviewer, the International Conference on Computer Vision (ICCV) (2025, 2023)
 * Reviewer, the European Conference on Computer Vision (ECCV) (2024, 2022)
 * Reviewer, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2025, 2024, 2023)
