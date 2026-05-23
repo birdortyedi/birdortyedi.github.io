@@ -133,6 +133,17 @@
     margin: 0 0 4px;
   }
 
+  /* Reset default list bullet styles (like custom sparkle bullets) inside cards */
+  ul, li {
+    list-style: none !important;
+    padding-left: 0 !important;
+    margin: 0 !important;
+
+    &::before {
+      content: none !important;
+    }
+  }
+
   &:hover {
     transform: translateY(-3px);
     background: rgba(30, 41, 59, 0.45);
