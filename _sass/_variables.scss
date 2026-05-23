@@ -16,11 +16,11 @@ $indent-var                 : 1.3em;
 $serif                      : Cambria, Georgia, Times, serif;
 $georgia                    : Georgia, serif;
 $cambria                    : Cambria, Georgia, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$sans-serif                 : "Inter", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$monospace                  : "Fira Code", Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
-$sans-serif-narrow          : $cambria;
+$sans-serif-narrow          : "Outfit", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 /* $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif; */
 
 /* serif typefaces */
@@ -30,9 +30,9 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $cambria;
-$header-font-family         : $cambria;
-$caption-font-family        : $cambria;
+$global-font-family         : $sans-serif;
+$header-font-family         : $sans-serif-narrow;
+$caption-font-family        : $sans-serif-narrow;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
@@ -50,33 +50,33 @@ $type-size-8                : 0.625em;  // ~10px
    ========================================================================== */
 
 /* Base Greys */
-$gray                       : #999;
-$dark-gray                  : #eee;        /* Light text for dark bg */
-$darker-gray                : #fff;        /* White text */
-$light-gray                 : #333;        /* Dark grey for secondary bg */
-$lighter-gray               : #444;        /* Slightly lighter for borders */
+$gray                       : #64748b;     /* slate-500 */
+$dark-gray                  : #94a3b8;     /* slate-400 (Secondary text) */
+$darker-gray                : #f8fafc;     /* slate-50 (White header text) */
+$light-gray                 : #1e293b;     /* slate-800 (Secondary bg / blockquotes / cards) */
+$lighter-gray               : #334155;     /* slate-700 (Lighter borders/hover cards) */
 
 /* Backgrounds & Text */
-$body-color                 : #252a34;     /* Dark Blue/Grey Background */
-$background-color           : #252a34;     /* Match body color */
-$code-background-color      : #353b48;     /* Darker code block background */
-$code-background-color-dark : #1e2229;
-$text-color                 : #eaeaea;     /* Main text color (Off-white) */
-$border-color               : #444;        /* Dark borders */
+$body-color                 : #0b0f19;     /* Deep modern slate black */
+$background-color           : #0b0f19;
+$code-background-color      : #131924;     /* Deep slate code bg */
+$code-background-color-dark : #070a0f;
+$text-color                 : #e2e8f0;     /* slate-200 (Clean readable off-white text) */
+$border-color               : #1e293b;     /* slate-800 (Clean thin borders) */
 
 /* Accents */
-$primary-color              : #a0a0a0;     /* Muted primary color */
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$primary-color              : #38bdf8;     /* Sky blue accent */
+$success-color              : #10b981;     /* Emerald green */
+$warning-color              : #f59e0b;
+$danger-color               : #ef4444;
+$info-color                 : #06b6d4;
 
-/* Links (Must be lighter to be readable on dark bg) */
-$link-color                 : #7fdbff;     /* Light Cyan/Blue links */
-$link-color-hover           : #fff;        /* White on hover */
-$link-color-visited         : #d0bfff;     /* Light Purple visited */
-$masthead-link-color        : #eaeaea;     /* Navigation links */
-$masthead-link-color-hover  : #fff;
+/* Links */
+$link-color                 : #38bdf8;     /* Sky blue links */
+$link-color-hover           : #60a5fa;     /* Bright blue on hover */
+$link-color-visited         : #a5b4fc;     /* Indigo-300 visited */
+$masthead-link-color        : #94a3b8;     /* Nav links in slate-400 */
+$masthead-link-color-hover  : #f8fafc;     /* Active nav links in white */
 
 /* Brands (restored for dark mode compatibility) */
 $behance-color              : #1769FF;
