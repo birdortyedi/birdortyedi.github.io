@@ -1,6 +1,6 @@
 ---
 title: "Açılmayan Şemsiyeler Üzerine"
-date: 2026-05-23
+date: 2026-05-24
 permalink: /blog/acilmayan-semsiyeler-uzerine/
 excerpt: "Elias Rukla’nın şahsında izlediğimiz şey, kurulu düzenin, burjuva konforunun ve entelektüel illüzyonların darmadağınık bir şekilde çöküşüdür..."
 tags:
@@ -10,8 +10,6 @@ tags:
 header:
   teaser: acilmayan-semsiyeler.png
 ---
-
-<img src="/images/acilmayan-semsiyeler.png" style="display: block; margin: 0 auto 1.5em; max-width: 280px; width: 100%; height: auto; border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.08); box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);" alt="Açılmayan Şemsiyeler Üzerine">
 
 Modern insan, haysiyetini pürüzsüz ve steril bir koridor sanma yanılgısıyla yaşar. Yıllarca biriktirilen unvanlar, titizlikle seçilen kelimeler, akademik sermaye ve toplum içinde kibarlıkla taşınan o saygın maskeler, bizi hayatın ham ve vahşi anlamsızlığından koruyan birer zırh gibidir. Fakat o koridorun sonunda, açılmamakta direnen sıradan bir nesne her zaman pusuda bekler. Dag Solstad, *Mahcubiyet ve Haysiyet*’te bizi tam olarak o yanılsamanın bittiği, çiğ gerçekliğin başladığı yere bırakır. Elias Rukla’nın şahsında izlediğimiz şey, sadece yaşlı bir edebiyat öğretmeninin yağmurlu bir Oslo gününde geçirdiği sıradan bir sinir krizi değildir; kurulu düzenin, burjuva konforunun ve entelektüel illüzyonların darmadağınık bir şekilde çöküşüdür.
 
@@ -24,5 +22,7 @@ Solstad’ın karakterini Ibsen üzerinden temellendirmesi boşuna değildir. *Y
 Ancak Elias, bu çöküşün ardından dünyayı ateşe vermez, gürültülü bir isyana ya da ucuz bir intikam arayışına girişmez. Trajedisini asil ve amansız bir eylemsizlikle taçlandırır. Jon Fosse karakterlerinin o tekinsiz, ağır suskunluğuna benzer bir şekilde kendi içine çekilir. Dünyanın pazar yerinden, unvanların sahteliğinden ve modern insanın bitmek bilmeyen onaylanma arzularından istifa eder. Onun yeni haysiyetini var eden şey, artık tamamen "görünmez" olmayı ve modern akıntıya karşı sessizce durmayı seçmesidir.
 
 Bu noktada Solstad’ın metni, benim için bir edebiyat incelemesi olmaktan çıkıp çıplak bir itirafa dönüşüyor. Çünkü Elias Rukla’nın o darmadağınık okul bahçesinde, kırık bir şemsiyeyle baş başa kaldığı anı, ben bir yerlerden çok iyi tanıyorum. Kürsülerin, unvanların, anlatılan ve duvarlara çarparak geri dönen o ağır teorilerin gölgesinde, maskelerin pamuk ipliğine bağlı olduğunu bilmek benim için teorik bir bilgi değil, yaşanmış bir sökümdür. Solstad bu kitabı bana, o her şeyin bittiği anın çiğliğini ve ardından gelen o derin, mutlak mahcubiyeti fısıldamak için yazmış sanki. O mahcubiyeti, o sahnede kalakalmanın soğukluğunu biliyorum. Ve belki de tam bu yüzden, herkes gürültülü başarı öykülerinin peşinde koşarken, ben o kırık şemsiyenin altında, kendi sessiz inzivamın haysiyetini selamlıyorum.
+
+![][teaser]{: .img-rounded}
 
 [teaser]: /images/acilmayan-semsiyeler.png
