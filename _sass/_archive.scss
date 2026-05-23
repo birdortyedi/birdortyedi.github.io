@@ -318,3 +318,21 @@
         height: auto;
     }
 }
+
+/* Blog index page intro text styling */
+.blog-subtitle {
+  font-size: 1.05em;
+  font-weight: 500;
+  color: #f8fafc;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+
+.blog-intro {
+  font-size: 0.9em;
+  color: $dark-gray;
+  line-height: 1.6;
+  margin-top: 0;
+  margin-bottom: 1.5em;
+}
+
