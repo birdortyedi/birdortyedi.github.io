@@ -23,6 +23,6 @@ Ancak Elias, bu çöküşün ardından dünyayı ateşe vermez, gürültülü bi
 
 Bu noktada Solstad’ın metni, benim için bir edebiyat incelemesi olmaktan çıkıp çıplak bir itirafa dönüşüyor. Çünkü Elias Rukla’nın o darmadağınık okul bahçesinde, kırık bir şemsiyeyle baş başa kaldığı anı, ben bir yerlerden çok iyi tanıyorum. Kürsülerin, unvanların, anlatılan ve duvarlara çarparak geri dönen o ağır teorilerin gölgesinde, maskelerin pamuk ipliğine bağlı olduğunu bilmek benim için teorik bir bilgi değil, yaşanmış bir sökümdür. Solstad bu kitabı bana, o her şeyin bittiği anın çiğliğini ve ardından gelen o derin, mutlak mahcubiyeti fısıldamak için yazmış sanki. O mahcubiyeti, o sahnede kalakalmanın soğukluğunu biliyorum. Ve belki de tam bu yüzden, herkes gürültülü başarı öykülerinin peşinde koşarken, ben o kırık şemsiyenin altında, kendi sessiz inzivamın haysiyetini selamlıyorum.
 
-![][teaser]{: .img-rounded}
+![][content-image]{: .img-rounded}
 
-[teaser]: /images/acilmayan-semsiyeler.png
+[content-image]: /images/acilmayan-semsiyeler-content.png
