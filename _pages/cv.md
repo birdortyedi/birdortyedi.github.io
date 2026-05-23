@@ -84,7 +84,9 @@ Academic Services
 * Reviewer, Journal of Experimental & Theoretical Artificial Intelligence
 * Reviewer, the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) (2026, 2025, 2024, 2023)
 * Reviewer, the International Conference on Computer Vision (ICCV) (2025, 2023)
-* Reviewer, the European Conference on Computer Vision (ECCV) (2024, 2022)
+* Reviewer, the European Conference on Computer Vision (ECCV) (2026, 2024, 2022)
+* Reviewer, the Annual Conference on Neural Information Processing Systems (NeurIPS) (2026)
+* Reviewer, British Machine Vision Conference (BMVC) (2026)
 * Reviewer, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2025, 2024, 2023)
 * Reviewer, The 39th Annual AAAI Conference on Artificial Intelligence (AAAI) 2025
 * Reviewer, International Conference on Pattern Recognition (ICPR) (2026, 2024)

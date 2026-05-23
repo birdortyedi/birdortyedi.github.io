@@ -25,6 +25,14 @@ redirect_from:
 
 ### Recent News
 
+* April 30, 2026. A paper titled "[Beyond Pixel Fidelity: Minimizing Perceptual Distortion and Color Bias in Night Photography Rendering][beyond-pixel-fidelity]" was accepted to [IEEE International Conference on Image Processing (ICIP) 2026][icip2026].
+
+* April 8, 2026. I take the **3rd place** in "[Night Photography Rendering Challenge][nightimaging]" at [NTIRE2026: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing in conjunction with CVPR 2026][ntire2026].
+
+* March 19, 2026. I take the **1st place (Winner)** in "Photography Retouching Transfer Challenge" at [NTIRE2026: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing in conjunction with CVPR 2026][ntire2026].
+
+* March 16, 2026. I take the **1st, 3rd, 3rd, and 5th place** rankings across different benchmarks of "Low-light Image Enhancement Challenge" at [NTIRE2026: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing in conjunction with CVPR 2026][ntire2026].
+
 * November 1, 2025. I have started to work as an Assistant Professor in the [Department of Artificial Intelligence][bau-ai] at [Bahçeşehir University][bau].
 
 * June 11, 2025. We were among the finalists in "[Night Photography Rendering Challenge][nightimaging]" at [NTIRE2025: New Trends in Image Restoration and Enhancement workshop
@@ -123,7 +131,9 @@ Computer Vision for Fashion, Art and Design][iccv-workshop] as part of ICCV 2019
 * Reviewer, Journal of Experimental & Theoretical Artificial Intelligence
 * Reviewer, the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) (2026, 2025, 2024, 2023)
 * Reviewer, the International Conference on Computer Vision (ICCV) (2025, 2023)
-* Reviewer, the European Conference on Computer Vision (ECCV) (2024, 2022)
+* Reviewer, the European Conference on Computer Vision (ECCV) (2026, 2024, 2022)
+* Reviewer, the Annual Conference on Neural Information Processing Systems (NeurIPS) (2026)
+* Reviewer, British Machine Vision Conference (BMVC) (2026)
 * Reviewer, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2025, 2024, 2023)
 * Reviewer, The 39th Annual AAAI Conference on Artificial Intelligence (AAAI) 2025
 * Reviewer, International Conference on Pattern Recognition (ICPR) (2026, 2024)
@@ -186,3 +196,6 @@ Computer Vision for Fashion, Art and Design][iccv-workshop] as part of ICCV 2019
 [mvapp]: https://link.springer.com/journal/138
 [bau]: https://bau.edu.tr/
 [bau-ai]: https://bau.edu.tr/content/16491-about-artificial-intelligence-engineering-department
+[beyond-pixel-fidelity]: https://arxiv.org/pdf/2604.28136
+[icip2026]: https://2026.ieeeicip.org/
+[ntire2026]: https://cvlai.net/ntire/2026/
