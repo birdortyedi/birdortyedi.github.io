@@ -8,7 +8,7 @@ author_profile: true
 
 Department of Artificial Intelligence, Bahçeşehir University.
 
-Çırağan Cd. Osmanpaşa Mektebi Sk. No: 4-6, Building D, 34353 Beşiktaş/İstanbul.
+Çırağan Cd. Osmanpaşa Mektebi Sk. No: 4-6, Building D, Office No: 327, 34353 Beşiktaş/İstanbul.
 
 E-mail: furkan.kinli [at] bau.edu.tr
 
