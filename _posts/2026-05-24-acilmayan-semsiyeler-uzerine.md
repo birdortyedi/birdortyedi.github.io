@@ -2,7 +2,7 @@
 title: "Açılmayan Şemsiyeler Üzerine"
 date: 2026-05-24
 permalink: /blog/acilmayan-semsiyeler-uzerine/
-excerpt: "Elias Rukla’nın şahsında izlediğimiz şey, kurulu düzenin, burjuva konforunun ve entelektüel illüzyonların darmadağınık bir şekilde çöküşüdür..."
+excerpt: "Elias Rukla’nın şahsında izlediğimiz şey, sadece yaşlı bir edebiyat öğretmeninin yağmurlu bir Oslo gününde geçirdiği sıradan bir sinir krizi değildir; otuz yıllık rutinlerin, entelektüel alışkanlıkların ve zihinsel illüzyonların darmadağınık bir şekilde çöküşüdür."
 tags:
   - edebiyat
   - felsefe
