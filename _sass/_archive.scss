@@ -348,4 +348,30 @@
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
 }
 
+/* Custom Read More CTA link inside cards */
+.read-more-link {
+  display: inline-block;
+  margin-top: 0.8em;
+  font-family: $sans-serif-narrow;
+  font-size: $type-size-6;
+  font-weight: 600;
+  color: #38bdf8;
+  text-decoration: none !important;
+  transition: color 0.2s ease;
+
+  .arrow {
+    display: inline-block;
+    transition: transform 0.2s ease;
+  }
+
+  &:hover {
+    color: #60a5fa;
+
+    .arrow {
+      transform: translateX(4px);
+    }
+  }
+}
+
+
 
