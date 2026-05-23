@@ -31,9 +31,9 @@
     }
   }
 
-
   @include breakpoint($x-large) {
-    padding-right: 0;
+    /* Preserve symmetric padding of 1.5em on larger screens */
+    padding-right: 1.5em;
   }
 
   h2, h3, h4, h5, h6 {
@@ -168,6 +168,7 @@
 
   @include breakpoint($large) {
     display: block;
+    text-align: center;
   }
 
   button {
@@ -194,9 +195,10 @@
   cursor: default;
 
   @include breakpoint($large) {
-    display: block;
+    display: inline-block;
+    text-align: left;
     position: relative;
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     border: 0;
     background: transparent;
