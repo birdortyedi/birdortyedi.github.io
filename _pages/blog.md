@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Welcome to my blog! Here I share insights, thoughts, and technical tutorials related to computer vision, generative AI, and image processing.
+A retreat against the noise of the world.
 
 {% for post in site.posts %}
   {% include archive-single.html %}
