@@ -11,6 +11,9 @@ main:
     
   - title: "Social"
     url: /social/
+
+  - title: "Blog"
+    url: /blog/
     
   - title: "Contact"
     url: /contact/

@@ -26,17 +26,24 @@
       </div>
     {% endif %}
 
-    {% if post.collection == 'publications' %}
-      {% capture pub_teaser %}{% if teaser %}{{ teaser }}{% else %}placeholder.svg{% endif %}{% endcapture %}
-      <div class="archive__item-teaser publication-teaser">
-        <img src=
-          {% if pub_teaser contains "://" %}
-            "{{ pub_teaser }}"
-          {% else %}
-            "{{ pub_teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="">
-      </div>
+    {% if post.collection == 'publications' or post.collection == 'posts' %}
+      {% if post.collection == 'publications' %}
+        {% capture pub_teaser %}{% if teaser %}{{ teaser }}{% else %}placeholder.svg{% endif %}{% endcapture %}
+      {% else %}
+        {% assign pub_teaser = teaser %}
+      {% endif %}
+
+      {% if pub_teaser %}
+        <div class="archive__item-teaser publication-teaser">
+          <img src=
+            {% if pub_teaser contains "://" %}
+              "{{ pub_teaser }}"
+            {% else %}
+              "{{ pub_teaser | prepend: "/images/" | prepend: base_path }}"
+            {% endif %}
+            alt="">
+        </div>
+      {% endif %}
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
