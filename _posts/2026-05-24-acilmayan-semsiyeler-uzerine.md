@@ -8,7 +8,7 @@ tags:
   - felsefe
   - dag-solstad
 header:
-  teaser: acilmayan-semsiyeler.png
+  teaser: blog/acilmayan-semsiyeler.png
 ---
 
 Modern insan, haysiyetini pürüzsüz ve steril bir koridor sanma yanılgısıyla yaşar. Yıllarca biriktirilen unvanlar, titizlikle seçilen kelimeler, akademik sermaye ve toplum içinde kibarlıkla taşınan o saygın maskeler, bizi hayatın ham ve vahşi anlamsızlığından koruyan birer zırh gibidir. Fakat o koridorun sonunda, açılmamakta direnen sıradan bir nesne her zaman pusuda bekler. Dag Solstad, *Mahcubiyet ve Haysiyet*’te bizi tam olarak o yanılsamanın bittiği, çiğ gerçekliğin başladığı yere bırakır. Elias Rukla’nın şahsında izlediğimiz şey, sadece yaşlı bir edebiyat öğretmeninin yağmurlu bir Oslo gününde geçirdiği sıradan bir sinir krizi değildir; otuz yıllık rutinlerin, entelektüel alışkanlıkların ve zihinsel illüzyonların darmadağınık bir şekilde çöküşüdür.
@@ -23,6 +23,6 @@ Ancak Elias, bu çöküşün ardından dünyayı ateşe vermez, gürültülü bi
 
 Bu noktada Solstad’ın metni, benim için bir edebiyat incelemesi olmaktan çıkıp çıplak bir itirafa dönüşüyor. Çünkü Elias Rukla’nın o darmadağınık okul bahçesinde, kırık bir şemsiyeyle baş başa kaldığı anı, ben bir yerlerden çok iyi tanıyorum. Kürsülerin, unvanların, anlatılan ve duvarlara çarparak geri dönen o ağır teorilerin gölgesinde, maskelerin pamuk ipliğine bağlı olduğunu bilmek benim için teorik bir bilgi değil, yaşanmış bir sökümdür. Solstad bu kitabı bana, o her şeyin bittiği anın çiğliğini ve ardından gelen o derin, mutlak mahcubiyeti fısıldamak için yazmış sanki. O mahcubiyeti, o sahnede kalakalmanın soğukluğunu biliyorum. Ve belki de tam bu yüzden, herkes gürültülü başarı öykülerinin peşinde koşarken, ben o kırık şemsiyenin altında, kendi sessiz inzivamın haysiyetini selamlıyorum.
 
-![][content-image]{: .img-rounded}
+![][content-image]{: .blog-content-image}
 
-[content-image]: /images/acilmayan-semsiyeler-content.jpg
+[content-image]: /images/blog/acilmayan-semsiyeler-content.jpg

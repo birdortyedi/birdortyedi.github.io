@@ -299,6 +299,9 @@
    ========================================================================== */
 
 .publication-teaser {
+    float: left;
+    width: 80px; /* Compact width on mobile */
+    margin-right: 15px;
     margin-bottom: 0.5em;
     border-radius: 8px;
     overflow: hidden;
@@ -307,8 +310,7 @@
     transition: border-color 0.3s ease, transform 0.3s ease;
     
     @include breakpoint($medium) {
-        float: left;
-        width: 30%;
+        width: 120px; /* Fixed elegant width on desktop */
         margin-right: 20px;
     }
 
@@ -336,16 +338,16 @@
   margin-bottom: 1.5em;
 }
 
-/* Individual blog post image styling */
-.blog-post-image {
+/* Individual blog post content image styling */
+.blog-content-image {
   display: block;
-  margin: 0 auto 1.5em;
-  max-width: 350px;
+  margin: 2.5em auto;
+  max-width: 480px; /* Elegant mid-size width for the illustration */
   width: 100%;
   height: auto;
   border-radius: 8px;
   border: 1px solid rgba(255, 255, 255, 0.08);
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
 }
 
 /* Custom Read More CTA link inside cards */
