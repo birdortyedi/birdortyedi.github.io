@@ -25,4 +25,4 @@ Bu noktada Solstad’ın metni, benim için bir edebiyat incelemesi olmaktan ç�
 
 ![][content-image]{: .img-rounded}
 
-[content-image]: /images/acilmayan-semsiyeler-content.png
+[content-image]: /images/acilmayan-semsiyeler-content.jpg
