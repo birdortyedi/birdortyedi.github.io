@@ -4,12 +4,23 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <a class="site-title" href="{{ base_path }}/">{{ site.title }}</a>
+      
+      <!-- Checkbox for pure CSS mobile menu toggle -->
+      <input type="checkbox" id="masthead-nav-toggle" class="masthead-nav-checkbox">
+      
+      <!-- Animated hamburger button -->
+      <label for="masthead-nav-toggle" class="masthead-nav-label">
+        <span class="navicon-line"></span>
+        <span class="navicon-line"></span>
+        <span class="navicon-line"></span>
+      </label>
+      
       <nav id="site-nav" class="site-nav">
         <ul class="visible-links">
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
-              {% else %}
+            {% else %}
               {% assign domain = base_path %}
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
