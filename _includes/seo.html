@@ -101,6 +101,12 @@
   <meta property="og:image" content="{% if page.header.teaser contains "://" %}{{ page.header.teaser }}{% else %}{{ page.header.teaser | prepend: "/images/" | prepend: base_path }}{% endif %}">
 {% endif %}
 
+{% if page.header.share_image or page.header.image or page.header.overlay_image %}
+  <meta property="og:image:width" content="{{ page.header.og_image_width | default: 1200 }}">
+  <meta property="og:image:height" content="{{ page.header.og_image_height | default: 630 }}">
+  <meta property="og:image:type" content="image/jpeg">
+{% endif %}
+
 {% if page.date %}
   <meta property="og:type" content="article">
   <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
