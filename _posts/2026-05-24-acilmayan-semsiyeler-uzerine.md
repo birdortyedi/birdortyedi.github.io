@@ -9,6 +9,7 @@ tags:
   - dag-solstad
 header:
   teaser: blog/acilmayan-semsiyeler.png
+  share_image: blog/acilmayan-semsiyeler-share.jpg
 ---
 
 Modern insan, haysiyetini pürüzsüz ve steril bir koridor sanma yanılgısıyla yaşar. Yıllarca biriktirilen unvanlar, titizlikle seçilen kelimeler, akademik sermaye ve toplum içinde kibarlıkla taşınan o saygın maskeler, bizi hayatın ham ve vahşi anlamsızlığından koruyan birer zırh gibidir. Fakat o koridorun sonunda, açılmamakta direnen sıradan bir nesne her zaman pusuda bekler. Dag Solstad, *Mahcubiyet ve Haysiyet*’te bizi tam olarak o yanılsamanın bittiği, çiğ gerçekliğin başladığı yere bırakır. Elias Rukla’nın şahsında izlediğimiz şey, sadece yaşlı bir edebiyat öğretmeninin yağmurlu bir Oslo gününde geçirdiği sıradan bir sinir krizi değildir; otuz yıllık rutinlerin, entelektüel alışkanlıkların ve zihinsel illüzyonların darmadağınık bir şekilde çöküşüdür.
