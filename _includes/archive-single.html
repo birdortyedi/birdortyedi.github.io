@@ -26,7 +26,7 @@
       </div>
     {% endif %}
 
-    {% if post.collection == 'publications' or post.collection == 'posts' %}
+    {% if include.type != "grid" and (post.collection == 'publications' or post.collection == 'posts') %}
       {% if post.collection == 'publications' %}
         {% capture pub_teaser %}{% if teaser %}{{ teaser }}{% else %}placeholder.svg{% endif %}{% endcapture %}
       {% else %}
