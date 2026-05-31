@@ -8,8 +8,8 @@ tags:
   - felsefe
   - jon-fosse
 header:
-  teaser: blog/aydinlanmayan-aksamlar-uzerine.jpg
-  share_image: images/blog/aydinlanmayan-aksamlar-uzerine-share.jpg
+  teaser: blog/aydinlanmayan-aksamlar.jpg
+  share_image: images/blog/aydinlanmayan-aksamlar-share.jpg
 ---
 
 Fosse bizi en baştan itibaren çok şeffaf ve tehlikeli bir yalana ortak ediyor. Yaşlı balıkçı Johannes yataktan kalktığında, yıllardır sızlayan eklemlerinin artık sızlamadığını, mutfaktaki eşyaların eline zahmetsizce oturduğunu gördüğünde, biz de o tuhaf rahatlığın peşine takılıyoruz. Yalnızlığın ve eski sızıların usulca kenara çekildiği muazzam bir sabah ayini başlıyor sanki. Noktasız, duraksız, tek bir pürüz bile barındırmayan o hipnotik ritme kapılıp gidiyoruz. Eski dostu Peter kıyıda belirdiğinde, birlikte kayıkla denize açılıp hiç yorulmadan kürek çektiklerinde bile içimizde en ufak bir şüphe uyanmıyor; Fosse’nin dili bizi o tekinsiz sükunete öyle bir ikna ediyor ki, ortadaki bu olağanüstü hafifliği sadece yaşlılığın getirdiği bir durulma zannediyoruz.
@@ -20,5 +20,5 @@ Benim için bu hikayeden geriye kalan en çarpıcı şey, kendi iç dünyama efo
 
 ![][content-image]{: .blog-content-image}
 
-[content-image]: /images/blog/aydinlanmayan-aksamlar-uzerine-content.jpg
+[content-image]: /images/blog/aydinlanmayan-aksamlar-content.jpg
 
