@@ -19,7 +19,7 @@ header:
 Auto-white balance (AWB) correction is a critical operation in image signal processors for accurate and consistent color correction across various illumination scenarios. This paper presents a novel and efficient AWB correction method that achieves at least 35 times faster processing with equivalent or superior performance on high-resolution images for the current state-of-the-art methods. Inspired by deterministic color style transfer, our approach introduces deterministic illumination color mapping, leveraging learnable projection matrices for both canonical illumination form and AWB-corrected output. It involves feeding highresolution images and corresponding latent representations into a mapping module to derive a canonical form, followed by another mapping module that maps the pixel values to those for the corrected version. This strategy is designed as resolution-agnostic and also enables seamless integration of any pre-trained AWB network as the backbone. Experimental results confirm the effectiveness of our approach, revealing significant performance improvements and reduced
 time complexity compared to state-of-the-art methods. Our method provides an efficient deep learning-based AWB correction solution, promising real-time, high-quality color correction for digital imaging applications. Source code is available at https://github.com/birdortyedi/DeNIM/
 
-[Paper][paper-link]
+[Paper][paper-link]{: .btn .btn--info}
 
 Bibtex:
 ```

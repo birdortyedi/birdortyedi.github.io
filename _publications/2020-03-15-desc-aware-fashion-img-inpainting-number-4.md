@@ -18,7 +18,7 @@ citation: 'Kınlı, F., Özcan, B., & Kıraç, F. (2020, April). Description-awa
 Inpainting a particular missing region in an image is a challenging vision task, and promising improvements on this task have been achieved with the help of the recent developments in vision-related deep learning studies. Although it may have a direct impact on the decisions of AI-based fashion analysis systems, a limited number of studies for image inpainting have been done in fashion domain, so far. In this study, we propose a multi-modal generative deep learning approach for filling the missing parts in fashion images by constraining visual features with textual features extracted from image descriptions. Our model is composed of four main blocks which can be introduced as textual feature extractor, coarse image generator guided by textual features, fine image generator enhancing the coarse output, and lastly global and local discriminators improving refined outputs. Several experiments conducted on FashionGen dataset with different combination of neural network components show that our multi-modal approach is able to generate visually plausible patches to fill the missing parts in the images.
 
 
-[Paper][paper-link] | [Code][code-link] | [Poster][iccta-poster] 
+[Paper][paper-link]{: .btn .btn--info} [Code][code-link]{: .btn .btn--info} [Poster][iccta-poster]{: .btn .btn--info} 
 
 Bibtex:
 ```

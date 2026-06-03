@@ -21,7 +21,7 @@ RAW image datasets are more suitable than the standard RGB image datasets for th
 <span style="color:red">Accepted as Oral Presentation.</span>
 
 <!-- [Paper][ntire-paper] | -->
-[Paper][aim-pre-print] | [Code][code-link]
+[Paper][aim-pre-print]{: .btn .btn--info} [Code][code-link]{: .btn .btn--info}
 
 Bibtex:
 ```

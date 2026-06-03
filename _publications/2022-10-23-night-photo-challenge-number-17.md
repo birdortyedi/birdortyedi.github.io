@@ -21,7 +21,7 @@ This paper reviews the NTIRE 2022 challenge on night photography rendering. The 
 
 <span style="color:red">Accepted as Oral Presentation.</span>
 
-[Paper][ntire-paper] | [Challenge][challenge]
+[Paper][ntire-paper]{: .btn .btn--info} [Challenge][challenge]{: .btn .btn--info}
 
 Bibtex:
 ```

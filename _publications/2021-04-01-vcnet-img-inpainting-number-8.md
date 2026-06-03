@@ -17,7 +17,7 @@ citation: 'Kınlı, F., Özcan, B. & Kıraç, F. (2021). Re: VCNet: A Robust App
 ## Abstract
 In this study, we report and reproduce, on a large scale, the results of the article of a novel blind image inpainting architecture, namely VCNet, which jointly-controls the mask prediction and the blind inpainting modules. We have implemented this architecture from scratch in PyTorch, and then have conducted our experiments and blind inpainting evaluation on all datasets, as described in the article. We have achieved to reproduce the results qualitatively and quantitatively in most cases.
 
-[Report][ml-reprod-report] | [Code][code-link]
+[Report][ml-reprod-report]{: .btn .btn--info} [Code][code-link]{: .btn .btn--info}
 
 Bibtex:
 ```

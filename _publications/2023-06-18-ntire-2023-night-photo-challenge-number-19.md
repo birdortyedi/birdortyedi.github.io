@@ -19,7 +19,7 @@ This paper presents a review of the NTIRE 2023 challenge on night photography re
 
 <span style="color:red">We took the 7th place in the challenge.</span>
 
-[Paper][paper-link] | [Challenge][challenge-link]
+[Paper][paper-link]{: .btn .btn--info} [Challenge][challenge-link]{: .btn .btn--info}
 
 Bibtex:
 ```

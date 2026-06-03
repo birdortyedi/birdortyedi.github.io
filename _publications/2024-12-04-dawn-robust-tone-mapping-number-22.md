@@ -20,7 +20,7 @@ We introduce Dawn, a novel Tone Mapping Operator (TMO) designed to address the l
 
 <span style="color:red">Accepted as Oral Presentation.</span>
 
-[Paper][paper-link]
+[Paper][paper-link]{: .btn .btn--info}
 
 Bibtex:
 ```

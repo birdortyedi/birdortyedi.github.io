@@ -19,7 +19,7 @@ Image-level corruptions and perturbations degrade the performance of CNNs on dif
 
 <span style="color:red">Accepted as Oral Presentation.</span>
 
-[Paper][paper-link] | [Code][code-link] | [Demo][demo-link]    
+[Paper][paper-link]{: .btn .btn--info} [Code][code-link]{: .btn .btn--info} [Demo][demo-link]{: .btn .btn--info}    
 
 Bibtex:
 ```

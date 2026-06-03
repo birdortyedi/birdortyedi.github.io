@@ -18,7 +18,7 @@ citation: 'Kinli, F., Ozcan, B., & Kirac, F. (2019). Fashion image retrieval wit
 In this study, we investigate in-shop clothing retrieval performance of densely-connected Capsule Networks with dynamic routing. To achieve this, we propose Triplet-based design of Capsule Network architecture with two differ- ent feature extraction methods. In our design, Stacked- convolutional (SC) and Residual-connected (RC) blocks are used to form the input of capsule layers. Experimental re- sults show that both of our designs outperform all variants of the baseline study, namely FashionNet, without relying on the landmark information. Moreover, when compared to the SOTA architectures on clothing retrieval, our proposed Triplet Capsule Networks achieve comparable recall rates only with half of parameters used in the SOTA architectures.
 
 
-[Paper][paper-link] | [Code][code-link] | [Poster][iccv-poster] 
+[Paper][paper-link]{: .btn .btn--info} [Code][code-link]{: .btn .btn--info} [Poster][iccv-poster]{: .btn .btn--info} 
 
 Bibtex:
 ```

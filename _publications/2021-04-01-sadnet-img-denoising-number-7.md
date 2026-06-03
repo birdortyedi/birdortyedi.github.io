@@ -17,7 +17,7 @@ citation: 'Menteş, S., Kınlı, F., Özcan, B., & Kıraç, F. [Re] Spatial-Adap
 ## Abstract
 In this study, we present our results and experience during replicating the paper titled "Spatial-Adaptive Network for Single Image Denoising". This paper proposes novel spatial-adaptive denoising architecture for efficient noise removal by leveraging the deformable convolutions to adapt spatial information (i.e. edges and textures). We have implemented the model from scratch in PyTorch framework, and then have conducted real and synthetic noise experiments on the corresponding datasets. We have achieved to reproduce the results qualitatively and quantitatively.
 
-[Re-Science][re-science-report] | [OpenReview][ml-reprod-report] | [Code][code-link]
+[Re-Science][re-science-report]{: .btn .btn--info} [OpenReview][ml-reprod-report]{: .btn .btn--info} [Code][code-link]{: .btn .btn--info}
 
 Bibtex:
 {% raw %}

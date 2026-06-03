@@ -20,7 +20,7 @@ Domain Generalization [1]. In real‐world scenarios, the feature distributions 
 be fully representative to match them. This paper introduces a novel strategy to exactly match the histograms of image features via the Sort‐Matching algorithm in a computa‐
 tionally feasible way. We were able to reproduce most of the results presented in the original paper both qualitatively and quantitatively.
 
-[Paper][paper-link] | [Code][code-link]
+[Paper][paper-link]{: .btn .btn--info} [Code][code-link]{: .btn .btn--info}
 
 Bibtex:
 ```
