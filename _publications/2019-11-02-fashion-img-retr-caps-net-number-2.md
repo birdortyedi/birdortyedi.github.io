@@ -1,5 +1,6 @@
 ---
 title: "Fashion Image Retrieval with Capsule Networks"
+authors: "F. Kınlı, B. Özcan, F. Kıraç"
 collection: publications
 permalink: /publication/2019-11-02-fashion-img-retr-caps-net-number-2
 excerpt: ''

@@ -1,5 +1,6 @@
 ---
 title: "Advancing white balance correction through deep feature statistics and feature distribution matching"
+authors: "F. Kınlı, B. Özcan, F. Kıraç"
 collection: publications
 permalink: /publication/2025-02-08-advancing-white-balance-correction-number-23
 excerpt: ''

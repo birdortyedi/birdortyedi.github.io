@@ -1,5 +1,6 @@
 ---
 title: "Feature distribution statistics as a loss objective for robust white balance correction"
+authors: "F. Kınlı, F. Kıraç"
 collection: publications
 permalink: /publication/2025-03-19-feature-distribution-statistics-loss-number-24
 excerpt: ''

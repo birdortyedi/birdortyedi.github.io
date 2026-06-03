@@ -1,5 +1,6 @@
 ---
 title: "Re: Spatial-Adaptive Network for Single Image Denoising"
+authors: "S. Menteş, F. Kınlı, B. Özcan, F. Kıraç"
 collection: publications
 permalink: /publication/2021-04-01-sadnet-img-denoising-number-7
 excerpt: ''

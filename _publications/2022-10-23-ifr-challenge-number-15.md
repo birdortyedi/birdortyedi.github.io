@@ -1,5 +1,6 @@
 ---
 title: "AIM 2022 Challenge on Instagram Filter Removal: Methods and Results"
+authors: "F. Kınlı, S. Menteş, B. Özcan, F. Kıraç, R. Timofte, Y. Zuo, Z. Wang, X. Zhang, ..."
 collection: publications
 permalink: /publication/2022-10-23-ifr-challenge-number-15
 excerpt: ''

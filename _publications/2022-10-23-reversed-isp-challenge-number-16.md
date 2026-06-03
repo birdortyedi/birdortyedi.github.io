@@ -1,5 +1,6 @@
 ---
 title: "Reversed Image Signal Processing and RAW Reconstruction. AIM 2022 Challenge Report"
+authors: "M.V. Conde, R. Timofte, Y. Huang, ..., F. Kınlı, ..., R. Timofte"
 collection: publications
 permalink: /publication/2022-10-23-reversed-isp-challenge-number-16
 excerpt: ''

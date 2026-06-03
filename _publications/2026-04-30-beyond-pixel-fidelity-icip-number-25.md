@@ -1,5 +1,6 @@
 ---
 title: "Beyond Pixel Fidelity: Minimizing Perceptual Distortion and Color Bias in Night Photography Rendering"
+authors: "F. Kınlı"
 collection: publications
 permalink: /publication/2026-04-30-beyond-pixel-fidelity-icip-number-25
 excerpt: ''

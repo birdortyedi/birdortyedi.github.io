@@ -1,5 +1,6 @@
 ---
 title: "NTIRE 2022 challenge on night photography rendering"
+authors: "E. Ershov, A. Savchik, D. Shepelev, N. Banić, M.S. Brown, R. Timofte, ..., F. Kınlı, ..."
 collection: publications
 permalink: /publication/2022-10-23-night-photo-challenge-number-17
 excerpt: ''

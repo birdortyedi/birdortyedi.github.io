@@ -1,5 +1,6 @@
 ---
 title: "Dawn: A Robust Tone Mapping Operator for Multi-Illuminant and Low-Light Scenarios"
+authors: "F. Kınlı, B. Özcan, F. Kıraç"
 collection: publications
 permalink: /publication/2024-12-04-dawn-robust-tone-mapping-number-22
 excerpt: ''

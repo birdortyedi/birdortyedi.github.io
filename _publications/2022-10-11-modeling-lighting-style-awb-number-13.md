@@ -1,5 +1,6 @@
 ---
 title: "Modeling the Lighting in Scenes as Style for Auto White-Balance Correction"
+authors: "F. Kınlı, D. Yılmaz, B. Özcan, F. Kıraç"
 collection: publications
 permalink: /publication/2022-10-11-modeling-lighting-style-awb-number-13
 excerpt: ''

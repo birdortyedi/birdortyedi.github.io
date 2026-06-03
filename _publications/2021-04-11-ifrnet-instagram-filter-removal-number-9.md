@@ -1,5 +1,6 @@
 ---
 title: "Instagram Filter Removal on Fashionable Images"
+authors: "F. Kınlı, B. Özcan, F. Kıraç"
 collection: publications
 permalink: /publication/2021-04-11-instagram-filter-removal-number-9
 excerpt: ''

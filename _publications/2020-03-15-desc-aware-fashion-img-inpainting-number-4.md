@@ -1,5 +1,6 @@
 ---
 title: "Description-aware Fashion Image Inpainting with Convolutional Neural Networks in Coarse-to-Fine Manner"
+authors: "F. Kınlı, B. Özcan, F. Kıraç"
 collection: publications
 permalink: /publication/2020-03-15-desc-aware-fashion-img-inpainting-number-4
 excerpt: ''

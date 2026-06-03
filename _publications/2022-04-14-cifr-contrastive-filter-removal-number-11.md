@@ -1,5 +1,6 @@
 ---
 title: "Patch-wise Contrastive Style Learning for Instagram Filter Removal"
+authors: "F. Kınlı, B. Özcan, F. Kıraç"
 collection: publications
 permalink: /publication/2022-04-14-cifr-contrastive-filter-removal-number-11
 excerpt: ''

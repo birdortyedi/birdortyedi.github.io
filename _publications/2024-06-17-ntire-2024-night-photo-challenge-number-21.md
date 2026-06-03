@@ -1,5 +1,6 @@
 ---
 title: "NTIRE 2024 Challenge on Night Photography Rendering"
+authors: "N. Banić, E. Ershov, A. Panshin, ..., F. Kınlı, ..., R. Timofte"
 collection: publications
 permalink: /publication/2024-06-17-ntire-2024-night-photo-challenge-number-21
 excerpt: ''

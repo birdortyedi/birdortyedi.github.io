@@ -1,5 +1,6 @@
 ---
 title: "[Re] Lifting 2D StyleGAN for 3D-Aware Face Generation"
+authors: "D. Yılmaz, F. Kınlı, B. Özcan, F. Kıraç"
 collection: publications
 permalink: /publication/2022-04-11-lifted-gan-number-10
 excerpt: ''

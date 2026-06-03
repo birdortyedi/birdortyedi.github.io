@@ -1,5 +1,6 @@
 ---
 title: "Deterministic Neural Illumination Mapping for Efficient Auto-White Balance Correction"
+authors: "F. Kınlı, D. Yılmaz, B. Özcan, F. Kıraç"
 collection: publications
 permalink: /publication/2023-08-06-deterministic-neural-illumination-number-20
 excerpt: ''

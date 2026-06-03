@@ -1,5 +1,6 @@
 ---
 title: "NTIRE 2023 Challenge on Night Photography Rendering"
+authors: "A. Shutova, E. Ershov, G. Perevozchikov, ..., F. Kınlı, ..., R. Timofte"
 collection: publications
 permalink: /publication/2023-06-18-ntire-2023-night-photo-challenge-number-19
 excerpt: ''

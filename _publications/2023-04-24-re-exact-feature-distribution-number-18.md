@@ -1,5 +1,6 @@
 ---
 title: "[Re] Exact Feature Distribution Matching for Arbitrary Style Transfer and Domain Generalization"
+authors: "M. Erkol, F. Kınlı, B. Özcan, F. Kıraç"
 collection: publications
 permalink: /publication/2023-04-24-re-exact-feature-distribution-number-18
 excerpt: ''

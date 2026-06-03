@@ -1,5 +1,6 @@
 ---
 title: "Generalization to Unseen Viewpoint Images of Objects via Alleviated Pose Attentive Capsule Agreement"
+authors: "B. Özcan, F. Kınlı, F. Kıraç"
 collection: publications
 permalink: /publication/2022-09-28-pose-attentive-caps-agreement-number-12
 excerpt: ''

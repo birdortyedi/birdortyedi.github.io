@@ -1,5 +1,6 @@
 ---
 title: "FashionCapsNet: Clothing Classification with Capsule Networks"
+authors: "F. Kınlı, F. Kıraç"
 collection: publications
 permalink: /publication/2020-02-01-fashioncapsnet-journal-number-3
 excerpt: ''

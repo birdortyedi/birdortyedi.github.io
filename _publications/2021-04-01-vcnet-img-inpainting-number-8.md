@@ -1,5 +1,6 @@
 ---
 title: "Re: VCNet: A Robust Approach to Blind Image Inpainting"
+authors: "F. Kınlı, B. Özcan, F. Kıraç"
 collection: publications
 permalink: /publication/2021-04-01-vcnet-img-inpainting-number-8
 excerpt: ''

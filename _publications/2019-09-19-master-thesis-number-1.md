@@ -1,5 +1,6 @@
 ---
 title: "Clothing Image Retrieval with Triplet Capsule Networks / A Thesis"
+authors: "F. Kınlı"
 collection: publications
 permalink: /publication/2019-09-19-master-thesis-number-1
 excerpt: ""

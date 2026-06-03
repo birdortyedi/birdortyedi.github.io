@@ -1,5 +1,6 @@
 ---
 title: "Quaternion Capsule Networks"
+authors: "B. Özcan, F. Kınlı, F. Kıraç"
 collection: publications
 permalink: /publication/2020-10-11-quaternion-capsules-number-6
 excerpt: ''

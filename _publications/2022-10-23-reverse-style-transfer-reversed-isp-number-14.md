@@ -1,5 +1,6 @@
 ---
 title: "Reversing Image Signal Processors by Reverse Style Transferring"
+authors: "F. Kınlı, B. Özcan, F. Kıraç"
 collection: publications
 permalink: /publication/2022-10-23-reverse-style-transfer-reversed-isp-number-14
 excerpt: ''

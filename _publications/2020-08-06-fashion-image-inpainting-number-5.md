@@ -1,5 +1,6 @@
 ---
 title: "A Benchmark for Inpainting of Clothing Images with Irregular Holes"
+authors: "F. Kınlı, B. Özcan, F. Kıraç"
 collection: publications
 permalink: /publication/2020-08-16-fashion-image-inpainting-number-5
 excerpt: ''
