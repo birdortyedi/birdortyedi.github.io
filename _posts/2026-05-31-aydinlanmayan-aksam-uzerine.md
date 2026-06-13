@@ -4,9 +4,10 @@ date: 2026-05-31
 permalink: /blog/aydinlanmayan-aksamlar-uzerine/
 excerpt: "Fosse bizi en baştan itibaren çok şeffaf ve tehlikeli bir yalana ortak ediyor. Sabahtan Akşama metni üzerinden varoluşsal kayıtsızlık ve o kaçınılmaz akşama sessizce yürümek."
 tags:
-  - edebiyat
-  - felsefe
   - jon-fosse
+  - sabahtan-aksama
+  - karanlık
+  - felsefe
 header:
   teaser: blog/aydinlanmayan-aksamlar.jpg
   share_image: blog/aydinlanmayan-aksamlar-share.jpg

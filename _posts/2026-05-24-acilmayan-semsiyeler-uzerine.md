@@ -4,9 +4,10 @@ date: 2026-05-24
 permalink: /blog/acilmayan-semsiyeler-uzerine/
 excerpt: "Elias Rukla’nın şahsında izlediğimiz şey, sadece yaşlı bir edebiyat öğretmeninin yağmurlu bir Oslo gününde geçirdiği sıradan bir sinir krizi değildir; otuz yıllık rutinlerin, entelektüel alışkanlıkların ve zihinsel illüzyonların darmadağınık bir şekilde çöküşüdür."
 tags:
-  - edebiyat
-  - felsefe
   - dag-solstad
+  - mahcubiyet-ve-haysiyet
+  - boşluk
+  - felsefe
 header:
   teaser: blog/acilmayan-semsiyeler.png
   share_image: images/blog/acilmayan-semsiyeler-share.jpg
