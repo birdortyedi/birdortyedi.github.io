@@ -16,7 +16,7 @@ header:
 > "Gözlerini kaybeden adamın solan ışığı ile sesini yitiren kadının sessizliği yeni bir dünya kurabilir mi?"
 > — *Han Kang, Yunanca Dersleri*
 
-Han Kang, kelimelerin ve ışığın geri çekildiği o kör boşluğu anlatıyor. Bir yanda konuşma yetisini, yani dünyayla temas etme aracını yitiren bir kadın; diğer yanda görme yetisini, yani dünyayı algılama biçimini kaybeden bir adam var. Ses ve görüntü aradan yavaş yavaş çekildiğinde, insan alışılmış olduğu dünyanın çöküşünü farkeder ve kaçınılmaz olarak kendi içine kapanır. Ancak bu çöküş mutlak bir son değil; duyuların o aldatıcı, gürültülü kabuğundan sıyrılmanın ilk adımı da olabilir. Kang bunu bize gösterirken acımaya veya yalancı bir umuda yer bırakmıyor.
+Han Kang, kelimelerin ve ışığın geri çekildiği o kör boşluğu anlatıyor. Bir yanda konuşma yetisini, yani dünyayla temas etme aracını yitiren bir kadın; diğer yanda görme yetisini, yani dünyayı algılama biçimini kaybeden bir adam var. Ses ve görüntü aradan yavaş yavaş çekildiğinde, insan alışılmış olduğu dünyanın çöküşünü fark eder ve kaçınılmaz olarak kendi içine kapanır. Ancak bu çöküş mutlak bir son değil; duyuların o aldatıcı, gürültülü kabuğundan sıyrılmanın ilk adımı da olabilir. Kang bunu bize gösterirken acımaya veya yalancı bir umuda yer bırakmıyor.
 
 İki karakterin dünyadan yalıtılmışlığı zaman içerisinde adım adım derinleşen bir sürece dönüşür. Sığındıkları ortak zemin ise Antik Yunanca. Ölü bir dil. Artık konuşulmayan, zamanın akışına ve değişime kapalı bir yapı. Yaşayan dillerin kelimeleri anlamlarını kaybeder, giderek kuru bir gürültüye dönüşür. Ölü bir dil ise suskundur; bir nevi dokunulmazlığından alır gücünü. Karakterler, bu ölü dilin sessizliğinde birbirlerini fark eder ve sarsılmaz bir temas noktası inşa ederler.
 
