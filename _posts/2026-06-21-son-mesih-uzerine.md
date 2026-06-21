@@ -127,6 +127,8 @@ O Son Mesih'tir. Bir babanın oğlu misali, su birikintisinin başındaki o avc�
 
 *Peter Wessel Zapffe (1899-1990) Norveç arktiğinden bir filozof ve dağcıydı. Yazıları pesimist, varoluşçu ve anti-natalist (doğum karşıtı) teoriyle ilgilenir. (Trine Riel'in çevirmen notu)*
 
-<!--![][content-image]{: .blog-content-image}
+<!--
+![][content-image]{: .blog-content-image}
 
 [content-image]: /images/blog/son-mesih-content.jpg
+-->
