@@ -453,7 +453,15 @@
   &:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
 }
 
-.slider:fullscreen {
+.slider--expanded {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  margin: 0;
+}
+
+.slider:fullscreen,
+.slider--expanded {
   display: flex;
   flex-direction: column;
   border: 0;

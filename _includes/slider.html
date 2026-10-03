@@ -24,7 +24,7 @@
     var track = box.querySelector('.slider__track');
     var current = box.querySelector('[data-current]');
     var count = track.children.length;
-    var target = null, settle;   // slide we're heading to, so quick repeated clicks add up
+    var target = null, settle;   /* slide we're heading to, so quick repeated clicks add up */
     function index() { return Math.round(track.scrollLeft / track.clientWidth); }
     function base() { return target === null ? index() : target; }
     function go(i) {
@@ -37,19 +37,28 @@
     track.addEventListener('scroll', function () { if (target === null) current.textContent = index() + 1; }, { passive: true });
     box.querySelector('[data-prev]').addEventListener('click', function () { go(base() - 1); });
     box.querySelector('[data-next]').addEventListener('click', function () { go(base() + 1); });
+    var full = box.querySelector('[data-full]');
+    function resized(on) {   /* keep the same slide when the size changes */
+      var i = Number(current.textContent) - 1;
+      full.textContent = on ? 'exit' : 'fullscreen';
+      requestAnimationFrame(function () { track.scrollLeft = i * track.clientWidth; track.focus(); });
+    }
+    function expand(on) {    /* fallback where element fullscreen is unavailable (e.g. iPhone) or refused */
+      box.classList.toggle('slider--expanded', on);
+      document.documentElement.style.overflow = on ? 'hidden' : '';
+      resized(on);
+    }
+    full.addEventListener('click', function () {
+      if (box.classList.contains('slider--expanded')) return expand(false);
+      if (document.fullscreenElement) return document.exitFullscreen();
+      if (box.requestFullscreen) box.requestFullscreen().catch(function () { expand(true); });
+      else expand(true);
+    });
+    document.addEventListener('fullscreenchange', function () { resized(document.fullscreenElement === box); });
     box.addEventListener('keydown', function (e) {
       if (e.key === 'ArrowRight') { e.preventDefault(); go(base() + 1); }
       if (e.key === 'ArrowLeft') { e.preventDefault(); go(base() - 1); }
-    });
-    var full = box.querySelector('[data-full]');
-    if (!box.requestFullscreen) { full.hidden = true; }
-    else full.addEventListener('click', function () {
-      if (document.fullscreenElement) document.exitFullscreen(); else box.requestFullscreen();
-    });
-    document.addEventListener('fullscreenchange', function () {
-      var i = Number(current.textContent) - 1;   // keep the same slide when the size changes
-      full.textContent = document.fullscreenElement === box ? 'exit' : 'fullscreen';
-      requestAnimationFrame(function () { track.scrollLeft = i * track.clientWidth; track.focus(); });
+      if (e.key === 'Escape' && box.classList.contains('slider--expanded')) expand(false);
     });
   })();
 </script>
