@@ -3,6 +3,7 @@ permalink: /
 title: "He lå e loi la"
 seo_title: "Furkan Kınlı"
 excerpt: "About me"
+description: "Assistant Professor at the Department of Artificial Intelligence, Bahçeşehir University. Research on computational photography, image signal processors, night photography rendering, color science, and image restoration."
 author_profile: true
 redirect_from: 
   - /about/
