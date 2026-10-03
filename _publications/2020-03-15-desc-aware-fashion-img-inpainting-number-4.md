@@ -12,13 +12,15 @@ paperurl: 'https://birdortyedi.github.io/files/E1563.pdf'
 citation: 'Kınlı, F., Özcan, B., & Kıraç, F. (2020, April). Description-aware fashion image inpainting with convolutional neural networks in coarse-to-fine manner. In Proceedings of the 2020 6th International Conference on Computer and Technology Applications (pp. 74-79).'
 type: conference
 short_venue: "ICCTA 2020"
+poster:
+  pdf: "/files/iccta20-fashion-inpainting-poster.pdf"
+  image: "/images/publications/iccta20-fashion-inpainting-poster.jpg"
+  caption: "ICCTA 2020 poster."
 links:
   - label: "Paper"
     url: "https://birdortyedi.github.io/files/E1563.pdf"
   - label: "Code"
     url: "https://github.com/birdortyedi/description-aware-fashion-inpainting"
-  - label: "Poster"
-    url: "https://birdortyedi.github.io/files/iccta-poster.key"
 bibtex: |
   @inproceedings{kinli2020description,
     title={Description-aware fashion image inpainting with convolutional neural networks in coarse-to-fine manner},
