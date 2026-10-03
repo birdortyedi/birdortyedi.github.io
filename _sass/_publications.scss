@@ -84,6 +84,7 @@
 
 .pub__thumb {
   display: block;
+  transition: transform 0.2s ease, border-color 0.2s ease;
   aspect-ratio: 16 / 10;
   border: 1px solid var(--rule);
   border-radius: 4px;
@@ -489,4 +490,24 @@
   font-size: 0.85rem;
   font-style: italic;
   color: var(--muted);
+}
+
+/* 4. figures in dark mode: a touch dimmer (--fig-dim), full brightness on hover */
+.pub__thumb img,
+.paper__content img,
+.paper__poster img,
+.slider__slide img {
+  filter: brightness(var(--fig-dim));
+  transition: filter 0.25s ease;
+}
+.pub:hover .pub__thumb img,
+.paper__content img:hover,
+.paper__poster:hover img,
+.slider:hover .slider__slide img { filter: none; }
+
+/* 6. hover polish: thumbnails lift a little and take a steel edge */
+.pub:hover .pub__thumb { transform: translateY(-2px); border-color: var(--sheen); }
+@media (prefers-reduced-motion: reduce) {
+  .pub__thumb { transition: none; }
+  .pub:hover .pub__thumb { transform: none; }
 }

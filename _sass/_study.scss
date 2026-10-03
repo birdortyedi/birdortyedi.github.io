@@ -143,7 +143,9 @@ $plex-mono  : "IBM Plex Mono", Menlo, Consolas, monospace;
     .study__meta { margin: 0; }
     h3 { font-family: $plex-serif; font-weight: 500; font-size: 1.3rem; line-height: 1.3; margin: 0.25rem 0 0.4rem; transition: color 0.15s; }
     .study__item-body > p { font-size: 0.98rem; line-height: 1.6; color: var(--text-soft); margin: 0; }
-    img { width: 56px; height: 84px; object-fit: cover; flex-shrink: 0; border: 1px solid var(--rule); border-radius: 2px; }
+    img { width: 56px; height: 84px; object-fit: cover; flex-shrink: 0; border: 1px solid var(--rule); border-radius: 2px; transition: transform 0.2s ease, border-color 0.2s ease; }
+    &:hover img { transform: translateY(-2px); border-color: var(--sheen); }
+    @media (prefers-reduced-motion: reduce) { &:hover img { transform: none; } }
   }
 
   &__item-body { flex: 1; min-width: 0; }

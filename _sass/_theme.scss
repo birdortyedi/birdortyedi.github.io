@@ -17,6 +17,8 @@
   --accent-soft: #6f8396;
   --sheen: #8fa3b5;
   --selection: rgba(143, 163, 181, 0.3);
+  --glint: rgba(228, 231, 235, 0.85);
+  --fig-dim: 0.92;   /* figures ~8% darker at night, full brightness on hover */
   color-scheme: dark;
 }
 
@@ -33,6 +35,8 @@
   --accent-soft: #8fa3b5;
   --sheen: #9aa7b4;
   --selection: rgba(61, 90, 115, 0.18);
+  --glint: rgba(61, 90, 115, 0.7);
+  --fig-dim: 1;
   color-scheme: light;
 }
 @media (prefers-color-scheme: dark) {
@@ -56,8 +60,31 @@ body { background: var(--bg); }
     position: absolute;
     left: 0; right: 0; bottom: 0;
     height: 1px;
-    background: linear-gradient(90deg, var(--rule), var(--sheen) 50%, var(--rule));
+    background:
+      linear-gradient(90deg, transparent, var(--glint), transparent) no-repeat,
+      linear-gradient(90deg, var(--rule), var(--sheen) 50%, var(--rule));
+    background-size: 18% 100%, 100% 100%;
+    background-position: -20% 0, 0 0;
+    animation: sheen 1.8s ease-in-out 0.3s 1 both;
   }
+}
+@keyframes sheen {
+  from { background-position: -20% 0, 0 0; }
+  to   { background-position: 120% 0, 0 0; }
+}
+
+/* 1. page transitions: cross-fade between pages, the menu bar stays put
+   (browsers without cross-document view transitions simply navigate as before) */
+@view-transition { navigation: auto; }
+.masthead { view-transition-name: masthead; }
+::view-transition-old(root),
+::view-transition-new(root) { animation-duration: 0.22s; }
+
+@media (prefers-reduced-motion: reduce) {
+  .masthead::after { animation: none; }
+  ::view-transition-group(*),
+  ::view-transition-old(*),
+  ::view-transition-new(*) { animation: none !important; }
 }
 .site-title { margin-right: auto; }
 
