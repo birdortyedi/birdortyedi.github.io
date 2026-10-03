@@ -92,6 +92,7 @@ service:
   - group: Journals (Reviewer)
     items:
       - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+      - International Journal of Computer Vision (IJCV)
       - Elsevier Digital Signal Processing
       - IET Image Processing
       - IEEE/CAA Journal of Automatica Sinica
