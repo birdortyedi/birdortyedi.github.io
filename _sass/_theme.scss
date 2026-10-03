@@ -103,7 +103,7 @@ body { background: var(--bg); }
 .site-nav .masthead__divider {
   align-self: center;
   padding: 0 !important;
-  margin: 0 0 0 28px !important; /* = next item's 20px margin + 8px padding, so both sides match */
+  margin: 0 0 0 calc(20px + 0.5rem) !important; /* = next item's 20px margin + 0.5em padding, so both sides match */
   font-size: 0.7rem;
   line-height: 1;
 

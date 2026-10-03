@@ -14,6 +14,11 @@ html {
     font-size: 16px;
   }
 
+  /* desktop/laptop: 110% of the tablet size, read from further away */
+  @include breakpoint($large) {
+    font-size: 17.6px;
+  }
+
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }

@@ -184,3 +184,12 @@ $plex-mono  : "IBM Plex Mono", Menlo, Consolas, monospace;
   }
   a:hover { border-color: var(--accent-soft); color: var(--text); }
 }
+
+/* Writing pages (essays, essay index, tags, personal) keep their original desktop size:
+   the root font grows to 17.6px on desktop (_reset.scss) for the other pages; undo it here only. */
+@include breakpoint($large) {
+  .study {
+    zoom: 0.909091; /* = 16 / 17.6 */
+    padding-top: 3.3rem; /* 3rem / zoom: titles stay level with the research pages */
+  }
+}
