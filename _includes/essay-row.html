@@ -1,0 +1,12 @@
+{% include base_path %}
+{% assign post = include.post %}
+<li class="study__item">
+  <div class="study__item-body">
+    <a href="{{ base_path }}{{ post.url }}">
+      <p class="study__meta"><span>{{ post.date | date: include.date_format | default: "%d.%m" }}</span>{% if post.writer %}<span>{{ post.writer }}</span>{% endif %}</p>
+      <h3>{{ post.title }}</h3>
+    </a>
+    <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+  </div>
+  {% if post.header.teaser %}<img src="{{ post.header.teaser | prepend: '/images/' | prepend: base_path }}" alt="" loading="lazy">{% endif %}
+</li>

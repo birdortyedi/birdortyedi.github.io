@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+{% assign groups = "journal:Journal articles|conference:Conference papers|workshop:Workshop papers|challenge:Challenge reports|reproducibility:Reproducibility reports|thesis:Theses" | split: "|" %}
+{% assign pubs = site.publications | sort: "date" | reverse %}
+
+<main class="pubs" role="main">
+  <header>
+    <h1 class="pubs__title">{{ page.title }}</h1>
+    <p class="pubs__meta">
+      <span>{{ pubs.size }} publications</span>
+      {% if site.author.googlescholar %}<span><a href="{{ site.author.googlescholar }}">Google Scholar ↗</a></span>{% endif %}
+    </p>
+    <nav class="pubs__toc" aria-label="Publication types">
+      {% for g in groups %}
+        {% assign key = g | split: ":" | first %}
+        {% assign items = pubs | where: "type", key %}
+        {% if items.size > 0 %}<a href="#{{ key }}">{{ g | split: ":" | last }} <span>{{ items.size }}</span></a>{% endif %}
+      {% endfor %}
+    </nav>
+    {{ content }}
+  </header>
+
+  {% for g in groups %}
+    {% assign key = g | split: ":" | first %}
+    {% assign items = pubs | where: "type", key %}
+    {% if items.size > 0 %}
+    <section id="{{ key }}">
+      <h2 class="pubs__group">{{ g | split: ":" | last }}</h2>
+      <ol class="pubs__list">
+        {% for pub in items %}
+        <li class="pub">
+          <a class="pub__thumb" href="{{ base_path }}{{ pub.url }}" tabindex="-1" aria-hidden="true">
+            {% if pub.header.teaser %}<img src="{{ pub.header.teaser | prepend: '/images/' | prepend: base_path }}" alt="" loading="lazy">{% endif %}
+          </a>
+          <div class="pub__body">
+            <a class="pub__title" href="{{ base_path }}{{ pub.url }}">{{ pub.title }}</a>
+            <p class="pub__authors">{{ pub.authors }}</p>
+            <p class="pub__venue">
+              <span>{{ pub.short_venue }}</span>
+              {% for a in pub.awards %}<span class="badge">{{ a }}</span>{% endfor %}
+            </p>
+            <p class="pub__links">
+              {% for l in pub.links %}<a href="{{ l.url }}">{{ l.label | downcase }}</a>{% endfor %}
+              {% if pub.bibtex %}<a href="{{ base_path }}{{ pub.url }}#bibtex">bib</a>{% endif %}
+            </p>
+          </div>
+        </li>
+        {% endfor %}
+      </ol>
+    </section>
+    {% endif %}
+  {% endfor %}
+</main>

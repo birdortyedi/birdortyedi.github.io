@@ -1,9 +1,8 @@
 ---
-layout: single
+layout: plain
 permalink: /contact/
 title: "Contact"
 excerpt: ""
-author_profile: true
 ---
 
 Department of Artificial Intelligence, Bahçeşehir University.

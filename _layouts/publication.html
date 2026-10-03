@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+{% case page.type %}
+  {% when "journal" %}{% assign type_name = "Journal article" %}
+  {% when "conference" %}{% assign type_name = "Conference paper" %}
+  {% when "workshop" %}{% assign type_name = "Workshop paper" %}
+  {% when "challenge" %}{% assign type_name = "Challenge report" %}
+  {% when "reproducibility" %}{% assign type_name = "Reproducibility report" %}
+  {% when "thesis" %}{% assign type_name = "Thesis" %}
+{% endcase %}
+
+<main class="paper" role="main">
+  <article itemscope itemtype="http://schema.org/ScholarlyArticle">
+    <header>
+      <h1 class="paper__title" itemprop="headline">{{ page.title }}</h1>
+      <p class="pubs__meta">
+        <span><a href="{{ base_path }}/publications/#{{ page.type }}">{{ type_name }}</a></span>
+        <span>{{ page.short_venue }}</span>
+      </p>
+      <p class="paper__authors">{{ page.authors }}</p>
+      <p class="paper__venue">{{ page.venue }}</p>
+      {% if page.awards %}<p class="pub__venue">{% for a in page.awards %}<span class="badge">{{ a }}</span>{% endfor %}</p>{% endif %}
+      <p class="paper__links">
+        {% for l in page.links %}<a class="paper__btn" href="{{ l.url }}">{{ l.label }}</a>{% endfor %}
+        {% if page.bibtex %}<a class="paper__btn" href="#bibtex" data-open-bibtex>BibTeX</a>{% endif %}
+      </p>
+    </header>
+
+    <div class="paper__content" itemprop="text">
+      {{ content }}
+    </div>
+
+    {% if page.bibtex %}
+    <details class="paper__bibtex" id="bibtex">
+      <summary>BibTeX</summary>
+      <button type="button" class="paper__copy">Copy</button>
+      <pre><code>{{ page.bibtex | escape }}</code></pre>
+    </details>
+    <script>
+      (function () {
+        var box = document.getElementById('bibtex');
+        function openIfTargeted() { if (location.hash === '#bibtex') box.open = true; }
+        openIfTargeted();
+        window.addEventListener('hashchange', openIfTargeted);
+        document.querySelector('[data-open-bibtex]').addEventListener('click', function () { box.open = true; });
+        box.querySelector('.paper__copy').addEventListener('click', function (e) {
+          var button = e.currentTarget;
+          navigator.clipboard.writeText(box.querySelector('code').textContent).then(function () {
+            button.textContent = 'Copied';
+            setTimeout(function () { button.textContent = 'Copy'; }, 1500);
+          });
+        });
+      })();
+    </script>
+    {% endif %}
+
+    <p class="paper__back"><a href="{{ base_path }}/publications/#{{ page.type }}">← All publications</a></p>
+  </article>
+</main>

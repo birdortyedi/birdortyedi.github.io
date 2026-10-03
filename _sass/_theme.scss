@@ -1,0 +1,135 @@
+/* ==========================================================================
+   THEME — graphite palette, light / dark / system
+   Light by default; dark via OS setting unless overridden by the switch,
+   which sets [data-theme] on <html> (see masthead.html, head/custom.html).
+   ========================================================================== */
+
+@mixin graphite-dark {
+  --bg: #121417;
+  --surface: #1a1d21;
+  --surface-hover: #20242a;
+  --text: #e4e7eb;
+  --text-soft: #a9b0b8;
+  --muted: #7d858f;
+  --rule: #2a2e34;
+  --rule-strong: #3a3f46;
+  --accent: #9fb4c7;
+  --accent-soft: #6f8396;
+  --sheen: #8fa3b5;
+  --selection: rgba(143, 163, 181, 0.3);
+  color-scheme: dark;
+}
+
+:root {
+  --bg: #f4f5f6;
+  --surface: #ffffff;
+  --surface-hover: #eef0f2;
+  --text: #1f2328;
+  --text-soft: #4a515a;
+  --muted: #646c76;
+  --rule: #dfe2e6;
+  --rule-strong: #c9ced4;
+  --accent: #3d5a73;
+  --accent-soft: #8fa3b5;
+  --sheen: #9aa7b4;
+  --selection: rgba(61, 90, 115, 0.18);
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { @include graphite-dark; }
+}
+:root[data-theme="dark"] { @include graphite-dark; }
+
+html,
+body { background: var(--bg); }
+
+.masthead,
+.site-nav,
+.page__footer {
+  background: var(--bg);
+  border-color: var(--rule);
+}
+.masthead {
+  border-bottom: 0;
+  &::after { /* brushed-steel hairline */
+    content: "";
+    position: absolute;
+    left: 0; right: 0; bottom: 0;
+    height: 1px;
+    background: linear-gradient(90deg, var(--rule), var(--sheen) 50%, var(--rule));
+  }
+}
+.site-title { margin-right: auto; }
+
+/* light · dark · system */
+.theme-switch {
+  display: flex;
+  margin: 0 1rem 0 auto;
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  overflow: hidden;
+  font-family: $monospace;
+
+  @include breakpoint($medium) { order: 3; margin: 0 0 0 1.5rem; }
+
+  button {
+    font: inherit;
+    font-size: 0.7rem;
+    letter-spacing: 0.04em;
+    padding: 0.25em 0.7em;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    color: var(--muted);
+    cursor: pointer;
+
+    &:hover { color: var(--text); }
+    &[aria-pressed="true"] { background: var(--rule); color: var(--text); }
+    &:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+  }
+}
+
+/* news list (home page + /news/) */
+.news li { margin-bottom: 0.6em; }
+.news__date {
+  display: block;
+  font-family: $monospace;
+  font-size: 0.75em;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+}
+
+/* menu groups: research (Publications, CV, Teaching) ✦ writing (Essays, Personal) */
+.site-nav .masthead__divider {
+  align-self: center;
+  padding: 0 !important;
+  margin: 0 0 0 28px !important; /* = next item's 20px margin + 8px padding, so both sides match */
+  font-size: 0.7rem;
+  line-height: 1;
+
+  &::before { content: "✦"; position: static; color: var(--accent); }
+
+  @media (max-width: ($medium - 1px)) {
+    margin: 0.2rem auto !important;
+  }
+}
+
+/* About (layout: single + sidebar): start at the same height as every other page */
+.layout--single #main { margin-top: 3rem; }
+
+/* About: fixed-width face card (320px) so "Dept. of Artificial Intelligence" stays on one line */
+@include breakpoint($large) {
+  .layout--single .sidebar { width: 20rem; margin-right: 1.5rem; }
+  .layout--single .page { width: calc(100% - 21.5rem); }
+  .layout--single .author__bio { white-space: nowrap; }
+}
+
+/* current page in the menu: full text colour + thin steel underline */
+.site-title[aria-current="page"],
+.masthead__menu-item a[aria-current="page"] {
+  color: var(--text);
+  text-decoration: underline;
+  text-decoration-color: var(--sheen);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.45em;
+}

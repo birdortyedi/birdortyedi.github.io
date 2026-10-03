@@ -30,7 +30,7 @@
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
   font-size: $type-size-5;
-  color: mix(#fff, $gray, 25%);
+  color: var(--muted);
   border-bottom: 1px solid $border-color;
 
   + .list__item .archive__item-title {
@@ -51,7 +51,7 @@
     transition: color 0.2s ease;
 
     &:hover {
-      color: #38bdf8;
+      color: var(--accent);
       text-decoration: none;
     }
   }
@@ -115,10 +115,9 @@
 .list__item {
   margin-bottom: 2em;
   padding: 1.5em;
-  background: rgba(30, 41, 59, 0.25);
-  border: 1px solid rgba(255, 255, 255, 0.05);
+  background: var(--surface);
+  border: 1px solid var(--rule);
   border-radius: 12px;
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
   transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.3s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.3s ease, background-color 0.3s ease;
 
   @include breakpoint($medium) {
@@ -150,12 +149,11 @@
 
   &:hover {
     transform: translateY(-3px);
-    background: rgba(30, 41, 59, 0.45);
-    border-color: rgba(56, 189, 248, 0.2);
-    box-shadow: 0 12px 20px -3px rgba(0, 0, 0, 0.3), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    background: var(--surface-hover);
+    border-color: var(--rule-strong);
 
     .archive__item-title a {
-      color: #38bdf8;
+      color: var(--accent);
       text-decoration: none;
     }
   }
@@ -313,8 +311,8 @@
     margin-bottom: 0.5em;
     border-radius: 8px;
     overflow: hidden;
-    border: 1px solid rgba(255, 255, 255, 0.05);
-    background: rgba(0, 0, 0, 0.2);
+    border: 1px solid var(--rule);
+    background: var(--bg);
     transition: border-color 0.3s ease, transform 0.3s ease;
     
     @include breakpoint($medium) {
@@ -333,7 +331,7 @@
 .blog-subtitle {
   font-size: 1.05em;
   font-weight: 500;
-  color: #f8fafc;
+  color: var(--text);
   margin-top: 0;
   margin-bottom: 0.5em;
 }
@@ -354,8 +352,7 @@
   width: 100%;
   height: auto;
   border-radius: 8px;
-  border: 1px solid rgba(255, 255, 255, 0.08);
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+  border: 1px solid var(--rule);
 }
 
 /* Custom Read More CTA link inside cards */
@@ -365,7 +362,7 @@
   font-family: $sans-serif-narrow;
   font-size: $type-size-6;
   font-weight: 600;
-  color: #38bdf8;
+  color: var(--accent);
   text-decoration: none !important;
   transition: color 0.2s ease;
 
@@ -375,7 +372,7 @@
   }
 
   &:hover {
-    color: #60a5fa;
+    color: var(--text);
 
     .arrow {
       transform: translateX(4px);

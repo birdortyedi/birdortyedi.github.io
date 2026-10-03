@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<main class="study" role="main" lang="tr">
+  <header>
+    <h1 class="study__title">{{ page.title }}</h1>
+    <p class="study__meta"><span>{{ site.posts.size }} essays</span><span><a href="{{ base_path }}/feed.xml">RSS</a></span></p>
+    {{ content }}
+  </header>
+
+  {% assign years = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+  {% for year in years %}
+    <h2 class="study__year">{{ year.name }}</h2>
+    <ul class="study__list">
+      {% for post in year.items %}
+        {% include essay-row.html post=post date_format="%d.%m" %}
+      {% endfor %}
+    </ul>
+  {% endfor %}
+</main>

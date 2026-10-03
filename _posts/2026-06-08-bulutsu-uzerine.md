@@ -1,6 +1,8 @@
 ---
 title: "Bulutsu Üzerine"
 date: 2026-06-08
+writer: "Miguel de Unamuno"
+book: "Sis"
 permalink: /blog/bulutsu-uzerine/
 excerpt: "Uğruna her şeyini feda ettiği büyük hikayenin kahramanı değil, başkasının çok daha bayağı senaryosunda kullanılıp atılan bir basamak olduğunu fark ediyor. Bütün bu varoluşsal ağırlık inşası, basit bir menfaat hesaplaşmasının içinde buharlaşıp gidiyor.."
 tags:

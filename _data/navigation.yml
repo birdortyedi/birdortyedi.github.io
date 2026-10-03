@@ -1,19 +1,17 @@
-# main links links
+# main links; `divider: true` draws a separator before that link
 main:
-  - title: "About"
-    url: /cv/
-
   - title: "Publications"
     url: /publications/
 
+  - title: "CV"
+    url: /cv/
+
   - title: "Teaching"
     url: /teaching/
-    
-  - title: "Social"
-    url: /social/
 
-  - title: "Blog"
+  - title: "Essays"
     url: /blog/
-    
-  - title: "Contact"
-    url: /contact/
+    divider: true
+
+  - title: "Personal"
+    url: /personal/

@@ -1,0 +1,123 @@
+# Content of the /cv/ page. The formal PDF (files/cv.pdf) is maintained separately.
+# Selected publications are the papers with `selected: true` in _publications/.
+
+interests:  # also shown as tags on the home page
+  - Computational Photography
+  - Image Signal Processors (ISP)
+  - Night Photography Rendering
+  - Color Science
+  - Image Restoration & Enhancement
+
+teaching_interests:  # shown as tags on the Teaching page
+  - Image Processing Fundamentals
+  - Machine Learning Fundamentals
+  - Deep Learning for Computer Vision
+  - Computational Photography Fundamentals
+  - Advanced Topics in Image Restoration
+  - Generative Models for Visual Content
+
+objective:
+  - Be kind.
+  - Make my parents proud.
+  - Conduct research on images.
+  - Become a successful computer scientist.
+  - Share my knowledge with anyone I can reach.
+
+education:
+  - when: 2019 – 2025
+    what: Ph.D. in Computer Science
+    where: Özyeğin University
+    thesis: Modeling the Lighting as Style Factor via Neural Networks for White Balance Correction
+    url: /publications/phd-thesis/
+  - when: 2018 – 2019
+    what: M.Sc. in Computer Science
+    where: Özyeğin University
+    thesis: Clothing Image Retrieval with Triplet Capsule Networks
+    url: /publications/msc-thesis/
+  - when: 2012 – 2018
+    what: B.Sc. in Computer Science in Engineering
+    where: Özyeğin University
+
+experience:
+  - when: 2025 – Present
+    what: Assistant Professor
+    where: Bahçeşehir University (Türkiye)
+    detail: Department of Artificial Intelligence
+  - when: 2019 – Present
+    what: Co-Founder & AI Director
+    where: T-Fashion (Canada & Türkiye)
+    detail: Fashion Trend Forecasting & Generative AI Design
+  - when: 2020 – 2024
+    what: Research Engineer (CV & DL)
+    where: Fishency Innovation (Norway – Remote)
+  - when: 2018 – 2025
+    what: Research Assistant (CS & AI)
+    where: Özyeğin University (Türkiye)
+    detail: Department of Computer Science
+  - when: 2017 – 2018
+    what: Engineer (ML)
+    where: eBay & GittiGidiyor (Türkiye)
+    detail: R&D Team
+  - when: 06.2017 – 08.2017
+    what: Intern Engineer (BI & Data)
+    where: Türk Telekom (Türkiye)
+
+awards:
+  - when: 2026
+    what: 1st, 3rd, 3rd, and 5th Places (across benchmarks)
+    where: NTIRE 2026 Challenge on Low-light Image Enhancement
+  - when: 2026
+    what: 1st Place
+    where: NTIRE 2026 Challenge on Photography Retouching Transfer
+  - when: 2026
+    what: 3rd Place
+    where: NTIRE 2026 Challenge on Night Photography Rendering
+  - when: 2025
+    what: Finalist
+    where: NTIRE 2025 Challenge on Night Photography Rendering
+  - when: 2023
+    what: 7th Place
+    where: NTIRE 2023 Challenge on Night Photography Rendering
+  - when: 2022
+    what: 4th Place
+    where: NTIRE 2022 Challenge on Night Photography Rendering
+  - when: 2022
+    what: Nomination for Outstanding Reviewer
+    where: ML Reproducibility Challenge 2022
+  - when: 2022
+    what: Recipient
+    where: ML Reproducibility Challenge 2022
+
+service:
+  - group: Journals (Reviewer)
+    items:
+      - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+      - Elsevier Digital Signal Processing
+      - IET Image Processing
+      - IEEE/CAA Journal of Automatica Sinica
+      - Imaging Science Journal
+      - Multimedia Systems
+      - Journal of Experimental & Theoretical Artificial Intelligence
+  - group: Conferences (Reviewer)
+    items:
+      - IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) ('26, '25, '24, '23)
+      - International Conference on Computer Vision (ICCV) ('25, '23)
+      - European Conference on Computer Vision (ECCV) ('26, '24, '22)
+      - The Annual Conference on Neural Information Processing Systems (NeurIPS) ('26)
+      - IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) ('25, '24, '23)
+      - British Machine Vision Conference (BMVC) ('26)
+      - The 39th Annual AAAI Conference on Artificial Intelligence (AAAI) ('26, '25)
+      - International Conference on Pattern Recognition (ICPR) ('24)
+      - 30th IEEE Conference on Signal Processing and Communications Applications
+  - group: Workshops (Reviewer)
+    items:
+      - New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing at CVPR (NTIRE) ('24, '23, '22, '21)
+      - Advances in Image Manipulation workshop in conjunction with ECCV (AIM) ('24, '22, '20)
+      - Resource Efficient Deep Learning for Computer Vision workshop at ICCV (RCV) ('23)
+      - ML Reproducibility Challenge (2022 Edition, 2021 Edition)
+
+skills:
+  - Python · C++ · Java
+  - PyTorch · Keras
+  - OpenCV · Kornia
+  - Cloud Services (GC, AWS, IBM Cloud)

@@ -18,184 +18,26 @@ redirect_from:
 
 *   I received my Ph.D. (advised by [Assoc. Prof. Furkan Kıraç][fkirac]), M.Sc., and B.Sc. degrees in [Department of Computer Science][ozu-cs] at [Özyeğin University][ozu] (YES, Triple crown!).
 
-*   My research interests focus on image restoration, camera pipeline, illuminance and colors and computational photography. 
+*   My research interests focus on computational photography, image signal processors (ISP), night photography rendering, color science, and image restoration & enhancement.
 
 *   Previously, I have worked on the downstream applications of computer vision, particularly using deep learning approaches, as well as the applications of generative modeling, image-to-image translation, fashion image understanding and capsule networks.
 
 
+<p class="tags">{% for t in site.data.cv.interests %}<span class="badge">{{ t }}</span>{% endfor %}</p>
+
+### Recently
+
+{% include recently.html %}
+
 ### Recent News
 
-* April 30, 2026. A paper titled "[Beyond Pixel Fidelity: Minimizing Perceptual Distortion and Color Bias in Night Photography Rendering][beyond-pixel-fidelity]" was accepted to [IEEE International Conference on Image Processing (ICIP) 2026][icip2026].
+{% include news.html limit=6 %}
 
-* April 8, 2026. I take the **3rd place** in "[Night Photography Rendering Challenge][nightimaging]" at [NTIRE2026: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing in conjunction with CVPR 2026][ntire2026].
-
-* March 19, 2026. I take the **1st place (Winner)** in "Photography Retouching Transfer Challenge" at [NTIRE2026: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing in conjunction with CVPR 2026][ntire2026].
-
-* March 16, 2026. I take the **1st, 3rd, 3rd, and 5th place** rankings across different benchmarks of "Low-light Image Enhancement Challenge" at [NTIRE2026: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing in conjunction with CVPR 2026][ntire2026].
-
-* November 1, 2025. I have started to work as an Assistant Professor in the [Department of Artificial Intelligence][bau-ai] at [Bahçeşehir University][bau].
-
-* June 11, 2025. We were among the finalists in "[Night Photography Rendering Challenge][nightimaging]" at [NTIRE2025: New Trends in Image Restoration and Enhancement workshop
-and challenges on image and video processing in conjunction with CVPR 2025][ntire2025].
-
-* May 12, 2025. I have successfully defended my Ph.D. thesis, "[Modeling the Lighting as Style Factor via Neural Networks for White Balance Correction][phd-thesis]".
-
-* March 19, 2025. A paper titled "[Feature distribution statistics as a loss objective for robust white balance correction][fdmloss]" was accepted to [Machine Vision and Applications][mvapp].
-
-* February 8, 2025. A paper titled "[Advancing white balance correction through deep feature statistics and feature distribution matching][fdmwb]" was accepted to [Journal of Visual Communication and Image Representation][yjvci].
-
-* December 4, 2024. A paper titled "[Dawn: A Robust Tone Mapping Operator for Multi-Illuminant and Low-Light Scenarios][dawn]" was accepted as *Oral Presentation* in 
-[VISIGRAPP 2025: 20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications][visigrapp2025].
-
-* March 17, 2024. We take the 9th place in "[Night Photography Rendering Challenge][nightimaging]" at [NTIRE2024: New Trends in Image Restoration and Enhancement workshop
-and challenges on image and video processing in conjunction with CVPR 2024][ntire2024].
-
-* August 6, 2023. A paper titled "[Deterministic Neural Illumination Mapping for Efficient Auto-White Balance Correction][denim]" was accepted to 
-[RCV 2023: The 1st ICCV 2023 Workshop on Resource Efficient Deep Learning for Computer Vision at ICCV 2023][rcv2023].
-
-* March 10, 2023. We take the 7th place in "[Night Photography Rendering Challenge][nightimaging]" at [NTIRE2023: New Trends in Image Restoration and Enhancement workshop
-and challenges on image and video processing in conjunction with CVPR 2023][ntire2023].
-
-* July 21, 2023. We are selected as the recipients of Kaggle Awards for [ML Reproducibility Challenge 2022][reprod2022] and rewarded with Google Cloud coupons (10K). Also, personally nominated for "Outstanding Reviewer" and rewarded with Google Cloud coupons (5K).
-
-* April 24, 2023. We submitted 2 reproduction reports to [ML Reproducibility Challenge 2022][reprod2022], and one of these reports titled 
-"[[Re] Exact Feature Distribution Matching for Arbitrary Style Transfer and Domain Generalization][efdm]" was accepted to [ReScience Journal][rescience] Publication.
-
-* October 23, 2022. We have presented 3 accepted papers as *Oral Presentation* in [Advances in Image Manipulation workshop
-in conjunction with ECCV 2022][aim22].
-
-* October 11, 2022. A paper titled "[Modeling the Lighting in Scenes as Style for Auto White-Balance Correction][style-awb]" was accepted to 
-[IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)][wacv23].
-
-* October 5, 2022. Our journal "[[Re] Lifting 2D StyleGAN for 3D-Aware Face Generation][liftedgan]" published in the special edition of [ReScience Journal][rescience] is invited to [the Journal Showcase Poster Session at NeurIPS 2022][nips2022].
-
-* September 28, 2022. A paper titled "[Generalization to Unseen Viewpoint Images of Objects via Alleviated Pose Attentive Capsule Agreement][alpaca]" was accepted to 
-[Neural Computing and Applications][ncaa].
-
-* May 27, 2022. We are organizing a [challenge][ifr-challenge] on Instagram Filter Removal at [AIM2022: Advances in Image Manipulation in conjuction with ECCV2022][aim2022].
-
-* April 14, 2022. A paper titled "[Patch-wise Contrastive Style Learning for Instagram Filter Removal][cifr]" was accepted as *Oral Presentation* to 
-[NTIRE2022: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing 
-in conjunction with CVPR 2022][ntire2022].
-
-* April 11, 2022. We submitted 1 reproduction report to [ML Reproducibility Challenge 2021][reprod2021], and this report titled 
-"[[Re] Lifting 2D StyleGAN for 3D-Aware Face Generation][liftedgan]" was accepted to [ReScience Journal][rescience] Publication.
-
-* March 31, 2022. We take the 4th place in "[Night Photography Rendering Challenge][nightimaging]" at [NTIRE2022: New Trends in Image Restoration and Enhancement workshop
-and challenges on image and video processing
-in conjunction with CVPR 2022][ntire2022].
-
-* January 05, 2022. I successfully passed Ph.D. Qualification Exam.
-
-* December 28, 2021. As [T-Fashion][tfashion], we have re-located the company base to Toronto, Canada after the seed investment.
-
-* April 13, 2021. I gave a talk on recent advances in computer vision as part of SEC405 Panel at [Özyeğin University][ozu].
-    
-* April 11, 2021. A paper titled "[Instagram Filter Removal on Fashionable Images][ifrnet]" was accepted to 
-[NTIRE2021: New Trends in Image Restoration and Enhancement workshop
-and challenges on image and video processing
-in conjunction with CVPR 2021][ntire2021].
-    
-* April 01, 2021. We submitted 2 reproduction reports to [ML Reproducibility Challenge 2020][reprod2020], and one report titled "[[Re]: Spatial-Adaptive Network for Single Image Denoising][sadnet]" was accepted to [ReScience Journal][rescience] Publication.
-
-* October 11, 2020. A paper titled "[Quaternion Capsule Networks][quaternion-caps]" was accepted to [25th International Conference on Pattern Recognition][icpr2020].
-
-* August 06, 2020. A paper titled "[A Benchmark for Inpainting of Clothing Images with Irregular Holes][fashion-inpainting]" was accepted to 
-[AIM2020: Advanced Image Manipulation workshop and challenges at ECCV2020][aim2020].
-
-* March 15, 2020. A paper titled "[Description-aware Fashion Image Inpainting with Convolutional Neural Networks in Coarse-to-Fine Manner][dafii]" was accepted to [6th International Conference on Computer and Technology Applications (ICCTA 2020, former ICCIT)][iccta].
-
-* February 1, 2020. A paper titled "[FashionCapsNet: Clothing Classification with Capsule Networks][fashioncapsnet]"
-was published in [International Journal of Informatics Technologies][ijit].
-
-* December 24, 2019. I gave a talk on recent advances in computer vision as part of SEC405 Panel at [Özyeğin University][ozu].
-
-* November 2, 2019. A paper titled "[Fashion Image Retrieval with Capsule Networks][fircn]" was presented in [Second Workshop on 
-Computer Vision for Fashion, Art and Design][iccv-workshop] as part of ICCV 2019 Workshops.
-
-* September 5, 2019. I have been accepted to Ph.D. of Computer Science at [Özyeğin University][ozu].
-
-* August 19, 2019. I successfully defended my M.Sc. thesis, "[Clothing Image Retrieval with Triplet Capsule Networks][msc-thesis]".
-
-* February 18, 2019. I have been assigned as Research Assistant to [Department of Computer Science][ozu-cs] at [Özyeğin University][ozu]
-
-* April 3, 2018, [MSI Turkey][msi] has been supported my research studies, and donated GPUs. All started from this moment.
-
-
-### Academic Services
-
-* Reviewer, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-* Reviewer, Elsevier Digital Signal Processing
-* Reviewer, IEEE/CAA Journal of Automatica Sinica
-* Reviewer, Imaging Science Journal
-* Reviewer, Journal of Experimental & Theoretical Artificial Intelligence
-* Reviewer, the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) (2026, 2025, 2024, 2023)
-* Reviewer, the International Conference on Computer Vision (ICCV) (2025, 2023)
-* Reviewer, the European Conference on Computer Vision (ECCV) (2026, 2024, 2022)
-* Reviewer, the Annual Conference on Neural Information Processing Systems (NeurIPS) (2026)
-* Reviewer, British Machine Vision Conference (BMVC) (2026)
-* Reviewer, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2025, 2024, 2023)
-* Reviewer, The 39th Annual AAAI Conference on Artificial Intelligence (AAAI) 2025
-* Reviewer, International Conference on Pattern Recognition (ICPR) (2026, 2024)
-* Reviewer, New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing at CVPR (NTIRE) (2024, 2023, 2022, 2021)
-* Reviewer, Advances in Image Manipulation workshop in conjunction with ECCV (AIM) (2024, 2022, 2020)
-* Reviewer, Resource Efficient Deep Learning for Computer Vision workshop at ICCV (RCV) (2023)
-* Reviewer, 30th IEEE Conference on Signal Processing and Communications Applications
-* Reviewer, ML Reproducibility Challenge 2022 Edition
-* Reviewer, ML Reproducibility Challenge 2021 Edition
-
+[All news →](/news/)
 
 [me]: images/doomsdayblue.jpeg
 [ozu-cs]: https://www.ozyegin.edu.tr/en/computer-science-department
 [ozu]: https://www.ozyegin.edu.tr/en/
 [fkirac]: https://scholar.google.com/citations?user=kdJBxv8AAAAJ
-[iccta]: http://www.iccit.org
-[dafii]: https://dl.acm.org/doi/abs/10.1145/3397125.3397155
-[ijit]: https://dergipark.org.tr/en/pub/gazibtd
-[fashioncapsnet]: https://dergipark.org.tr/en/download/article-file/952493
-[iccv-workshop]: https://sites.google.com/view/cvcreative/home
-[aim2020]: https://data.vision.ee.ethz.ch/cvl/aim20/
-[fashion-inpainting]: https://link.springer.com/chapter/10.1007/978-3-030-66823-5_11
-[ntire2021]: https://data.vision.ee.ethz.ch/cvl/ntire21/
-[ntire2022]: https://data.vision.ee.ethz.ch/cvl/ntire22/
-[ntire2023]: https://cvlai.net/ntire/2023/
-[ntire2024]: https://cvlai.net/ntire/2024/
-[ntire2025]: https://cvlai.net/ntire/2025/
-[icpr2020]: http://www.icpr2020.it/
-[quaternion-caps]: https://ieeexplore.ieee.org/abstract/document/9412006
-[rescience]: http://rescience.org/x
-[sadnet]: https://openreview.net/pdf?id=yiAI9QN9nYt
-[fircn]: http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Kinli_Fashion_Image_Retrieval_with_Capsule_Networks_ICCVW_2019_paper.pdf
-[msc-thesis]: files/msc-thesis.pdf
-[phd-thesis]: files/phd-thesis.pdf
-[msi]: https://tr.msi.com/index.php
-[tfashion]: https://tfashion.ai
-[ifrnet]: https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Kinli_Instagram_Filter_Removal_on_Fashionable_Images_CVPRW_2021_paper.pdf
-[cifr]: https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Kinli_Patch-Wise_Contrastive_Style_Learning_for_Instagram_Filter_Removal_CVPRW_2022_paper.pdf
-[reprod2020]: https://paperswithcode.com/rc2020
-[reprod2021]: https://openreview.net/group?id=ML_Reproducibility_Challenge/2021/Fall
-[reprod2022]: https://paperswithcode.com/rc2022
-[liftedgan]: https://openreview.net/pdf?id=BcNonfQ3RY
-[nightimaging]: https://nightimaging.org/
-[aim2022]: https://data.vision.ee.ethz.ch/cvl/aim22/
-[ifr-challenge]: https://codalab.lisn.upsaclay.fr/competitions/5081
-[style-awb]: https://arxiv.org/pdf/2210.09090.pdf
-[wacv23]: https://wacv2023.thecvf.com/
-[nips2022]: https://blog.neurips.cc/2022/08/15/journal-showcase/
-[alpaca]: https://link.springer.com/article/10.1007/s00521-022-07900-3?error=cookies_not_supported&code=3a5ab1c3-ded3-4157-a0af-2dc76c936363
-[ncaa]: https://www.springer.com/journal/521
-[aim22]: https://data.vision.ee.ethz.ch/cvl/aim22/
-[efdm]: https://openreview.net/pdf?id=a5_hbZf0NB
-[rcv2023]: https://sites.google.com/view/rcv2023
-[denim]: https://arxiv.org/
-[visigrapp2025]: https://visapp.scitevents.org/
-[dawn]: https://www.insticc.org/node/TechnicalProgram/VISIGRAPP/2025/presentationDetails/131346
-[fdmwb]: https://www.sciencedirect.com/science/article/pii/S1047320325000264
-[yjvci]: https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation
-[fdmloss]: https://link.springer.com/article/10.1007/s00138-025-01680-1
-[mvapp]: https://link.springer.com/journal/138
 [bau]: https://bau.edu.tr/
 [bau-ai]: https://bau.edu.tr/content/16491-about-artificial-intelligence-engineering-department
-[beyond-pixel-fidelity]: https://arxiv.org/pdf/2604.28136
-[icip2026]: https://2026.ieeeicip.org/
-[ntire2026]: https://cvlai.net/ntire/2026/

@@ -1,9 +1,10 @@
 ---
-layout: single
-permalink: /social/
+layout: personal
+permalink: /personal/
+redirect_from:
+  - /social/
 title: "More About Me"
 excerpt: ""
-author_profile: true
 ---
 
 > Amor intellectualis quo FK se ipsum amat
@@ -12,7 +13,7 @@ Hello folks!
 
 My name is Furkan Kınlı. I was born in April 1993 in Aydın, Turkey, and moved to İstanbul for my education.
 
-I am currently working as a faculty member in the [Department of Artificial Intelligence][bau-ai] at [Bahçeşehir University][bau]. I received my B.Sc., M.Sc., and most recently my Ph.D. in Computer Science from Özyeğin University (the triple crown!). My research journey began with fashion image understanding and capsule networks during my M.Sc., and continued into style modeling for image restoration tasks throughout my Ph.D., under the supervision of Assoc. Prof. Furkan Kıraç. My doctoral thesis, "[Modeling the Lighting as Style Factor via Neural Networks for White Balance Correction][phd-thesis]", was successfully defended in May 2025. Current research interests include camera pipeline, illuminance and colors and computational photography.
+I am currently working as a faculty member in the [Department of Artificial Intelligence][bau-ai] at [Bahçeşehir University][bau]. I received my B.Sc., M.Sc., and most recently my Ph.D. in Computer Science from Özyeğin University (the triple crown!). My research journey began with fashion image understanding and capsule networks during my M.Sc., and continued into style modeling for image restoration tasks throughout my Ph.D., under the supervision of Assoc. Prof. Furkan Kıraç. My doctoral thesis, "[Modeling the Lighting as Style Factor via Neural Networks for White Balance Correction][phd-thesis]", was successfully defended in May 2025. Current research interests include computational photography, image signal processors (ISP), night photography rendering, color science, and image restoration & enhancement.
 
 > I prefer being an academician and scientist who contributes to Computer Science for the welfare of the community, rather than a developer working solely for individual gain.
 
@@ -22,96 +23,30 @@ I have a friend, named "Alex". I got inspired by Alex de Souza (ofc!).
 
 ![][alex]
 
+## Sports
+
 I am a fan of basketball, especially NBA. Go Pacers!
+
+I was individual-licensed player for Billiards and also, I was the instructor of two Billiards courses at Özyeğin University. Snooker and Neil Robertson have something special for me and I pursue them sensually.
+
+## Listening
 
 Favorite Genre: Metalcore and derivatives. [dissertate or suicide][dissertate or suicide]
 
-I enjoy reading Dostoyevsky, Camus, Sartre, D. Solstad, O. Dazai, S. Beckett, E. Ionesco, H. Kang, J. Fosse, V. Hjörth, E. Loe, and many more authors yet to discover.
+## Reading
+
+I enjoy reading Dostoyevsky, Camus, Sartre, [D. Solstad](/blog/acilmayan-semsiyeler-uzerine/), [J. Fosse](/blog/aydinlanmayan-aksamlar-uzerine/), O. Dazai, S. Beckett, E. Cioran, T. Bernhard, [H. Kang](/blog/tamamlanma-tehdidi-uzerine/), V. Hjörth, E. Loe, and many more authors yet to discover.
+
+And Nietzsche, ofc! Every road starts there; the rest is footnotes.
+
+## Eurovision
 
 I am really mad on Eurovision Song Contest. I follow the contest, songs and magazine on it for every year. I follow huge ESC playlists on Spotify. 
 
 For 2024, CROWN THE WITCH! (ps. [WITCH CROWNED THE MONARCH][WITCH CROWNED THE MONARCH]) 
 
-Playlists | [2024][link_24] | [2023][link_23] | [2022][link_22] | [2021][link_21] | [2020][link_20] | [2019][link_19] | [2018][link_18] | [2017][link_17] | [2016][link_16] | [2015 and older][link_15]
-
-I was individual-licensed player for Billiards and also, I was the instructor of two Billiards courses at Özyeğin University. Snooker and Neil Robertson have something special for me and I pursue them sensually.
-
-[//]: # (Recommendations:)
-
-[//]: # ()
-[//]: # (Series:)
-
-[//]: # ()
-[//]: # (*   Dark)
-
-[//]: # (*   Fringe)
-
-[//]: # (*   How to Get Away with A Murderer)
-
-[//]: # (*   GoT)
-
-[//]: # (*   Vikings)
-
-[//]: # (*   Mindhunter)
-
-[//]: # (*   The Haunting of Hill House)
-
-[//]: # (*   Sherlock)
-
-[//]: # (*   Ozark)
-
-[//]: # (*   You Me Her)
-
-[//]: # (*   You)
-
-[//]: # (*   Dogs of Berlin)
-
-[//]: # (*   Atiye)
-
-[//]: # (*   Breaking Bad)
-
-[//]: # (*   Easy)
-
-[//]: # ()
-[//]: # (Movies:)
-
-[//]: # ()
-[//]: # (*   LOTR &#40;the only movie that I watch&#41;)
-
-[//]: # ()
-[//]: # (Books:)
-
-[//]: # ()
-[//]: # (*   1984 - George Orwell)
-
-[//]: # (*   Foundation - Isaac Asimov)
-
-[//]: # (*   Die Verwandlung - Franz Kafka)
-
-[//]: # (*   Der Prozeß - Franz Kafka)
-
-[//]: # (*   Surgeon - Tess Gerriten)
-
-[//]: # (*   Animal Farm - George Orwell)
-
-[//]: # (*   Silent Girl - Tess Gerritsen)
-
-[//]: # ()
-[//]: # (Games:)
-
-[//]: # ()
-[//]: # (*   Ori and the Blind Forest)
-
-[//]: # (*   Death Stranding )
-
-[//]: # (*   Long Dark)
-
-[//]: # (*   Layers of Fear)
-
-[//]: # (*   Life is Strange 1 & 2)
-
-[//]: # (*   NBA 2K)
-
+[2024][link_24] [2023][link_23] [2022][link_22] [2021][link_21] [2020][link_20] [2019][link_19] [2018][link_18] [2017][link_17] [2016][link_16] [2015 and older][link_15]
+{: .chips}
 
 [link_15]: https://open.spotify.com/playlist/5iyfPnZqWnOiob2jxOnXLU?si=UNvvTjfCRci6sfEt6AC6_A
 [link_16]: https://open.spotify.com/playlist/0VEtwmjx3FK77jWLlI16EV?si=9CIs94hmQyyuis7QU6zyPg

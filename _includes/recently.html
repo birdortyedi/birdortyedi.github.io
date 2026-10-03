@@ -1,0 +1,15 @@
+{% include base_path %}
+{% assign paper = site.publications | sort: "date" | last %}
+{% assign essay = site.posts.first %}
+<div class="recently">
+  <a class="recently__card" href="{{ base_path }}{{ paper.url }}">
+    <span class="recently__label">Latest paper</span>
+    <span class="recently__title">{{ paper.title }}</span>
+    <span class="recently__meta">{{ paper.short_venue }}</span>
+  </a>
+  <a class="recently__card recently__card--essay" href="{{ base_path }}{{ essay.url }}">
+    <span class="recently__label">Latest essay</span>
+    <span class="recently__title">{{ essay.title }}</span>
+    <span class="recently__meta">{% if essay.writer %}{{ essay.writer }} · {% endif %}{{ essay.date | date: "%d.%m.%Y" }}</span>
+  </a>
+</div>

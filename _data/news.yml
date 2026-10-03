@@ -1,0 +1,117 @@
+# News items, newest first. Shown on the home page (latest 6) and on /news/.
+# text is Markdown.
+
+- date: "April 30, 2026"
+  text: "A paper titled \"[Beyond Pixel Fidelity: Minimizing Perceptual Distortion and Color Bias in Night Photography Rendering](https://arxiv.org/pdf/2604.28136)\" was accepted to [IEEE International Conference on Image Processing (ICIP) 2026](https://2026.ieeeicip.org/)."
+
+- date: "April 8, 2026"
+  text: "I take the **3rd place** in \"[Night Photography Rendering Challenge](https://nightimaging.org/)\" at [NTIRE2026: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing in conjunction with CVPR 2026](https://cvlai.net/ntire/2026/)."
+
+- date: "March 19, 2026"
+  text: "I take the **1st place (Winner)** in \"Photography Retouching Transfer Challenge\" at [NTIRE2026: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing in conjunction with CVPR 2026](https://cvlai.net/ntire/2026/)."
+
+- date: "March 16, 2026"
+  text: "I take the **1st, 3rd, 3rd, and 5th place** rankings across different benchmarks of \"Low-light Image Enhancement Challenge\" at [NTIRE2026: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing in conjunction with CVPR 2026](https://cvlai.net/ntire/2026/)."
+
+- date: "November 1, 2025"
+  text: "I have started to work as an Assistant Professor in the [Department of Artificial Intelligence](https://bau.edu.tr/content/16491-about-artificial-intelligence-engineering-department) at [Bahçeşehir University](https://bau.edu.tr/)."
+
+- date: "June 11, 2025"
+  text: "We were among the finalists in \"[Night Photography Rendering Challenge](https://nightimaging.org/)\" at [NTIRE2025: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing in conjunction with CVPR 2025](https://cvlai.net/ntire/2025/)."
+
+- date: "May 12, 2025"
+  text: "I have successfully defended my Ph.D. thesis, \"[Modeling the Lighting as Style Factor via Neural Networks for White Balance Correction](files/phd-thesis.pdf)\"."
+
+- date: "March 19, 2025"
+  text: "A paper titled \"[Feature distribution statistics as a loss objective for robust white balance correction](https://link.springer.com/article/10.1007/s00138-025-01680-1)\" was accepted to [Machine Vision and Applications](https://link.springer.com/journal/138)."
+
+- date: "February 8, 2025"
+  text: "A paper titled \"[Advancing white balance correction through deep feature statistics and feature distribution matching](https://www.sciencedirect.com/science/article/pii/S1047320325000264)\" was accepted to [Journal of Visual Communication and Image Representation](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)."
+
+- date: "December 4, 2024"
+  text: "A paper titled \"[Dawn: A Robust Tone Mapping Operator for Multi-Illuminant and Low-Light Scenarios](https://www.insticc.org/node/TechnicalProgram/VISIGRAPP/2025/presentationDetails/131346)\" was accepted as *Oral Presentation* in [VISIGRAPP 2025: 20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications](https://visapp.scitevents.org/)."
+
+- date: "March 17, 2024"
+  text: "We take the 9th place in \"[Night Photography Rendering Challenge](https://nightimaging.org/)\" at [NTIRE2024: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing in conjunction with CVPR 2024](https://cvlai.net/ntire/2024/)."
+
+- date: "August 6, 2023"
+  text: "A paper titled \"[Deterministic Neural Illumination Mapping for Efficient Auto-White Balance Correction](https://openaccess.thecvf.com/content/ICCV2023W/RCV/papers/Kinli_Deterministic_Neural_Illumination_Mapping_for_Efficient_Auto-White_Balance_Correction_ICCVW_2023_paper.pdf)\" was accepted to [RCV 2023: The 1st ICCV 2023 Workshop on Resource Efficient Deep Learning for Computer Vision at ICCV 2023](https://sites.google.com/view/rcv2023)."
+
+- date: "March 10, 2023"
+  text: "We take the 7th place in \"[Night Photography Rendering Challenge](https://nightimaging.org/)\" at [NTIRE2023: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing in conjunction with CVPR 2023](https://cvlai.net/ntire/2023/)."
+
+- date: "July 21, 2023"
+  text: "We are selected as the recipients of Kaggle Awards for [ML Reproducibility Challenge 2022](https://paperswithcode.com/rc2022) and rewarded with Google Cloud coupons (10K). Also, personally nominated for \"Outstanding Reviewer\" and rewarded with Google Cloud coupons (5K)."
+
+- date: "April 24, 2023"
+  text: "We submitted 2 reproduction reports to [ML Reproducibility Challenge 2022](https://paperswithcode.com/rc2022), and one of these reports titled \"[[Re] Exact Feature Distribution Matching for Arbitrary Style Transfer and Domain Generalization](https://openreview.net/pdf?id=a5_hbZf0NB)\" was accepted to [ReScience Journal](https://rescience.github.io/) Publication."
+
+- date: "October 23, 2022"
+  text: "We have presented 3 accepted papers as *Oral Presentation* in [Advances in Image Manipulation workshop in conjunction with ECCV 2022](https://data.vision.ee.ethz.ch/cvl/aim22/)."
+
+- date: "October 11, 2022"
+  text: "A paper titled \"[Modeling the Lighting in Scenes as Style for Auto White-Balance Correction](https://arxiv.org/pdf/2210.09090.pdf)\" was accepted to [IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)](https://wacv2023.thecvf.com/)."
+
+- date: "October 5, 2022"
+  text: "Our journal \"[[Re] Lifting 2D StyleGAN for 3D-Aware Face Generation](https://openreview.net/pdf?id=BcNonfQ3RY)\" published in the special edition of [ReScience Journal](https://rescience.github.io/) is invited to [the Journal Showcase Poster Session at NeurIPS 2022](https://blog.neurips.cc/2022/08/15/journal-showcase/)."
+
+- date: "September 28, 2022"
+  text: "A paper titled \"[Generalization to Unseen Viewpoint Images of Objects via Alleviated Pose Attentive Capsule Agreement](https://link.springer.com/article/10.1007/s00521-022-07900-3?error=cookies_not_supported&code=3a5ab1c3-ded3-4157-a0af-2dc76c936363)\" was accepted to [Neural Computing and Applications](https://www.springer.com/journal/521)."
+
+- date: "May 27, 2022"
+  text: "We are organizing a [challenge](https://codalab.lisn.upsaclay.fr/competitions/5081) on Instagram Filter Removal at [AIM2022: Advances in Image Manipulation in conjuction with ECCV2022](https://data.vision.ee.ethz.ch/cvl/aim22/)."
+
+- date: "April 14, 2022"
+  text: "A paper titled \"[Patch-wise Contrastive Style Learning for Instagram Filter Removal](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Kinli_Patch-Wise_Contrastive_Style_Learning_for_Instagram_Filter_Removal_CVPRW_2022_paper.pdf)\" was accepted as *Oral Presentation* to [NTIRE2022: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing in conjunction with CVPR 2022](https://data.vision.ee.ethz.ch/cvl/ntire22/)."
+
+- date: "April 11, 2022"
+  text: "We submitted 1 reproduction report to [ML Reproducibility Challenge 2021](https://openreview.net/group?id=ML_Reproducibility_Challenge/2021/Fall), and this report titled \"[[Re] Lifting 2D StyleGAN for 3D-Aware Face Generation](https://openreview.net/pdf?id=BcNonfQ3RY)\" was accepted to [ReScience Journal](https://rescience.github.io/) Publication."
+
+- date: "March 31, 2022"
+  text: "We take the 4th place in \"[Night Photography Rendering Challenge](https://nightimaging.org/)\" at [NTIRE2022: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing in conjunction with CVPR 2022](https://data.vision.ee.ethz.ch/cvl/ntire22/)."
+
+- date: "January 05, 2022"
+  text: "I successfully passed Ph.D. Qualification Exam."
+
+- date: "December 28, 2021"
+  text: "As [T-Fashion](https://tfashion.ai), we have re-located the company base to Toronto, Canada after the seed investment."
+
+- date: "April 13, 2021"
+  text: "I gave a talk on recent advances in computer vision as part of SEC405 Panel at [Özyeğin University](https://www.ozyegin.edu.tr/en/)."
+
+- date: "April 11, 2021"
+  text: "A paper titled \"[Instagram Filter Removal on Fashionable Images](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Kinli_Instagram_Filter_Removal_on_Fashionable_Images_CVPRW_2021_paper.pdf)\" was accepted to [NTIRE2021: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing in conjunction with CVPR 2021](https://data.vision.ee.ethz.ch/cvl/ntire21/)."
+
+- date: "April 01, 2021"
+  text: "We submitted 2 reproduction reports to [ML Reproducibility Challenge 2020](https://paperswithcode.com/rc2020), and one report titled \"[[Re]: Spatial-Adaptive Network for Single Image Denoising](https://openreview.net/pdf?id=yiAI9QN9nYt)\" was accepted to [ReScience Journal](https://rescience.github.io/) Publication."
+
+- date: "October 11, 2020"
+  text: "A paper titled \"[Quaternion Capsule Networks](https://ieeexplore.ieee.org/abstract/document/9412006)\" was accepted to [25th International Conference on Pattern Recognition](http://www.icpr2020.it/)."
+
+- date: "August 06, 2020"
+  text: "A paper titled \"[A Benchmark for Inpainting of Clothing Images with Irregular Holes](https://link.springer.com/chapter/10.1007/978-3-030-66823-5_11)\" was accepted to [AIM2020: Advanced Image Manipulation workshop and challenges at ECCV2020](https://data.vision.ee.ethz.ch/cvl/aim20/)."
+
+- date: "March 15, 2020"
+  text: "A paper titled \"[Description-aware Fashion Image Inpainting with Convolutional Neural Networks in Coarse-to-Fine Manner](https://dl.acm.org/doi/abs/10.1145/3397125.3397155)\" was accepted to [6th International Conference on Computer and Technology Applications (ICCTA 2020, former ICCIT)](http://www.iccit.org)."
+
+- date: "February 1, 2020"
+  text: "A paper titled \"[FashionCapsNet: Clothing Classification with Capsule Networks](https://dergipark.org.tr/en/download/article-file/952493)\" was published in [International Journal of Informatics Technologies](https://dergipark.org.tr/en/pub/gazibtd)."
+
+- date: "December 24, 2019"
+  text: "I gave a talk on recent advances in computer vision as part of SEC405 Panel at [Özyeğin University](https://www.ozyegin.edu.tr/en/)."
+
+- date: "November 2, 2019"
+  text: "A paper titled \"[Fashion Image Retrieval with Capsule Networks](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Kinli_Fashion_Image_Retrieval_with_Capsule_Networks_ICCVW_2019_paper.pdf)\" was presented in [Second Workshop on Computer Vision for Fashion, Art and Design](https://sites.google.com/view/cvcreative/home) as part of ICCV 2019 Workshops."
+
+- date: "September 5, 2019"
+  text: "I have been accepted to Ph.D. of Computer Science at [Özyeğin University](https://www.ozyegin.edu.tr/en/)."
+
+- date: "August 19, 2019"
+  text: "I successfully defended my M.Sc. thesis, \"[Clothing Image Retrieval with Triplet Capsule Networks](files/msc-thesis.pdf)\"."
+
+- date: "February 18, 2019"
+  text: "I have been assigned as Research Assistant to [Department of Computer Science](https://www.ozyegin.edu.tr/en/computer-science-department) at [Özyeğin University](https://www.ozyegin.edu.tr/en/)"
+
+- date: "April 3, 2018"
+  text: "[MSI Turkey](https://tr.msi.com/index.php) has been supported my research studies, and donated GPUs. All started from this moment."
+

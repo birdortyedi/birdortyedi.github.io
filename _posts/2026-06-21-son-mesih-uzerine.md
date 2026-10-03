@@ -1,6 +1,8 @@
 ---
 title: "Son Mesih Üzerine"
 date: 2026-06-21
+writer: "Peter Wessel Zapffe"
+book: "Son Mesih"
 permalink: /blog/son-mesih-uzerine/
 excerpt: "Norveçli filozof Peter Wessel Zapffe’nin 1933 tarihli denemesi Son Mesih'in (Den Sidste Messias) Türkçe aktarımı."
 tags:

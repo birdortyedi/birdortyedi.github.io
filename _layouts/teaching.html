@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+{% include base_path %}
+{% assign courses = site.teaching | sort: "date" | reverse %}
+{% assign current = courses | where: "status", "current" %}
+{% assign past = courses | where: "status", "past" %}
+
+<main class="pubs teaching" role="main">
+  <header>
+    <h1 class="pubs__title">{{ page.title }}</h1>
+    <p class="pubs__meta"><span>Department of Artificial Intelligence</span><span>Bahçeşehir University</span></p>
+    {{ content }}
+  </header>
+
+  {% if current.size > 0 %}
+  <h2 class="pubs__group">Now teaching · {{ current.first.term }}</h2>
+  <div class="course-cards">
+    {% for c in current %}
+    <a class="course-card" href="{{ base_path }}{{ c.url }}">
+      <span class="recently__label">{{ c.level }} · {{ c.institution }}</span>
+      <span class="course-card__title">{{ c.title }}</span>
+      {% if c.description and c.description != "" %}<span class="course-card__desc">{{ c.description }}</span>{% endif %}
+      <span class="recently__meta">{% if c.ready %}Course page →{% else %}In preparation{% endif %}</span>
+    </a>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if past.size > 0 %}
+  <h2 class="pubs__group">Past courses</h2>
+  {% for c in past %}
+  <a class="cv__row course-row" href="{{ base_path }}{{ c.url }}">
+    <span class="cv__when">{{ c.term }}</span>
+    <span><strong>{{ c.title }}</strong> <span class="course-row__meta">{{ c.level }} · {{ c.institution }}</span></span>
+  </a>
+  {% endfor %}
+  {% endif %}
+
+  {% if site.data.cv.teaching_interests %}
+  <h2 class="pubs__group">Teaching interests</h2>
+  <p class="tags">{% for t in site.data.cv.teaching_interests %}<span class="badge">{{ t }}</span>{% endfor %}</p>
+  {% endif %}
+</main>

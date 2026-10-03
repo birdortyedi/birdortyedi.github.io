@@ -1,0 +1,75 @@
+---
+layout: default
+---
+
+{% include base_path %}
+{% assign cv = site.data.cv %}
+
+<main class="paper cv" role="main">
+  <header>
+    <h1 class="pubs__title">{{ page.title }}</h1>
+    <p class="paper__links"><a class="paper__btn" href="{{ base_path }}/files/cv.pdf">Download PDF</a></p>
+    {{ content }}
+  </header>
+
+  <h2 class="pubs__group">Objective</h2>
+  <ul class="cv__objective">
+    {% for o in cv.objective %}<li>{{ o }}</li>{% endfor %}
+  </ul>
+
+  <h2 class="pubs__group">Education</h2>
+  {% for e in cv.education %}
+  <div class="cv__row">
+    <span class="cv__when">{{ e.when }}</span>
+    <div>
+      <strong>{{ e.what }}</strong>, {{ e.where }}
+      {% if e.thesis %}<p class="cv__detail">Thesis: {% if e.url %}<a href="{{ base_path }}{{ e.url }}">“{{ e.thesis }}”</a>{% else %}“{{ e.thesis }}”{% endif %}</p>{% endif %}
+    </div>
+  </div>
+  {% endfor %}
+
+  <h2 class="pubs__group">Experience</h2>
+  {% for e in cv.experience %}
+  <div class="cv__row">
+    <span class="cv__when">{{ e.when }}</span>
+    <div>
+      <strong>{{ e.what }}</strong>, {{ e.where }}
+      {% if e.detail %}<p class="cv__detail">{{ e.detail }}</p>{% endif %}
+    </div>
+  </div>
+  {% endfor %}
+
+  <h2 class="pubs__group">Awards &amp; Honors</h2>
+  {% for a in cv.awards %}
+  <div class="cv__row">
+    <span class="cv__when">{{ a.when }}</span>
+    <div><strong>{{ a.what }}</strong>: {{ a.where }}</div>
+  </div>
+  {% endfor %}
+
+  <h2 class="pubs__group">Selected Publications</h2>
+  {% assign selected = site.publications | where: "selected", true | sort: "date" | reverse %}
+  <ol class="cv__pubs">
+    {% for pub in selected %}
+    <li>
+      {{ pub.authors }}. <a href="{{ base_path }}{{ pub.url }}">“{{ pub.title }}.”</a>
+      <span class="pub__venue"><span>{{ pub.short_venue }}</span>{% for a in pub.awards %}<span class="badge">{{ a }}</span>{% endfor %}</span>
+    </li>
+    {% endfor %}
+  </ol>
+  <p class="paper__back"><a href="{{ base_path }}/publications/">Full list of publications →</a></p>
+
+  <h2 class="pubs__group">Academic Service</h2>
+  {% for s in cv.service %}
+  <div class="cv__row">
+    <span class="cv__when">{{ s.group }}</span>
+    <ul class="cv__list">{% for i in s.items %}<li>{{ i }}</li>{% endfor %}</ul>
+  </div>
+  {% endfor %}
+
+  <h2 class="pubs__group">Skills</h2>
+  <div class="cv__row">
+    <span class="cv__when"></span>
+    <ul class="cv__list">{% for s in cv.skills %}<li>{{ s }}</li>{% endfor %}</ul>
+  </div>
+</main>

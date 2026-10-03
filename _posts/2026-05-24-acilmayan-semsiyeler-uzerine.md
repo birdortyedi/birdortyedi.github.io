@@ -1,6 +1,8 @@
 ---
 title: "Açılmayan Şemsiyeler Üzerine"
 date: 2026-05-24
+writer: "Dag Solstad"
+book: "Mahcubiyet ve Haysiyet"
 permalink: /blog/acilmayan-semsiyeler-uzerine/
 excerpt: "Elias Rukla’nın şahsında izlediğimiz şey, sadece yaşlı bir edebiyat öğretmeninin yağmurlu bir Oslo gününde geçirdiği sıradan bir sinir krizi değildir; otuz yıllık rutinlerin, entelektüel alışkanlıkların ve zihinsel illüzyonların darmadağınık bir şekilde çöküşüdür."
 tags:

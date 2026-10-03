@@ -16,11 +16,11 @@ $indent-var                 : 1.3em;
 $serif                      : Cambria, Georgia, Times, serif;
 $georgia                    : Georgia, serif;
 $cambria                    : Cambria, Georgia, serif;
-$sans-serif                 : "Inter", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : "Fira Code", Monaco, Consolas, "Lucida Console", monospace;
+$sans-serif                 : "IBM Plex Sans", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$monospace                  : "IBM Plex Mono", Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
-$sans-serif-narrow          : "Outfit", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif-narrow          : "IBM Plex Sans", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 /* $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif; */
 
 /* serif typefaces */
@@ -46,37 +46,35 @@ $type-size-8                : 0.625em;  // ~10px
 
 
 /*
-   Colors (Dark Mode)
+   Colors
    ========================================================================== */
 
-/* Base Greys */
-$gray                       : #64748b;     /* slate-500 */
-$dark-gray                  : #94a3b8;     /* slate-400 (Secondary text) */
-$darker-gray                : #f8fafc;     /* slate-50 (White header text) */
-$light-gray                 : #1e293b;     /* slate-800 (Secondary bg / blockquotes / cards) */
-$lighter-gray               : #334155;     /* slate-700 (Lighter borders/hover cards) */
+/* Theme colors resolve at runtime (light / dark / system); tokens live in _theme.scss.
+   Never pass these to Sass color functions (mix, rgba, lighten...). */
+$gray                       : var(--muted);
+$dark-gray                  : var(--text-soft);
+$darker-gray                : var(--text);
+$light-gray                 : var(--surface);
+$lighter-gray               : var(--rule-strong);
 
-/* Backgrounds & Text */
-$body-color                 : #0b0f19;     /* Deep modern slate black */
-$background-color           : #0b0f19;
-$code-background-color      : #131924;     /* Deep slate code bg */
-$code-background-color-dark : #070a0f;
-$text-color                 : #e2e8f0;     /* slate-200 (Clean readable off-white text) */
-$border-color               : #1e293b;     /* slate-800 (Clean thin borders) */
+$body-color                 : var(--bg);
+$background-color           : var(--bg);
+$code-background-color      : var(--surface);
+$code-background-color-dark : var(--surface);
+$text-color                 : var(--text);
+$border-color               : var(--rule);
 
-/* Accents */
-$primary-color              : #38bdf8;     /* Sky blue accent */
-$success-color              : #10b981;     /* Emerald green */
+$primary-color              : var(--accent);
+$success-color              : #10b981;
 $warning-color              : #f59e0b;
 $danger-color               : #ef4444;
 $info-color                 : #06b6d4;
 
-/* Links */
-$link-color                 : #38bdf8;     /* Sky blue links */
-$link-color-hover           : #60a5fa;     /* Bright blue on hover */
-$link-color-visited         : #a5b4fc;     /* Indigo-300 visited */
-$masthead-link-color        : #94a3b8;     /* Nav links in slate-400 */
-$masthead-link-color-hover  : #f8fafc;     /* Active nav links in white */
+$link-color                 : var(--accent);
+$link-color-hover           : var(--text);
+$link-color-visited         : var(--accent);
+$masthead-link-color        : var(--text-soft);
+$masthead-link-color-hover  : var(--text);
 
 /* Brands (restored for dark mode compatibility) */
 $behance-color              : #1769FF;

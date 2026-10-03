@@ -273,7 +273,7 @@ figure {
 
 figcaption {
   margin-bottom: 0.5em;
-  color: mix(#fff, $text-color, 25%);
+  color: var(--text-soft);
   font-family: $caption-font-family;
   font-size: $type-size-6;
 
@@ -285,8 +285,8 @@ figcaption {
     transition: $global-transition;
 
     &:hover {
-      color: #000;
-      border-bottom-color: #000;
+      color: var(--text);
+      border-bottom-color: var(--text);
     }
   }
 }
@@ -358,33 +358,29 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 }
 
 ::-webkit-scrollbar-track {
-  background: #0b0f19;
+  background: var(--bg);
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #1e293b;
-  border: 2px solid #0b0f19;
+  background: var(--rule-strong);
+  border: 2px solid var(--bg);
   border-radius: 5px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #38bdf8;
+  background: var(--accent-soft);
 }
 
 /* Firefox support */
 * {
   scrollbar-width: thin;
-  scrollbar-color: #1e293b #0b0f19;
+  scrollbar-color: var(--rule-strong) var(--bg);
 }
 
 /* Custom Text Selection Highlight */
 ::selection {
-  background-color: rgba(56, 189, 248, 0.25);
-  color: #f8fafc;
-}
-::-moz-selection {
-  background-color: rgba(56, 189, 248, 0.25);
-  color: #f8fafc;
+  background-color: var(--selection);
+  color: var(--text);
 }
 
 

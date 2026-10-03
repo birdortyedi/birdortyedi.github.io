@@ -1,0 +1,373 @@
+/* ==========================================================================
+   PUBLICATIONS — list (layout: publications) and paper page (layout: publication)
+   ========================================================================== */
+
+.pubs,
+.paper {
+  margin: 0 auto;
+  padding: 3rem 1rem 4rem;
+
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { color: var(--text); }
+}
+.pubs,
+.paper { max-width: 48rem; }
+
+.pubs__title,
+.paper__title,
+.page__title {
+  font-weight: 600;
+  line-height: 1.2;
+  color: var(--text);
+  margin: 0 0 0.75rem;
+}
+.pubs__title,
+.paper__title,
+.page__title { font-size: 2rem; }
+
+.pubs__meta {
+  font-family: $monospace;
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  margin: 0 0 1rem;
+
+  span + span::before { content: " · "; }
+}
+
+.pubs__toc {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1.5rem 0 1rem;
+
+  a {
+    font-size: 0.8rem;
+    padding: 0.3em 0.8em;
+    border: 1px solid var(--rule);
+    border-radius: 999px;
+    color: var(--text-soft);
+  }
+  a:hover { border-color: var(--rule-strong); color: var(--text); }
+  span { font-family: $monospace; color: var(--muted); margin-left: 0.3em; }
+}
+
+.pubs__group {
+  font-family: $monospace;
+  font-size: 0.75rem;
+  font-weight: 400;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 3rem 0 0;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--rule);
+  scroll-margin-top: 1rem;
+}
+
+.pubs__list { list-style: none; margin: 0; padding: 0; }
+
+.pub {
+  display: grid;
+  grid-template-columns: 8rem minmax(0, 1fr);
+  gap: 1.25rem;
+  padding: 1.25rem 0;
+  margin: 0;
+  border-bottom: 1px solid var(--rule);
+
+  &::before { content: none; }
+
+  @media (max-width: 599px) {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+.pub__thumb {
+  display: block;
+  aspect-ratio: 16 / 10;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  overflow: hidden;
+  background: var(--surface);
+
+  img { width: 100%; height: 100%; object-fit: cover; display: block; }
+
+  @media (max-width: 599px) { display: none; }
+}
+
+.pub__title {
+  display: block;
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.35;
+  color: var(--text) !important;
+  &:hover { color: var(--accent) !important; }
+}
+
+.pub__authors,
+.paper__authors {
+  font-size: 0.875rem;
+  color: var(--text-soft);
+  margin: 0.3rem 0 0;
+}
+.paper__authors { font-size: 1rem; }
+
+.paper__venue {
+  font-style: italic;
+  font-size: 0.9rem;
+  color: var(--muted);
+  margin: 0.3rem 0 0;
+}
+
+.pub__venue {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+  font-family: $monospace;
+  font-size: 0.75rem;
+  color: var(--muted);
+  margin: 0.5rem 0 0;
+}
+
+.badge {
+  font-family: $monospace;
+  font-size: 0.7rem;
+  letter-spacing: 0.02em;
+  padding: 0.1em 0.6em;
+  border: 1px solid var(--accent-soft);
+  border-radius: 999px;
+  color: var(--accent);
+}
+
+.pub__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 0.6em;
+  font-family: $monospace;
+  font-size: 0.75rem;
+  margin: 0.4rem 0 0;
+
+  a::before { content: "["; color: var(--muted); }
+  a::after { content: "]"; color: var(--muted); }
+}
+
+/* paper page */
+
+.paper__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.paper__btn {
+  font-family: $monospace;
+  font-size: 0.8rem;
+  padding: 0.35em 0.9em;
+  border: 1px solid var(--rule-strong);
+  border-radius: 6px;
+  color: var(--text) !important;
+  &:hover { background: var(--surface-hover); border-color: var(--accent-soft); }
+}
+
+.paper__content {
+  img {
+    display: block;
+    width: 100%;
+    border-radius: 6px;
+    border: 1px solid var(--rule);
+    background: #fff; /* figures are drawn for white paper */
+    margin: 0 0 2rem;
+  }
+  h2 { font-size: 1.1rem; font-weight: 600; margin: 2rem 0 0.5rem; }
+  p { line-height: 1.7; }
+}
+
+.paper__bibtex {
+  position: relative;
+  margin: 2.5rem 0 0;
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  background: var(--surface);
+  scroll-margin-top: 1rem;
+
+  summary {
+    cursor: pointer;
+    padding: 0.75rem 1rem;
+    font-family: $monospace;
+    font-size: 0.8rem;
+    color: var(--text-soft);
+  }
+
+  pre {
+    margin: 0;
+    padding: 0 1rem 1rem;
+    background: transparent;
+    font-size: 0.75rem;
+    overflow-x: auto;
+  }
+}
+
+.paper__copy {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  font-family: $monospace;
+  font-size: 0.7rem;
+  padding: 0.25em 0.7em;
+  border: 1px solid var(--rule-strong);
+  border-radius: 4px;
+  background: var(--bg);
+  color: var(--text-soft);
+  cursor: pointer;
+  &:hover { color: var(--text); }
+}
+.paper__bibtex:not([open]) .paper__copy { display: none; }
+
+.paper__back {
+  font-family: $monospace;
+  font-size: 0.8rem;
+  margin: 3rem 0 0;
+}
+
+/* CV page (layout: cv) — reuses the paper column and section headings */
+
+.cv__row {
+  display: grid;
+  grid-template-columns: 9rem minmax(0, 1fr);
+  gap: 1rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--rule);
+
+  @media (max-width: 599px) { grid-template-columns: minmax(0, 1fr); gap: 0.2rem; }
+}
+
+.cv__when {
+  font-family: $monospace;
+  font-size: 0.75rem;
+  letter-spacing: 0.02em;
+  color: var(--muted);
+  padding-top: 0.2em;
+}
+
+.cv__detail {
+  font-size: 0.875rem;
+  color: var(--text-soft);
+  margin: 0.2rem 0 0;
+}
+
+.cv__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  li { margin: 0 0 0.3em; padding: 0; }
+  li::before { content: none; }
+}
+
+.cv__objective { margin-top: 1rem; }
+
+.cv__pubs {
+  margin: 1rem 0 0;
+  padding-left: 1.5rem;
+
+  li { margin-bottom: 0.9rem; padding-left: 0.3rem; line-height: 1.5; }
+  li::before { content: none; }
+  .pub__venue { margin-top: 0.3rem; }
+}
+
+/* Home page (about.md): interest tags and "Recently" cards */
+
+.tags { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 1rem 0 0; }
+
+.recently {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+  gap: 0.75rem;
+  margin: 1rem 0 0;
+}
+
+.recently__card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  background: var(--surface);
+  text-decoration: none !important;
+  color: var(--text) !important;
+  transition: border-color 0.2s ease, background-color 0.2s ease;
+
+  &:hover { border-color: var(--rule-strong); background: var(--surface-hover); }
+}
+
+.recently__label {
+  font-family: $monospace;
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.recently__title { font-weight: 600; line-height: 1.35; }
+.recently__card--essay .recently__title { font-family: "IBM Plex Serif", Georgia, serif; font-weight: 500; font-size: 1.1rem; }
+
+.recently__meta {
+  font-family: $monospace;
+  font-size: 0.75rem;
+  color: var(--muted);
+  margin-top: auto;
+}
+
+/* Pages without the profile card: centred single column, like the rest of the site */
+@include breakpoint($large) {
+  #main > .page:first-child {
+    float: none;
+    width: auto;
+    max-width: 46rem;
+    margin: 0 auto;
+  }
+}
+
+/* Teaching (layout: teaching) and course pages (layout: course) */
+
+.course-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 0.75rem;
+  margin: 1rem 0 0;
+}
+
+.course-card {
+  @extend .recently__card;
+  padding: 1.25rem 1.25rem 1rem;
+  min-height: 9rem;
+}
+
+.course-card__title { font-size: 1.2rem; font-weight: 600; line-height: 1.3; }
+.course-card__desc { font-size: 0.9rem; color: var(--text-soft); }
+
+.course-row {
+  color: var(--text) !important;
+  text-decoration: none !important;
+  &:hover strong { color: var(--accent); }
+}
+.course-row__meta { font-size: 0.85rem; color: var(--muted); margin-left: 0.4rem; }
+
+.course__content {
+  table { font-size: 0.875rem; border: 1px solid var(--rule); }
+  thead { background: var(--surface); border-bottom: 1px solid var(--rule-strong); }
+  th, td { border-color: var(--rule); }
+}
+
+.construction {
+  margin: 2rem 0 0;
+  padding: 1.5rem 1.5rem 0.75rem;
+  border: 1px dashed var(--rule-strong);
+  border-radius: 8px;
+  background: var(--surface);
+
+  p { color: var(--text-soft); line-height: 1.7; }
+}

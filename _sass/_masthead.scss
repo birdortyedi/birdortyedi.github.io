@@ -63,14 +63,14 @@
 .masthead-nav-checkbox:checked + .masthead-nav-label {
   .navicon-line:nth-child(1) {
     transform: translateY(6px) rotate(45deg);
-    background-color: #38bdf8;
+    background-color: var(--accent);
   }
   .navicon-line:nth-child(2) {
     opacity: 0;
   }
   .navicon-line:nth-child(3) {
     transform: translateY(-6px) rotate(-45deg);
-    background-color: #38bdf8;
+    background-color: var(--accent);
   }
 }
 
@@ -87,11 +87,8 @@
     top: 100%;
     left: -1em; /* span outside the inner masthead wrap padding */
     width: calc(100% + 2em);
-    background: rgba(11, 15, 25, 0.96);
-    backdrop-filter: blur(16px);
-    -webkit-backdrop-filter: blur(16px);
-    border-bottom: 2px solid rgba(56, 189, 248, 0.15);
-    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
+    background: var(--bg);
+    border-bottom: 1px solid var(--rule);
     padding: 1.5rem 0;
     z-index: 10;
     

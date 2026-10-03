@@ -1,6 +1,8 @@
 ---
 title: "Tamamlanma Tehdidi Üzerine"
 date: 2026-06-14
+writer: "Han Kang"
+book: "Yunanca Dersleri"
 permalink: /blog/tamamlanma-tehdidi-uzerine/
 excerpt: "Birbirlerinin eksikliklerini tedavi etmezler; o eksikliğin üzerine bir sessizlik inşa ederler. Bu, sesin ve görüntünün bittiği o boşlukta, geriye kalan çıplak bağı tüm ağırlığıyla hissetmektir."
 tags:

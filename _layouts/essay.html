@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<main class="study" role="main" lang="{{ page.lang | default: 'tr' }}">
+  <article itemscope itemtype="http://schema.org/BlogPosting">
+    <header>
+      <h1 class="study__title" itemprop="headline">{{ page.title }}</h1>
+      <p class="study__meta">
+        <span><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%d.%m.%Y" }}</time></span>
+        {% if page.writer %}<span>{{ page.writer }}{% if page.book %}, <i>{{ page.book }}</i>{% endif %}</span>{% endif %}
+        {% assign words = content | strip_html | number_of_words %}
+        <span>{{ words | divided_by: site.words_per_minute | at_least: 1 }} dk</span>
+      </p>
+      {% if page.excerpt %}<p class="study__lead" itemprop="description">{{ page.excerpt | strip_html }}</p>{% endif %}
+    </header>
+
+    <div class="study__body" itemprop="articleBody">
+      {{ content }}
+    </div>
+
+    {% if page.tags.size > 0 %}
+      <p class="study__tags">{% for tag in page.tags %}<a href="{{ base_path }}/tags/#{{ tag | slugify }}">#{{ tag }}</a>{% endfor %}</p>
+    {% endif %}
+
+    <nav class="study__pager">
+      {% if page.previous %}<a href="{{ base_path }}{{ page.previous.url }}"><small>← ÖNCEKİ</small>{{ page.previous.title }}</a>{% endif %}
+      {% if page.next %}<a class="next" href="{{ base_path }}{{ page.next.url }}"><small>SONRAKİ →</small>{{ page.next.title }}</a>{% endif %}
+    </nav>
+  </article>
+</main>

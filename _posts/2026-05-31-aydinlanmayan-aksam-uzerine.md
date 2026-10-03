@@ -1,6 +1,8 @@
 ---
 title: "Aydınlanmayan Akşamlar Üzerine"
 date: 2026-05-31
+writer: "Jon Fosse"
+book: "Sabahtan Akşama"
 permalink: /blog/aydinlanmayan-aksamlar-uzerine/
 excerpt: "Fosse bizi en baştan itibaren çok şeffaf ve tehlikeli bir yalana ortak ediyor. Sabahtan Akşama metni üzerinden varoluşsal kayıtsızlık ve o kaçınılmaz akşama sessizce yürümek."
 tags:

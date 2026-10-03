@@ -183,7 +183,7 @@ body:hover .visually-hidden button {
 
 .social-icons {
   .fa {
-    color: #000;
+    color: var(--text-soft);
   }
 
   .fa-behance,
@@ -211,7 +211,7 @@ body:hover .visually-hidden button {
   .fa-github,
   .fa-github-alt,
   .fa-github-square {
-    color: $github-color;
+    color: var(--text);
   }
 
   .fa-google-plus,
@@ -437,12 +437,12 @@ body:hover .visually-hidden button {
    ========================================================================== */
 
 .footnote {
-  color: mix(#fff, $gray, 25%);
+  color: var(--muted);
   text-decoration: none;
 }
 
 .footnotes {
-  color: mix(#fff, $gray, 25%);
+  color: var(--muted);
 
   ol, li, p {
     margin-bottom: 0;

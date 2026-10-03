@@ -1,6 +1,8 @@
 ---
 title: "Çöl Üzerine"
 date: 2026-06-27
+writer: "Dino Buzzati"
+book: "Tatar Çölü"
 permalink: /blog/col-uzerine/
 excerpt: "Çölün vaat ettiği büyük günün bir gün geleceği inancı, insanı diri tutan bir umut değil; şimdiki zamanı feda etmeyi meşrulaştıran dondurucu bir afyondur."
 tags:

@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<main class="paper course" role="main">
+  <article itemscope itemtype="http://schema.org/Course">
+    <header>
+      <h1 class="paper__title" itemprop="name">{{ page.title }}</h1>
+      <p class="pubs__meta">
+        <span><a href="{{ base_path }}/teaching/">Course</a></span>
+        <span>{{ page.level }}</span>
+        <span>{{ page.term }}</span>
+        <span>{{ page.institution }}</span>
+      </p>
+      <p class="pub__venue">
+        <span>{{ page.role }}: Furkan Kınlı</span>
+        {% if page.status == "current" %}<span class="badge">Now teaching</span>{% endif %}
+      </p>
+      {% if page.links.size > 0 %}
+      <p class="paper__links">{% for l in page.links %}<a class="paper__btn" href="{{ l.url }}">{{ l.label }}</a>{% endfor %}</p>
+      {% endif %}
+    </header>
+
+    {% if page.ready %}
+    <div class="paper__content course__content" itemprop="description">
+      {{ content }}
+    </div>
+    {% else %}
+    <div class="construction">
+      <span class="recently__label">In preparation</span>
+      <p>The page for <strong>{{ page.title }}</strong> is being prepared. The syllabus, weekly schedule and course materials will appear here soon.</p>
+      <p>For questions about the course in the meantime, see <a href="{{ base_path }}/contact/">Contact</a>.</p>
+    </div>
+    {% endif %}
+
+    <p class="paper__back"><a href="{{ base_path }}/teaching/">← All courses</a></p>
+  </article>
+</main>
