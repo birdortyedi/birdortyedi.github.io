@@ -25,5 +25,11 @@ bibtex: |
   }
 ---
 
+![][arch]{: .img-rounded}
+
+*Our approach (team BAU-Vision): the MetaDC-INR framework, Figure 4 of the report.*
+
 ## Abstract
 This report is an overview of the NTIRE 2026 Photography Retouching Transfer Challenge. This competition is proposed to develop methods for transferring photography retouches applied to a reference image to advance reference-based image editing techniques. Participants are required to develop a method that learns and extracts the retouching applied to a reference, represented as an image before and after editing, and applies it to a new input while preserving image quality and fidelity. The challenge included a total of 76 participants with 7 submissions to the final test phase. Full-reference evaluation metrics were utilized as an initial ranking to identify the top methods, which are then included in a user study conducted by imaging experts to decide on the final ranking. This report describes the competition framework, the composition of the utilized datasets, the evaluation process, and the details of the top solutions. Top performing methods follow the same direction as the baseline by utilizing Implicit Neural Representation with test-time optimization, while adopting other techniques like meta-learning and iterative refinement for a more stable optimization and better generalizability. A comprehensive analysis of the challenge submissions is provided, highlighting the effectiveness and limitations of the proposed methods.
+
+[arch]: /images/publications/ntire26-retouching-arch.png

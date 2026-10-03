@@ -18,8 +18,12 @@ layout: default
     <header>
       <h1 class="paper__title" itemprop="headline">{{ page.title }}</h1>
       <p class="pubs__meta">
+        {% if page.type == "thesis" %}
+        <span><a href="{{ base_path }}/publications/#thesis">{{ page.short_venue }}</a></span>
+        {% else %}
         <span><a href="{{ base_path }}/publications/#{{ page.type }}">{{ type_name }}</a></span>
         <span>{{ page.short_venue }}</span>
+        {% endif %}
       </p>
       <p class="paper__authors">{{ page.authors }}</p>
       <p class="paper__venue">{{ page.venue }}</p>
@@ -29,6 +33,8 @@ layout: default
         {% if page.bibtex %}<a class="paper__btn" href="#bibtex" data-open-bibtex>BibTeX</a>{% endif %}
       </p>
     </header>
+
+    {% if page.slides %}{% include slider.html deck=page.slides %}{% endif %}
 
     <div class="paper__content" itemprop="text">
       {{ content }}

@@ -7,8 +7,6 @@ excerpt: ''
 date: 2026-04-19
 venue: 'NTIRE 2026: New Trends in Image Restoration and Enhancement workshop and challenges in conjunction with CVPR 2026'
 paperurl: 'https://arxiv.org/pdf/2604.17669'
-header:
-  teaser: publications/ntire26-lowlight-thumb.png
 type: challenge
 short_venue: "CVPRW 2026 · NTIRE"
 awards: ["1st, 3rd, 3rd & 5th places"]
@@ -24,5 +22,11 @@ bibtex: |
   }
 ---
 
+![][arch]{: .img-rounded}
+
+*Our approach (team BAU-Vision): the Wave-P architecture, Figure 4 of the report.*
+
 ## Abstract
 This paper presents a comprehensive review of the NTIRE 2026 Low Light Image Enhancement Challenge, highlighting the proposed solutions and final results. The objective of this challenge is to identify effective networks capable of producing clearer and visually compelling images in diverse and challenging conditions by learning representative visual cues with the purpose of restoring information loss due to low-contrast and noisy images. A total of 195 participants registered for the first track and 153 for the second track of the competition, and 22 teams ultimately submitted valid entries. This paper thoroughly evaluates the state-of-the-art advances in (joint denoising and) low-light image enhancement, showcasing the significant progress in the field, while leveraging samples of our novel dataset.
+
+[arch]: /images/publications/ntire26-lowlight-arch.png

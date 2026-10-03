@@ -1,0 +1,55 @@
+{% include base_path %}
+{% assign deck = site.data.slides[include.deck] %}
+<figure class="slider" aria-roledescription="carousel" aria-label="{{ deck.title }}">
+  <div class="slider__track" tabindex="0" aria-label="{{ deck.title }}: use the arrow keys to move between slides">
+    {% for s in deck.slides %}
+    <div class="slider__slide" role="group" aria-roledescription="slide" aria-label="{{ forloop.index }} of {{ deck.slides.size }}">
+      <img src="{{ base_path }}{{ s.src }}" alt="{{ s.alt | escape }}" width="1920" height="1080"{% unless forloop.first %} loading="lazy"{% endunless %} decoding="async">
+    </div>
+    {% endfor %}
+  </div>
+  <figcaption class="slider__bar">
+    <span class="slider__title">{{ deck.title }} · {{ deck.date }}</span>
+    <span class="slider__controls">
+      <button type="button" class="slider__btn" data-prev aria-label="Previous slide">←</button>
+      <span class="slider__count" aria-live="polite"><span data-current>1</span> / {{ deck.slides.size }}</span>
+      <button type="button" class="slider__btn" data-next aria-label="Next slide">→</button>
+      <button type="button" class="slider__btn" data-full aria-label="Fullscreen">fullscreen</button>
+    </span>
+  </figcaption>
+</figure>
+<script>
+  (function () {
+    var box = document.currentScript.previousElementSibling;
+    var track = box.querySelector('.slider__track');
+    var current = box.querySelector('[data-current]');
+    var count = track.children.length;
+    var target = null, settle;   // slide we're heading to, so quick repeated clicks add up
+    function index() { return Math.round(track.scrollLeft / track.clientWidth); }
+    function base() { return target === null ? index() : target; }
+    function go(i) {
+      target = Math.max(0, Math.min(count - 1, i));
+      current.textContent = target + 1;
+      track.scrollTo({ left: target * track.clientWidth, behavior: 'smooth' });
+      clearTimeout(settle);
+      settle = setTimeout(function () { target = null; }, 700);
+    }
+    track.addEventListener('scroll', function () { if (target === null) current.textContent = index() + 1; }, { passive: true });
+    box.querySelector('[data-prev]').addEventListener('click', function () { go(base() - 1); });
+    box.querySelector('[data-next]').addEventListener('click', function () { go(base() + 1); });
+    box.addEventListener('keydown', function (e) {
+      if (e.key === 'ArrowRight') { e.preventDefault(); go(base() + 1); }
+      if (e.key === 'ArrowLeft') { e.preventDefault(); go(base() - 1); }
+    });
+    var full = box.querySelector('[data-full]');
+    if (!box.requestFullscreen) { full.hidden = true; }
+    else full.addEventListener('click', function () {
+      if (document.fullscreenElement) document.exitFullscreen(); else box.requestFullscreen();
+    });
+    document.addEventListener('fullscreenchange', function () {
+      var i = Number(current.textContent) - 1;   // keep the same slide when the size changes
+      full.textContent = document.fullscreenElement === box ? 'exit' : 'fullscreen';
+      requestAnimationFrame(function () { track.scrollLeft = i * track.clientWidth; track.focus(); });
+    });
+  })();
+</script>

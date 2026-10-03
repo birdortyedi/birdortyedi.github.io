@@ -3,12 +3,13 @@ title: "Modeling the Lighting as Style Factor via Neural Networks for White Bala
 authors: "Osman Furkan Kınlı"
 collection: publications
 permalink: /publications/phd-thesis/
-excerpt: ''
+excerpt: 'This thesis explores White Balance (WB) correction by modeling lighting as a style factor through distribution-based approaches in both architectural design and optimization frameworks.'
 date: 2025-05-12
-venue: "Ph.D. Thesis, Özyeğin University"
+venue: "Doctor of Philosophy in Computer Science, Graduate School of Science and Engineering, Özyeğin University"
 paperurl: 'https://birdortyedi.github.io/files/phd-thesis.pdf'
 header:
   teaser: publications/phd-thesis-thumb.png
+slides: phd
 type: thesis
 short_venue: "PhD Thesis, Özyeğin University, 2025"
 links:
@@ -22,7 +23,8 @@ bibtex: |
     author={K{\i}nl{\i}, Osman Furkan},
     year={2025},
     month={may},
-    school={{\"O}zye{\u{g}}in University}
+    school={{\"O}zye{\u{g}}in University},
+    url={https://birdortyedi.github.io/files/phd-thesis.pdf}
   }
 ---
 

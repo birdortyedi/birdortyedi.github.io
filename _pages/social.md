@@ -64,6 +64,6 @@ For 2024, CROWN THE WITCH! (ps. [WITCH CROWNED THE MONARCH][WITCH CROWNED THE MO
 [alex]: https://birdortyedi.github.io/images/alex.jpg
 [WITCH CROWNED THE MONARCH]: https://x.com/birdortyedi/status/1789427853399888096
 [dissertate or suicide]: https://open.spotify.com/playlist/7HdMGKoxrkp5rAA3lL7HHA?si=bd18e97c2e254582
-[phd-thesis]: files/phd-thesis.pdf
+[phd-thesis]: /files/phd-thesis.pdf
 [bau]: https://bau.edu.tr/
 [bau-ai]: https://bau.edu.tr/content/16491-about-artificial-intelligence-engineering-department

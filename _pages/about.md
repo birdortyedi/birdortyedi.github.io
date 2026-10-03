@@ -35,7 +35,7 @@ redirect_from:
 
 [All news →](/news/)
 
-[me]: images/doomsdayblue.jpeg
+[me]: /images/doomsdayblue.jpeg
 [ozu-cs]: https://www.ozyegin.edu.tr/en/computer-science-department
 [ozu]: https://www.ozyegin.edu.tr/en/
 [fkirac]: https://scholar.google.com/citations?user=kdJBxv8AAAAJ

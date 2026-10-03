@@ -1,0 +1,224 @@
+# Defense slide decks shown as a slider on thesis pages (front matter: slides: phd | msc).
+# Images rendered from the PDFs at 1920x1080; per slide the smaller of lossless PNG / JPEG q95 4:4:4.
+
+phd:
+  title: "Ph.D. defense slides"
+  date: "May 12, 2025"
+  pdf: "/files/phd-def-slides.pdf"
+  slides:
+    - src: /files/slides/phd/01.png
+      alt: "Slide 1: Ph.D. Dissertation"
+    - src: /files/slides/phd/02.png
+      alt: "Slide 2: Acknowledgement"
+    - src: /files/slides/phd/03.png
+      alt: "Slide 3: Outline"
+    - src: /files/slides/phd/04.png
+      alt: "Slide 4: Research Idea"
+    - src: /files/slides/phd/05.jpg
+      alt: "Slide 5: Style Factors"
+    - src: /files/slides/phd/06.jpg
+      alt: "Slide 6: Style Factors"
+    - src: /files/slides/phd/07.png
+      alt: "Slide 7: (Deep) Feature Statistics"
+    - src: /files/slides/phd/08.png
+      alt: "Slide 8: (Deep) Feature Statistics"
+    - src: /files/slides/phd/09.png
+      alt: "Slide 9: (Deep) Feature Statistics"
+    - src: /files/slides/phd/10.png
+      alt: "Slide 10: Research Idea"
+    - src: /files/slides/phd/11.jpg
+      alt: "Slide 11: Foundational Study (IFRNet†)"
+    - src: /files/slides/phd/12.png
+      alt: "Slide 12: Research Idea"
+    - src: /files/slides/phd/13.jpg
+      alt: "Slide 13: White Balance Correction"
+    - src: /files/slides/phd/14.jpg
+      alt: "Slide 14: Motivation for WB Correction"
+    - src: /files/slides/phd/15.jpg
+      alt: "Slide 15: Motivation for WB Correction"
+    - src: /files/slides/phd/16.jpg
+      alt: "Slide 16: White Balance Correction"
+    - src: /files/slides/phd/17.png
+      alt: "Slide 17: Mid-break"
+    - src: /files/slides/phd/18.jpg
+      alt: "Slide 18: First Attack: Style WB"
+    - src: /files/slides/phd/19.jpg
+      alt: "Slide 19: First Attack: Style WB"
+    - src: /files/slides/phd/20.jpg
+      alt: "Slide 20: First Attack: Style WB"
+    - src: /files/slides/phd/21.jpg
+      alt: "Slide 21: First Attack: Style WB"
+    - src: /files/slides/phd/22.jpg
+      alt: "Slide 22: First Attack: Style WB"
+    - src: /files/slides/phd/23.jpg
+      alt: "Slide 23: From Alignment To Exact Matching: FDM WB"
+    - src: /files/slides/phd/24.jpg
+      alt: "Slide 24: From Alignment To Exact Matching: FDM WB"
+    - src: /files/slides/phd/25.jpg
+      alt: "Slide 25: From Alignment To Exact Matching: FDM WB"
+    - src: /files/slides/phd/26.jpg
+      alt: "Slide 26: From Alignment To Exact Matching: FDM WB"
+    - src: /files/slides/phd/27.jpg
+      alt: "Slide 27: From Alignment To Exact Matching: FDM WB"
+    - src: /files/slides/phd/28.jpg
+      alt: "Slide 28: From Alignment To Exact Matching: FDM WB"
+    - src: /files/slides/phd/29.png
+      alt: "Slide 29: From Alignment To Exact Matching: FDM WB"
+    - src: /files/slides/phd/30.png
+      alt: "Slide 30: Feature Distribution Statistics As Loss Objective: FDM Loss"
+    - src: /files/slides/phd/31.jpg
+      alt: "Slide 31: Feature Distribution Statistics As Loss Objective: FDM Loss"
+    - src: /files/slides/phd/32.png
+      alt: "Slide 32: Feature Distribution Statistics As Loss Objective: FDM Loss"
+    - src: /files/slides/phd/33.jpg
+      alt: "Slide 33: Feature Distribution Statistics As Loss Objective: FDM Loss"
+    - src: /files/slides/phd/34.jpg
+      alt: "Slide 34: Feature Distribution Statistics As Loss Objective: FDM Loss"
+    - src: /files/slides/phd/35.jpg
+      alt: "Slide 35: Feature Distribution Statistics As Loss Objective: FDM Loss"
+    - src: /files/slides/phd/36.jpg
+      alt: "Slide 36: Feature Distribution Statistics As Loss Objective: FDM Loss"
+    - src: /files/slides/phd/37.png
+      alt: "Slide 37: Feature Distribution Statistics As Loss Objective: FDM Loss"
+    - src: /files/slides/phd/38.jpg
+      alt: "Slide 38: Feature Distribution Statistics As Loss Objective: FDM Loss†"
+    - src: /files/slides/phd/39.png
+      alt: "Slide 39: Feature Distribution Statistics As Loss Objective: FDM Loss"
+    - src: /files/slides/phd/40.jpg
+      alt: "Slide 40: Feature Distribution Statistics As Loss Objective: FDM Loss"
+    - src: /files/slides/phd/41.jpg
+      alt: "Slide 41: Feature Distribution Statistics As Loss Objective: FDM Loss"
+    - src: /files/slides/phd/42.jpg
+      alt: "Slide 42: Feature Distribution Statistics As Loss Objective: FDM Loss"
+    - src: /files/slides/phd/43.jpg
+      alt: "Slide 43: Feature Distribution Statistics As Loss Objective: FDM Loss"
+    - src: /files/slides/phd/44.jpg
+      alt: "Slide 44: Feature Distribution Statistics As Loss Objective: FDM Loss"
+    - src: /files/slides/phd/45.jpg
+      alt: "Slide 45: Feature Distribution Statistics As Loss Objective: FDM Loss"
+    - src: /files/slides/phd/46.jpg
+      alt: "Slide 46: Applications & Extensions"
+    - src: /files/slides/phd/47.jpg
+      alt: "Slide 47: Applications & Extensions"
+    - src: /files/slides/phd/48.png
+      alt: "Slide 48: Conclusion"
+    - src: /files/slides/phd/49.jpg
+      alt: "Slide 49: Thank you!"
+
+msc:
+  title: "M.Sc. defense slides"
+  date: "August 19, 2019"
+  pdf: "/files/msc-def-slides.pdf"
+  slides:
+    - src: /files/slides/msc/01.png
+      alt: "Slide 1: Clothing Image Retrieval with Triplet Capsule"
+    - src: /files/slides/msc/02.png
+      alt: "Slide 2: Outline"
+    - src: /files/slides/msc/03.png
+      alt: "Slide 3: Introduction"
+    - src: /files/slides/msc/04.png
+      alt: "Slide 4: Introduction"
+    - src: /files/slides/msc/05.png
+      alt: "Slide 5: Introduction"
+    - src: /files/slides/msc/06.png
+      alt: "Slide 6: Introduction"
+    - src: /files/slides/msc/07.png
+      alt: "Slide 7: Clothing Image Retrieval"
+    - src: /files/slides/msc/08.png
+      alt: "Slide 8: Clothing Image Retrieval"
+    - src: /files/slides/msc/09.png
+      alt: "Slide 9: Clothing Image Retrieval"
+    - src: /files/slides/msc/10.png
+      alt: "Slide 10: Clothing Image Retrieval"
+    - src: /files/slides/msc/11.png
+      alt: "Slide 11: Clothing Image Retrieval"
+    - src: /files/slides/msc/12.png
+      alt: "Slide 12: Triplet-based Similarity Learning"
+    - src: /files/slides/msc/13.png
+      alt: "Slide 13: Triplet-based Similarity Learning"
+    - src: /files/slides/msc/14.png
+      alt: "Slide 14: Triplet-based Similarity Learning"
+    - src: /files/slides/msc/15.png
+      alt: "Slide 15: Triplet-based Similarity Learning"
+    - src: /files/slides/msc/16.png
+      alt: "Slide 16: Triplet-based Similarity Learning"
+    - src: /files/slides/msc/17.png
+      alt: "Slide 17: Triplet-based Similarity Learning"
+    - src: /files/slides/msc/18.png
+      alt: "Slide 18: Capsule Networks"
+    - src: /files/slides/msc/19.png
+      alt: "Slide 19: Capsule Networks"
+    - src: /files/slides/msc/20.png
+      alt: "Slide 20: Capsule Networks"
+    - src: /files/slides/msc/21.png
+      alt: "Slide 21: Capsule Networks"
+    - src: /files/slides/msc/22.png
+      alt: "Slide 22: Capsule Networks"
+    - src: /files/slides/msc/23.png
+      alt: "Slide 23: Capsule Networks"
+    - src: /files/slides/msc/24.png
+      alt: "Slide 24: Capsule Networks"
+    - src: /files/slides/msc/25.png
+      alt: "Slide 25: Capsule Networks"
+    - src: /files/slides/msc/26.png
+      alt: "Slide 26: Capsule Networks"
+    - src: /files/slides/msc/27.png
+      alt: "Slide 27: Capsule Networks"
+    - src: /files/slides/msc/28.png
+      alt: "Slide 28: Capsule Networks"
+    - src: /files/slides/msc/29.png
+      alt: "Slide 29: Capsule Networks"
+    - src: /files/slides/msc/30.png
+      alt: "Slide 30: Capsule Networks"
+    - src: /files/slides/msc/31.png
+      alt: "Slide 31: Proposed Architectures"
+    - src: /files/slides/msc/32.png
+      alt: "Slide 32: Proposed Architectures"
+    - src: /files/slides/msc/33.png
+      alt: "Slide 33: Proposed Architectures"
+    - src: /files/slides/msc/34.png
+      alt: "Slide 34: Proposed Architectures"
+    - src: /files/slides/msc/35.png
+      alt: "Slide 35: Proposed Architectures"
+    - src: /files/slides/msc/36.png
+      alt: "Slide 36: Proposed Architectures"
+    - src: /files/slides/msc/37.png
+      alt: "Slide 37: Experimental Study"
+    - src: /files/slides/msc/38.jpg
+      alt: "Slide 38: Experimental Study"
+    - src: /files/slides/msc/39.jpg
+      alt: "Slide 39: Experimental Study"
+    - src: /files/slides/msc/40.jpg
+      alt: "Slide 40: Experimental Study"
+    - src: /files/slides/msc/41.jpg
+      alt: "Slide 41: Results"
+    - src: /files/slides/msc/42.jpg
+      alt: "Slide 42: Results"
+    - src: /files/slides/msc/43.jpg
+      alt: "Slide 43: Results"
+    - src: /files/slides/msc/44.png
+      alt: "Slide 44: Results"
+    - src: /files/slides/msc/45.jpg
+      alt: "Slide 45: Results"
+    - src: /files/slides/msc/46.jpg
+      alt: "Slide 46: Results"
+    - src: /files/slides/msc/47.jpg
+      alt: "Slide 47: Results"
+    - src: /files/slides/msc/48.jpg
+      alt: "Slide 48: Results"
+    - src: /files/slides/msc/49.jpg
+      alt: "Slide 49: Results"
+    - src: /files/slides/msc/50.png
+      alt: "Slide 50: Results"
+    - src: /files/slides/msc/51.png
+      alt: "Slide 51: Conclusion"
+    - src: /files/slides/msc/52.png
+      alt: "Slide 52: Conclusion"
+    - src: /files/slides/msc/53.png
+      alt: "Slide 53: Conclusion"
+    - src: /files/slides/msc/54.png
+      alt: "Slide 54: References"
+    - src: /files/slides/msc/55.png
+      alt: "Slide 55: References"
+    - src: /files/slides/msc/56.png
+      alt: "Slide 56: Thank you!"
