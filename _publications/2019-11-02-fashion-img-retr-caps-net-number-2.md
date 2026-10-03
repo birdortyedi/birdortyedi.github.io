@@ -12,13 +12,16 @@ paperurl: 'http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Kinli_Fa
 citation: 'Kinli, F., Ozcan, B., & Kirac, F. (2019). Fashion image retrieval with capsule networks. In Proceedings of the IEEE/CVF international conference on computer vision workshops (pp. 0-0).'
 type: workshop
 short_venue: "ICCVW 2019 · CVFAD"
+poster:
+  pdf: "/files/iccvw19-fashion-retrieval-poster.pdf"
+  image: "/images/publications/iccvw19-fashion-retrieval-poster.jpg"
+  caption: "ICCV 2019 Workshops (CVFAD) poster."
+  wide: true
 links:
   - label: "Paper"
     url: "http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Kinli_Fashion_Image_Retrieval_with_Capsule_Networks_ICCVW_2019_paper.pdf"
   - label: "Code"
     url: "https://github.com/birdortyedi/image-retrieval-with-capsules"
-  - label: "Poster"
-    url: "https://birdortyedi.github.io/files/iccv_poster.pptx"
 bibtex: |
   @inproceedings{kinli2019fashion,
     title={Fashion image retrieval with capsule networks},
