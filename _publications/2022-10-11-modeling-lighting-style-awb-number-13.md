@@ -13,6 +13,10 @@ header:
 selected: true
 type: conference
 short_venue: "WACV 2023"
+poster:
+  pdf: "/files/wacv23-lighting-as-style-poster.pdf"
+  image: "/images/publications/wacv23-lighting-as-style-poster.jpg"
+  caption: "WACV 2023 poster."
 links:
   - label: "Paper"
     url: "https://openaccess.thecvf.com/content/WACV2023/papers/Kinli_Modeling_the_Lighting_in_Scenes_As_Style_for_Auto_White-Balance_WACV_2023_paper.pdf"

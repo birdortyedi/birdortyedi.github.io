@@ -14,6 +14,11 @@ selected: true
 type: workshop
 short_venue: "CVPRW 2022 · NTIRE"
 awards: ["Oral"]
+poster:
+  pdf: "/files/cvprw22-cifr-poster.pdf"
+  image: "/images/publications/cvprw22-cifr-poster.png"
+  caption: "CVPR 2022 Workshops (NTIRE) poster."
+  wide: true
 links:
   - label: "Paper"
     url: "https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Kinli_Patch-Wise_Contrastive_Style_Learning_for_Instagram_Filter_Removal_CVPRW_2022_paper.pdf"

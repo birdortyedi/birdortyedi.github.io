@@ -471,3 +471,22 @@
   .slider__track { flex: 1; background: #000; }
   .slider__slide { aspect-ratio: auto; height: 100%; }
 }
+
+/* poster preview on a paper page (front matter `poster:`): portrait posters narrower than the column */
+.paper__poster {
+  display: block;
+  max-width: 34rem;
+  margin: 0 auto;
+
+  img { margin-bottom: 0.6rem !important; }
+  &:hover img { border-color: var(--accent-soft); }
+
+  &--wide { max-width: none; }
+}
+
+.paper__poster-caption {
+  text-align: center;
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--muted);
+}

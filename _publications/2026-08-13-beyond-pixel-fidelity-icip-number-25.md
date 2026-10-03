@@ -13,6 +13,10 @@ header:
 selected: true
 type: conference
 short_venue: "ICIP 2026"
+poster:
+  pdf: "/files/icip26-beyond-pixel-fidelity-poster.pdf"
+  image: "/images/publications/icip26-beyond-pixel-fidelity-poster.png"
+  caption: "ICIP 2026 poster (#142)."
 links:
   - label: "Paper"
     url: "https://ieeexplore.ieee.org/abstract/document/11630277"

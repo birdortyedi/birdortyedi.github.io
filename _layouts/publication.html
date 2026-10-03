@@ -30,6 +30,7 @@ layout: default
       {% if page.awards %}<p class="pub__venue">{% for a in page.awards %}<span class="badge">{{ a }}</span>{% endfor %}</p>{% endif %}
       <p class="paper__links">
         {% for l in page.links %}<a class="paper__btn" href="{{ l.url }}">{{ l.label }}</a>{% endfor %}
+        {% if page.poster %}<a class="paper__btn" href="{{ base_path }}{{ page.poster.pdf }}">Poster</a>{% endif %}
         {% if page.bibtex %}<a class="paper__btn" href="#bibtex" data-open-bibtex>BibTeX</a>{% endif %}
       </p>
     </header>
@@ -39,6 +40,16 @@ layout: default
     <div class="paper__content" itemprop="text">
       {{ content }}
     </div>
+
+    {% if page.poster %}
+    <section class="paper__content">
+      <h2>Poster</h2>
+      <a class="paper__poster{% if page.poster.wide %} paper__poster--wide{% endif %}" href="{{ base_path }}{{ page.poster.pdf }}" title="Open the poster (PDF)">
+        <img src="{{ base_path }}{{ page.poster.image }}" alt="{{ page.poster.caption | strip_html | escape }}" loading="lazy">
+      </a>
+      <p class="paper__poster-caption">{{ page.poster.caption }} Click to open the full-resolution PDF.</p>
+    </section>
+    {% endif %}
 
     {% if page.bibtex %}
     <details class="paper__bibtex" id="bibtex">
