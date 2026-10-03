@@ -4,10 +4,10 @@ authors: "F. Kınlı"
 collection: publications
 permalink: /publications/beyond-pixel-fidelity/
 excerpt: ''
-date: 2026-04-30
-venue: 'IEEE International Conference on Image Processing (ICIP)'
-paperurl: 'https://arxiv.org/pdf/2604.28136'
-citation: 'Kınlı, F. Beyond Pixel Fidelity: Minimizing Perceptual Distortion and Color Bias in Night Photography Rendering. In Proceedings of the IEEE International Conference on Image Processing (ICIP), 2026.'
+date: 2026-08-13  # online in IEEE Xplore (ICIP 2026 proceedings); accepted 2026-04-30
+venue: '2026 IEEE International Conference on Image Processing (ICIP)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/11630277'
+citation: 'Kınlı, F. Beyond Pixel Fidelity: Minimizing Perceptual Distortion and Color Bias in Night Photography Rendering. In Proceedings of the 2026 IEEE International Conference on Image Processing (ICIP), pp. 1-6, 2026.'
 header:
   teaser: 'publications/beyond-pixel-fidelity-thumb.jpg'
 selected: true
@@ -15,13 +15,17 @@ type: conference
 short_venue: "ICIP 2026"
 links:
   - label: "Paper"
+    url: "https://ieeexplore.ieee.org/abstract/document/11630277"
+  - label: "arXiv"
     url: "https://arxiv.org/pdf/2604.28136"
 bibtex: |
   @inproceedings{kinli2026beyond,
     title={Beyond Pixel Fidelity: Minimizing Perceptual Distortion and Color Bias in Night Photography Rendering},
     author={K{\i}nl{\i}, Furkan},
-    booktitle={IEEE International Conference on Image Processing (ICIP)},
-    year={2026}
+    booktitle={2026 IEEE International Conference on Image Processing (ICIP)},
+    pages={1--6},
+    year={2026},
+    doi={10.1109/ICIP61757.2026.11630277}
   }
 ---
 

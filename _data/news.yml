@@ -1,8 +1,17 @@
 # News items, newest first. Shown on the home page (latest 6) and on /news/.
 # text is Markdown.
 
+- date: "August 10, 2026"
+  text: "The challenge report \"[NTIRE 2026 Low-light Enhancement: Twilight Cowboy Challenge](https://arxiv.org/abs/2608.09782)\" was released on arXiv, as part of [NTIRE2026: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing in conjunction with CVPR 2026](https://cvlai.net/ntire/2026/)."
+
+- date: "May 16, 2026"
+  text: "The challenge report \"[Photography Retouching Transfer, NTIRE 2026 Challenge: Report](https://openaccess.thecvf.com/content/CVPR2026W/NTIRE/papers/Elezabi_Photography_Retouching_Transfer_NTIRE_2026_Challenge_Report_CVPRW_2026_paper.pdf)\" was published in the proceedings of [NTIRE2026: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing in conjunction with CVPR 2026](https://cvlai.net/ntire/2026/)."
+
 - date: "April 30, 2026"
   text: "A paper titled \"[Beyond Pixel Fidelity: Minimizing Perceptual Distortion and Color Bias in Night Photography Rendering](https://arxiv.org/pdf/2604.28136)\" was accepted to [IEEE International Conference on Image Processing (ICIP) 2026](https://2026.ieeeicip.org/)."
+
+- date: "April 19, 2026"
+  text: "The challenge report \"[Low Light Image Enhancement Challenge at NTIRE 2026](https://arxiv.org/abs/2604.17669)\" was released on arXiv, as part of [NTIRE2026: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing in conjunction with CVPR 2026](https://cvlai.net/ntire/2026/)."
 
 - date: "April 8, 2026"
   text: "I take the **3rd place** in \"[Night Photography Rendering Challenge](https://nightimaging.org/)\" at [NTIRE2026: New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing in conjunction with CVPR 2026](https://cvlai.net/ntire/2026/)."
