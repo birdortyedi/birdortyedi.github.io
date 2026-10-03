@@ -7,6 +7,8 @@ excerpt: ''
 date: 2026-05-16
 venue: 'NTIRE 2026: New Trends in Image Restoration and Enhancement workshop and challenges in conjunction with CVPR 2026'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2026W/NTIRE/papers/Elezabi_Photography_Retouching_Transfer_NTIRE_2026_Challenge_Report_CVPRW_2026_paper.pdf'
+header:
+  teaser: publications/ntire26-retouching-thumb.jpg
 type: challenge
 short_venue: "CVPRW 2026 · NTIRE"
 awards: ["1st place"]

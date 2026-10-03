@@ -7,6 +7,8 @@ excerpt: ''
 date: 2025-05-12
 venue: "Ph.D. Thesis, Özyeğin University"
 paperurl: 'https://birdortyedi.github.io/files/phd-thesis.pdf'
+header:
+  teaser: publications/phd-thesis-thumb.png
 type: thesis
 short_venue: "PhD Thesis, Özyeğin University, 2025"
 links:

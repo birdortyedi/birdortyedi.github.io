@@ -7,6 +7,8 @@ excerpt: ''
 date: 2026-08-10
 venue: 'NTIRE 2026: New Trends in Image Restoration and Enhancement workshop and challenges in conjunction with CVPR 2026'
 paperurl: 'https://arxiv.org/pdf/2608.09782'
+header:
+  teaser: publications/ntire26-twilight-thumb.jpg
 type: challenge
 short_venue: "CVPRW 2026 · NTIRE"
 awards: ["3rd place"]
